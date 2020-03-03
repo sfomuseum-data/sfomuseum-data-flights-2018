@@ -1,0 +1,76 @@
+{
+  "id": 1679657647,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-07-06~",
+    "edtf:inception": "2018-07-06T19:56:45",
+    "flysfo:airline": "5Y",
+    "flysfo:date": "2018-07-06",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "5Y405",
+    "flysfo:journey": "SFO-CVG",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-84.657144,39.054422",
+    "geom:latitude": 38.336206000000004,
+    "geom:longitude": -103.5140435,
+    "iata:airline": "5Y",
+    "icao:aircraft": "B762",
+    "icao:airline": "GTI",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289953,
+    "sfomuseum:airline_id": 1159283935,
+    "sfomuseum:arrival_id": 102528187,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180706-D-GTI-405",
+    "sfomuseum:flight_number": [
+      "5Y405", 
+      "GTI405"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1679657647, 
+      85922583, 
+      1159157271, 
+      102527513, 
+      102191575, 
+      85633793, 
+      85688637, 
+      102087579
+    ],
+    "wof:country": "US",
+    "wof:created": 1583187877,
+    "wof:geomhash": "c97739d28e676f0ee62f6ec4585963c5",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679657647,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679657647,
+    "wof:lastmodified": 1583187877,
+    "wof:name": "GTI405 (SFO-CVG)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -84.657144, 
+    39.054422
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-84.657144,39.054422]],"type":"MultiPoint"}
+}

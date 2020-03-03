@@ -1,0 +1,76 @@
+{
+  "id": 1679684861,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-07-13~",
+    "edtf:inception": "2018-07-13T09:49:48",
+    "flysfo:airline": "WN",
+    "flysfo:date": "2018-07-13",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "WN2291",
+    "flysfo:journey": "SFO-STL",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-90.367632,38.743872",
+    "geom:latitude": 38.180931,
+    "geom:longitude": -106.3692875,
+    "iata:airline": "WN",
+    "icao:aircraft": "B738",
+    "icao:airline": "SWA",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289871,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102525961,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180713-D-SWA-2291",
+    "sfomuseum:flight_number": [
+      "WN2291", 
+      "SWA2291"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      102527513, 
+      1159157271, 
+      102191575, 
+      102087579, 
+      1679684861, 
+      85922583, 
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1583188066,
+    "wof:geomhash": "17371a5d27e54a99ca50752d2b6a5e79",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679684861,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679684861,
+    "wof:lastmodified": 1583188066,
+    "wof:name": "SWA2291 (SFO-STL)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -90.367632, 
+    38.743872
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-90.367632,38.743872]],"type":"MultiPoint"}
+}

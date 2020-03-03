@@ -1,0 +1,76 @@
+{
+  "id": 1695656179,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-09-12~",
+    "edtf:inception": "2018-09-12T08:04:44",
+    "flysfo:airline": "AS",
+    "flysfo:date": "2018-09-12",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS9514",
+    "flysfo:journey": "SFO-GSO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,36.110092,-79.933581,37.617990",
+    "geom:latitude": 36.864041,
+    "geom:longitude": -101.15226200000001,
+    "iata:airline": "AS",
+    "icao:aircraft": "A319",
+    "icao:airline": "ASA",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289407,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102527849,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180912-D-ASA-9514",
+    "sfomuseum:flight_number": [
+      "AS9514", 
+      "ASA9514"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85688637, 
+      102087579, 
+      85922583, 
+      1695656179, 
+      1159157271, 
+      102527513, 
+      102191575, 
+      85633793
+    ],
+    "wof:country": "US",
+    "wof:created": 1583189693,
+    "wof:geomhash": "258ecee7418d054b5d98211d885387d1",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1695656179,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1695656179,
+    "wof:lastmodified": 1583189693,
+    "wof:name": "ASA9514 (SFO-GSO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    36.110092, 
+    -79.933581, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-79.933581,36.110092]],"type":"MultiPoint"}
+}

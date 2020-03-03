@@ -1,0 +1,76 @@
+{
+  "id": 1662597431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-03-24~",
+    "edtf:inception": "2018-03-24T07:15:54",
+    "flysfo:airline": "FX",
+    "flysfo:date": "2018-03-24",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "FX641",
+    "flysfo:journey": "SFO-MEM",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.048890,-89.981998,37.617990",
+    "geom:latitude": 36.333439999999996,
+    "geom:longitude": -106.1764705,
+    "iata:airline": "FX",
+    "icao:aircraft": "B763",
+    "icao:airline": "FDX",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289965,
+    "sfomuseum:airline_id": 1159285989,
+    "sfomuseum:arrival_id": 102527185,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180324-D-FDX-641",
+    "sfomuseum:flight_number": [
+      "FX641", 
+      "FDX641"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102527513, 
+      1662597431, 
+      85922583, 
+      102191575, 
+      85633793, 
+      1159157271, 
+      102087579, 
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1583184624,
+    "wof:geomhash": "c0d6b7b15085f29a6d4be92b4dd147bf",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1662597431,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1662597431,
+    "wof:lastmodified": 1583184624,
+    "wof:name": "FDX641 (SFO-MEM)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    35.04889, 
+    -89.981998, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-89.981998,35.04889]],"type":"MultiPoint"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1678867413,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-02-08~",
+    "edtf:inception": "2018-02-08T20:47:28",
+    "flysfo:airline": "WN",
+    "flysfo:date": "2018-02-08",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "WN6172",
+    "flysfo:journey": "SFO-SAN",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,32.733534,-117.185927,37.617990",
+    "geom:latitude": 35.175762,
+    "geom:longitude": -119.778435,
+    "iata:airline": "WN",
+    "icao:aircraft": "B737",
+    "icao:airline": "SWA",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289869,
+    "sfomuseum:airline_id": 1159285591,
+    "sfomuseum:arrival_id": 102528997,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180208-D-SWA-6172",
+    "sfomuseum:flight_number": [
+      "WN6172", 
+      "SWA6172"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      1678867413, 
+      85922583, 
+      102087579, 
+      85688637, 
+      1159157271, 
+      102191575, 
+      102527513
+    ],
+    "wof:country": "US",
+    "wof:created": 1583183488,
+    "wof:geomhash": "25f5345529d944df781e36098260a435",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1678867413,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1678867413,
+    "wof:lastmodified": 1583183488,
+    "wof:name": "SWA6172 (SFO-SAN)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    32.733534, 
+    -117.185927, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}
+}

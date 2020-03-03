@@ -1,0 +1,76 @@
+{
+  "id": 1678947285,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-02-22~",
+    "edtf:inception": "2018-02-22T19:12:26",
+    "flysfo:airline": "FX",
+    "flysfo:date": "2018-02-22",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "FX1345",
+    "flysfo:journey": "SFO-MEM",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.048890,-89.981998,37.617990",
+    "geom:latitude": 36.333439999999996,
+    "geom:longitude": -106.1764705,
+    "iata:airline": "FX",
+    "icao:aircraft": "B763",
+    "icao:airline": "FDX",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289965,
+    "sfomuseum:airline_id": 1159285989,
+    "sfomuseum:arrival_id": 102527185,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180222-D-FDX-1345",
+    "sfomuseum:flight_number": [
+      "FX1345", 
+      "FDX1345"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1159157271, 
+      102527513, 
+      85633793, 
+      85688637, 
+      1678947285, 
+      85922583, 
+      102191575, 
+      102087579
+    ],
+    "wof:country": "US",
+    "wof:created": 1583183809,
+    "wof:geomhash": "c0d6b7b15085f29a6d4be92b4dd147bf",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1678947285,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1678947285,
+    "wof:lastmodified": 1583183809,
+    "wof:name": "FDX1345 (SFO-MEM)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    35.04889, 
+    -89.981998, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-89.981998,35.04889]],"type":"MultiPoint"}
+}

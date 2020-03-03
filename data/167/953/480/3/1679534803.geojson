@@ -1,0 +1,76 @@
+{
+  "id": 1679534803,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-06-05T11:49:22",
+    "edtf:inception": "2018-06-05~",
+    "flysfo:airline": "AM",
+    "flysfo:date": "2018-06-05",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "AM668",
+    "flysfo:journey": "MEX-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,19.431302,-99.080804,37.617990",
+    "geom:latitude": 28.524645999999997,
+    "geom:longitude": -110.7258735,
+    "iata:airline": "AM",
+    "icao:aircraft": "B738",
+    "icao:airline": "AMX",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289871,
+    "sfomuseum:airline_id": 1159283539,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102536579,
+    "sfomuseum:flight_id": "20180605-A-AMX-668",
+    "sfomuseum:flight_number": [
+      "AM668", 
+      "AMX668"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102087579, 
+      1679534803, 
+      85688637, 
+      102191575, 
+      85922583, 
+      85633793, 
+      1159157271, 
+      102527513
+    ],
+    "wof:country": "US",
+    "wof:created": 1583187073,
+    "wof:geomhash": "4224d1c4c9907a232ddfbf90e60373e4",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679534803,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679534803,
+    "wof:lastmodified": 1583187073,
+    "wof:name": "AMX668 (MEX-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    19.431302, 
+    -99.080804, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

@@ -1,0 +1,76 @@
+{
+  "id": 1695881155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-11-11~",
+    "edtf:inception": "2018-11-11T11:54:12",
+    "flysfo:airline": "NH",
+    "flysfo:date": "2018-11-11",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "NH7",
+    "flysfo:journey": "SFO-NRT",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.755744,140.395257,37.617990",
+    "geom:latitude": 36.686867,
+    "geom:longitude": 9.012156999999995,
+    "iata:airline": "NH",
+    "icao:aircraft": "B77W",
+    "icao:airline": "ANA",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289993,
+    "sfomuseum:airline_id": 1159285739,
+    "sfomuseum:arrival_id": 102541685,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20181111-D-ANA-7",
+    "sfomuseum:flight_number": [
+      "NH7", 
+      "ANA7"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      85633793, 
+      102191575, 
+      85922583, 
+      85688637, 
+      1695881155, 
+      1159157271, 
+      102527513, 
+      102087579
+    ],
+    "wof:country": "US",
+    "wof:created": 1583191301,
+    "wof:geomhash": "b0708fbc9882ec26729f19c3bf135279",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1695881155,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1695881155,
+    "wof:lastmodified": 1583191301,
+    "wof:name": "ANA7 (SFO-NRT)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    35.755744, 
+    140.395257, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[140.395257,35.755744]],"type":"MultiPoint"}
+}

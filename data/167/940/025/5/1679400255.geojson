@@ -1,0 +1,76 @@
+{
+  "id": 1679400255,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-04-30~",
+    "edtf:inception": "2018-04-30T23:55:53",
+    "flysfo:airline": "AS",
+    "flysfo:date": "2018-04-30",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "AS1106",
+    "flysfo:journey": "SFO-RDU",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,35.876323,-78.790399,37.617990",
+    "geom:latitude": 36.7471565,
+    "geom:longitude": -100.580671,
+    "iata:airline": "AS",
+    "icao:aircraft": "A320",
+    "icao:airline": "ASA",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159292085,
+    "sfomuseum:airline_id": 1159283813,
+    "sfomuseum:arrival_id": 102528779,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180430-D-ASA-1106",
+    "sfomuseum:flight_number": [
+      "AS1106", 
+      "ASA1106"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102527513, 
+      102191575, 
+      102087579, 
+      1159157271, 
+      85633793, 
+      1679400255, 
+      85922583, 
+      85688637
+    ],
+    "wof:country": "US",
+    "wof:created": 1583185671,
+    "wof:geomhash": "739cf7062aa24bbf1662c0bae366af8d",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679400255,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679400255,
+    "wof:lastmodified": 1583185671,
+    "wof:name": "ASA1106 (SFO-RDU)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    35.876323, 
+    -78.790399, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-78.790399,35.876323]],"type":"MultiPoint"}
+}

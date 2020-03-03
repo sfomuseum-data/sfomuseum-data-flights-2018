@@ -1,0 +1,76 @@
+{
+  "id": 1662978305,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-01-02T06:43:57",
+    "edtf:inception": "2018-01-02~",
+    "flysfo:airline": "VX",
+    "flysfo:date": "2018-01-02",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "VX1048",
+    "flysfo:journey": "OGG-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-156.437877,20.894952,-122.370943,37.617990",
+    "geom:latitude": 29.256470999999998,
+    "geom:longitude": -139.40440999999998,
+    "iata:airline": "VX",
+    "icao:aircraft": "A320",
+    "icao:airline": "VRD",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159292085,
+    "sfomuseum:airline_id": 1159285481,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102532929,
+    "sfomuseum:flight_id": "20180102-A-VRD-1048",
+    "sfomuseum:flight_number": [
+      "VX1048", 
+      "VRD1048"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      1159157271, 
+      1662978305, 
+      85922583, 
+      102527513, 
+      102191575, 
+      102087579, 
+      85688637, 
+      85633793
+    ],
+    "wof:country": "US",
+    "wof:created": 1583182874,
+    "wof:geomhash": "e4ae4c60ed0a76df38dbcfaaa5dd6a55",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1662978305,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1662978305,
+    "wof:lastmodified": 1583182874,
+    "wof:name": "VRD1048 (OGG-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -156.437877, 
+    20.894952, 
+    -122.370943, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

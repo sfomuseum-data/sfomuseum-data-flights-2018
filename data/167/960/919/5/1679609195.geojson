@@ -1,0 +1,76 @@
+{
+  "id": 1679609195,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-06-23T15:12:52",
+    "edtf:inception": "2018-06-23~",
+    "flysfo:airline": "DL",
+    "flysfo:date": "2018-06-23",
+    "flysfo:event": "A",
+    "flysfo:flight_number": "DL346",
+    "flysfo:journey": "MSP-SFO",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,37.617990,-93.200317,44.883321",
+    "geom:latitude": 41.2506555,
+    "geom:longitude": -107.78563,
+    "iata:airline": "DL",
+    "icao:aircraft": "B739",
+    "icao:airline": "DAL",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1377564285,
+    "sfomuseum:airline_id": 1159284261,
+    "sfomuseum:arrival_id": 102527513,
+    "sfomuseum:departure_id": 102531131,
+    "sfomuseum:flight_id": "20180623-A-DAL-346",
+    "sfomuseum:flight_number": [
+      "DL346", 
+      "DAL346"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102087579, 
+      85688637, 
+      1159157271, 
+      102527513, 
+      102191575, 
+      85633793, 
+      1679609195, 
+      85922583
+    ],
+    "wof:country": "US",
+    "wof:created": 1583187588,
+    "wof:geomhash": "0c6e1b69ec0e7e239d3f5365b057a47f",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679609195,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679609195,
+    "wof:lastmodified": 1583187588,
+    "wof:name": "DAL346 (MSP-SFO)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    37.61799, 
+    -93.200317, 
+    44.883321
+  ],
+  "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}
+}

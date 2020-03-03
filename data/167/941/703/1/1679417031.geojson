@@ -1,0 +1,76 @@
+{
+  "id": 1679417031,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation": "2018-05-05~",
+    "edtf:inception": "2018-05-05T11:03:36",
+    "flysfo:airline": "UA",
+    "flysfo:date": "2018-05-05",
+    "flysfo:event": "D",
+    "flysfo:flight_number": "UA1424",
+    "flysfo:journey": "SFO-PSP",
+    "geom:area": 0,
+    "geom:bbox": "-122.370943,33.824619,-116.506042,37.617990",
+    "geom:latitude": 35.7213045,
+    "geom:longitude": -119.4384925,
+    "iata:airline": "UA",
+    "icao:aircraft": "A319",
+    "icao:airline": "UAL",
+    "mz:is_current": -1,
+    "sfomuseum:aircraft_id": 1159289407,
+    "sfomuseum:airline_id": 1159285413,
+    "sfomuseum:arrival_id": 102533591,
+    "sfomuseum:departure_id": 102527513,
+    "sfomuseum:flight_id": "20180505-D-UAL-1424",
+    "sfomuseum:flight_number": [
+      "UA1424", 
+      "UAL1424"
+    ],
+    "sfomuseum:placetype": "flight",
+    "src:geom": "sfonoise",
+    "wof:belongsto": [
+      102191575, 
+      102087579, 
+      1679417031, 
+      85922583, 
+      85688637, 
+      1159157271, 
+      102527513, 
+      85633793
+    ],
+    "wof:country": "US",
+    "wof:created": 1583186028,
+    "wof:geomhash": "e84c3ec216fbaf9440bbf99d412a1253",
+    "wof:hierarchy": [
+      {
+        "building_id": 1159157271,
+        "campus_id": 102527513,
+        "concourse_id": -1,
+        "continent_id": 102191575,
+        "country_id": 85633793,
+        "county_id": 102087579,
+        "event_id": 1679417031,
+        "locality_id": 85922583,
+        "neighbourhood_id": -1,
+        "region_id": 85688637,
+        "venue_id": -1,
+        "wing_id": -1
+      }
+    ],
+    "wof:id": 1679417031,
+    "wof:lastmodified": 1583186028,
+    "wof:name": "UAL1424 (SFO-PSP)",
+    "wof:parent_id": -1,
+    "wof:placetype": "event",
+    "wof:repo": "sfomuseum-data-flights-2018",
+    "wof:superseded_by": [],
+    "wof:supersedes": []
+  },
+  "bbox": [
+    -122.370943, 
+    33.824619, 
+    -116.506042, 
+    37.61799
+  ],
+  "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}
+}
