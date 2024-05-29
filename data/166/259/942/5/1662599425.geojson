@@ -2,6 +2,10 @@
   "id": 1662599425,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-29",
+    "date:cessation_upper": "2018-03-29",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-29T15:34:33",
     "edtf:inception": "2018-03-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525961,
     "sfomuseum:flight_id": "20180329-A-SWA-1109",
     "sfomuseum:flight_number": [
-      "WN1109", 
+      "WN1109",
       "SWA1109"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      85688637, 
-      1662599425, 
-      85633793, 
+      102191575,
+      102087579,
+      1159157271,
+      102527513,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662599425,
-    "wof:lastmodified": 1583184774,
+    "wof:lastmodified": 1717024481,
     "wof:name": "SWA1109 (STL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -90.367632, 
+    -122.370943,
+    37.61799,
+    -90.367632,
     38.743872
   ],
   "geometry": {"coordinates":[[-90.367632,38.743872],[-122.370943,37.61799]],"type":"MultiPoint"}

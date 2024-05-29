@@ -2,6 +2,10 @@
   "id": 1679011351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-04",
+    "date:cessation_upper": "2018-03-04",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-04T14:45:44",
     "edtf:inception": "2018-03-04~",
     "flysfo:airline": "OO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530081,
     "sfomuseum:flight_id": "20180304-A-SKW-5110",
     "sfomuseum:flight_number": [
-      "OO5110", 
+      "OO5110",
       "SKW5110"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102087579, 
-      102191575, 
-      1679011351, 
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
+      102087579,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679011351,
-    "wof:lastmodified": 1583184049,
+    "wof:lastmodified": 1717024485,
     "wof:name": "SKW5110 (OTH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -124.24373, 
-    37.61799, 
-    -122.370943, 
+    -124.24373,
+    37.61799,
+    -122.370943,
     43.41706
   ],
   "geometry": {"coordinates":[[-124.24373,43.41706],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662617175,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-15",
+    "date:cessation_upper": "2018-05-15",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-15T19:11:26",
     "edtf:inception": "2018-05-15~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180515-A-SWA-1244",
     "sfomuseum:flight_number": [
-      "WN1244", 
+      "WN1244",
       "SWA1244"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      102527513, 
-      85633793, 
-      1662617175, 
-      1159157271, 
-      85922583, 
+      102191575,
+      102087579,
+      102527513,
+      85633793,
+      1159157271,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662617175,
-    "wof:lastmodified": 1583186559,
+    "wof:lastmodified": 1717024453,
     "wof:name": "SWA1244 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662666189,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-17",
+    "date:cessation_upper": "2018-09-17",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-17T15:47:51",
     "edtf:inception": "2018-09-17~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20180917-A-DAL-1241",
     "sfomuseum:flight_number": [
-      "DL1241", 
+      "DL1241",
       "DAL1241"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1662666189, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
+      102191575,
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662666189,
-    "wof:lastmodified": 1583189831,
+    "wof:lastmodified": 1717024473,
     "wof:name": "DAL1241 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

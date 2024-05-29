@@ -2,6 +2,10 @@
   "id": 1679443811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-12",
+    "date:inception_upper": "2018-05-12",
     "edtf:cessation": "2018-05-12~",
     "edtf:inception": "2018-05-12T10:22:40",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180512-D-ASA-1390",
     "sfomuseum:flight_number": [
-      "AS1390", 
+      "AS1390",
       "ASA1390"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      102191575, 
-      102527513, 
-      85688637, 
-      1679443811
+      85633793,
+      102087579,
+      1159157271,
+      85922583,
+      102191575,
+      102527513,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583186481,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679443811,
-    "wof:lastmodified": 1583186481,
+    "wof:lastmodified": 1717024501,
     "wof:name": "ASA1390 (SFO-MSY)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.982609, 
-    -90.261832, 
+    -122.370943,
+    29.982609,
+    -90.261832,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-90.261832,29.982609]],"type":"MultiPoint"}

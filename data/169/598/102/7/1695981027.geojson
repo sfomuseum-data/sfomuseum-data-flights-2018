@@ -2,6 +2,10 @@
   "id": 1695981027,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-29",
+    "date:cessation_upper": "2018-12-29",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-29T12:28:47",
     "edtf:inception": "2018-12-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20181229-A-SWA-3919",
     "sfomuseum:flight_number": [
-      "WN3919", 
+      "WN3919",
       "SWA3919"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      1695981027, 
-      102527513, 
-      102087579, 
-      85688637, 
-      102191575, 
+      85922583,
+      1159157271,
+      102527513,
+      102087579,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695981027,
-    "wof:lastmodified": 1583192609,
+    "wof:lastmodified": 1717024471,
     "wof:name": "SWA3919 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

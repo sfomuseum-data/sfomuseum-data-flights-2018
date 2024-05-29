@@ -2,6 +2,10 @@
   "id": 1662676907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-15",
+    "date:inception_upper": "2018-10-15",
     "edtf:cessation": "2018-10-15~",
     "edtf:inception": "2018-10-15T20:05:12",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181015-D-AAL-1037",
     "sfomuseum:flight_number": [
-      "AA1037", 
+      "AA1037",
       "AAL1037"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1662676907, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662676907,
-    "wof:lastmodified": 1583190593,
+    "wof:lastmodified": 1717024482,
     "wof:name": "AAL1037 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

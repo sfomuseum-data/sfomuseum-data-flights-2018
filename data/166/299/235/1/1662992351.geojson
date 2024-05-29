@@ -2,6 +2,10 @@
   "id": 1662992351,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-05",
+    "date:cessation_upper": "2018-01-05",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-05T21:06:23",
     "edtf:inception": "2018-01-05~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180105-A-SWA-6335",
     "sfomuseum:flight_number": [
-      "WN6335", 
+      "WN6335",
       "SWA6335"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      102527513, 
-      1662992351, 
-      102191575, 
-      85633793, 
-      85688637, 
+      102087579,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662992351,
-    "wof:lastmodified": 1583182935,
+    "wof:lastmodified": 1717024485,
     "wof:name": "SWA6335 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679596643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-20",
+    "date:cessation_upper": "2018-06-20",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-20T15:04:48",
     "edtf:inception": "2018-06-20~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20180620-A-DAL-430",
     "sfomuseum:flight_number": [
-      "DL430", 
+      "DL430",
       "DAL430"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679596643, 
-      1159157271, 
-      102527513, 
-      85688637, 
-      102087579, 
-      85633793, 
+      102191575,
+      1159157271,
+      102527513,
+      85688637,
+      102087579,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679596643,
-    "wof:lastmodified": 1583187502,
+    "wof:lastmodified": 1717024508,
     "wof:name": "DAL430 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679465829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-18",
+    "date:inception_upper": "2018-05-18",
     "edtf:cessation": "2018-05-18~",
     "edtf:inception": "2018-05-18T07:55:27",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180518-D-AAL-310",
     "sfomuseum:flight_number": [
-      "AA310", 
+      "AA310",
       "AAL310"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1679465829, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      102191575, 
+      85922583,
+      85688637,
+      102087579,
+      1159157271,
+      102527513,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679465829,
-    "wof:lastmodified": 1583186612,
+    "wof:lastmodified": 1717024503,
     "wof:name": "AAL310 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695982403,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-30",
+    "date:inception_upper": "2018-12-30",
     "edtf:cessation": "2018-12-30~",
     "edtf:inception": "2018-12-30T08:52:41",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181230-D-SWA-1087",
     "sfomuseum:flight_number": [
-      "WN1087", 
+      "WN1087",
       "SWA1087"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1695982403, 
-      85922583, 
-      102191575, 
-      1159157271, 
-      85688637, 
-      102527513, 
+      102087579,
+      85922583,
+      102191575,
+      1159157271,
+      85688637,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695982403,
-    "wof:lastmodified": 1583192630,
+    "wof:lastmodified": 1717024472,
     "wof:name": "SWA1087 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

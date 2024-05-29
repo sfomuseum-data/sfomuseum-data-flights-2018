@@ -2,6 +2,10 @@
   "id": 1679627887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-01",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-28",
+    "date:inception_upper": "2018-06-28",
     "edtf:cessation": "2018-06-28~",
     "edtf:inception": "2018-06-28T18:43:03",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180628-D-UAL-2367",
     "sfomuseum:flight_number": [
-      "UA2367", 
+      "UA2367",
       "UAL2367"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1679627887, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      85633793, 
+      102527513,
+      102087579,
+      85688637,
+      1159157271,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679627887,
-    "wof:lastmodified": 1583187700,
+    "wof:lastmodified": 1717024511,
     "wof:name": "UAL2367 (SFO-MCI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -94.716176, 
+    -122.370943,
+    37.61799,
+    -94.716176,
     39.304107
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-94.716176,39.304107]],"type":"MultiPoint"}

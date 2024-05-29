@@ -2,6 +2,10 @@
   "id": 1695969697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-23",
+    "date:cessation_upper": "2018-12-23",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-23T07:24:57",
     "edtf:inception": "2018-12-23~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20181223-A-UAL-728",
     "sfomuseum:flight_number": [
-      "UA728", 
+      "UA728",
       "UAL728"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1695969697
+      102191575,
+      1159157271,
+      85633793,
+      85922583,
+      85688637,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583192431,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695969697,
-    "wof:lastmodified": 1583192431,
+    "wof:lastmodified": 1717024478,
     "wof:name": "UAL728 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

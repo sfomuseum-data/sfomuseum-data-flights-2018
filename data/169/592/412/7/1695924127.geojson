@@ -2,6 +2,10 @@
   "id": 1695924127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-27",
+    "date:inception_upper": "2018-11-27",
     "edtf:cessation": "2018-11-27~",
     "edtf:inception": "2018-11-27T07:05:39",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181127-D-DAL-2462",
     "sfomuseum:flight_number": [
-      "DL2462", 
+      "DL2462",
       "DAL2462"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1695924127, 
-      102087579, 
-      1159157271, 
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695924127,
-    "wof:lastmodified": 1583191730,
+    "wof:lastmodified": 1717024470,
     "wof:name": "DAL2462 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

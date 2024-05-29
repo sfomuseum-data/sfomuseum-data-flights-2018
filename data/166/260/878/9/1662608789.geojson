@@ -2,6 +2,10 @@
   "id": 1662608789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-23",
+    "date:cessation_upper": "2018-04-23",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-23T19:58:41",
     "edtf:inception": "2018-04-23~",
     "flysfo:airline": "OO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20180423-A-SKW-5440",
     "sfomuseum:flight_number": [
-      "OO5440", 
+      "OO5440",
       "SKW5440"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1662608789, 
-      85922583, 
+      102087579,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662608789,
-    "wof:lastmodified": 1583185365,
+    "wof:lastmodified": 1717024481,
     "wof:name": "SKW5440 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

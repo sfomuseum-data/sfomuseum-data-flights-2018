@@ -2,6 +2,10 @@
   "id": 1678883467,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-11",
+    "date:cessation_upper": "2018-02-11",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-11T18:34:26",
     "edtf:inception": "2018-02-11~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180211-A-SWA-2075",
     "sfomuseum:flight_number": [
-      "WN2075", 
+      "WN2075",
       "SWA2075"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1678883467, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      85688637, 
+      102087579,
+      102527513,
+      102191575,
+      85633793,
+      1159157271,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678883467,
-    "wof:lastmodified": 1583183548,
+    "wof:lastmodified": 1717024467,
     "wof:name": "SWA2075 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

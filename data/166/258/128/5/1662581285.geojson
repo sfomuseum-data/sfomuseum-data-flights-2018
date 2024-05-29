@@ -2,6 +2,10 @@
   "id": 1662581285,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-05",
+    "date:inception_upper": "2018-02-05",
     "edtf:cessation": "2018-02-05~",
     "edtf:inception": "2018-02-05T13:11:59",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180205-D-JBU-516",
     "sfomuseum:flight_number": [
-      "B6516", 
+      "B6516",
       "JBU516"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102087579, 
-      1662581285, 
-      85922583, 
-      85688637, 
-      102527513, 
+      85633793,
+      1159157271,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662581285,
-    "wof:lastmodified": 1583183422,
+    "wof:lastmodified": 1717024477,
     "wof:name": "JBU516 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

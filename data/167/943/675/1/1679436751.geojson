@@ -2,6 +2,10 @@
   "id": 1679436751,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-10",
+    "date:inception_upper": "2018-05-10",
     "edtf:cessation": "2018-05-10~",
     "edtf:inception": "2018-05-10T14:14:20",
     "flysfo:airline": "MU",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180510-D-CES-768",
     "sfomuseum:flight_number": [
-      "MU768", 
+      "MU768",
       "CES768"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1679436751, 
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679436751,
-    "wof:lastmodified": 1583186374,
+    "wof:lastmodified": 1717024501,
     "wof:name": "CES768 (SFO-TAO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.266102, 
-    120.374001, 
+    -122.370943,
+    36.266102,
+    120.374001,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[120.374001,36.266102]],"type":"MultiPoint"}

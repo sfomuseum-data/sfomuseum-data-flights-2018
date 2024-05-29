@@ -2,6 +2,10 @@
   "id": 1695945261,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-09",
+    "date:cessation_upper": "2018-12-09",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-09T12:51:14",
     "edtf:inception": "2018-12-09~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20181209-A-SWA-4325",
     "sfomuseum:flight_number": [
-      "WN4325", 
+      "WN4325",
       "SWA4325"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1695945261, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159157271, 
+      85633793,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695945261,
-    "wof:lastmodified": 1583192049,
+    "wof:lastmodified": 1717024472,
     "wof:name": "SWA4325 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

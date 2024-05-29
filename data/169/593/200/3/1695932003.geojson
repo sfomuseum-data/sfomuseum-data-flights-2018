@@ -2,6 +2,10 @@
   "id": 1695932003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-01",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-01T18:40:27",
     "edtf:inception": "2018-12-01~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527849,
     "sfomuseum:flight_id": "20181201-A-ASA-9531",
     "sfomuseum:flight_number": [
-      "AS9531", 
+      "AS9531",
       "ASA9531"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102087579, 
-      1695932003, 
-      102191575, 
-      85688637, 
-      1159157271, 
+      85922583,
+      85633793,
+      102087579,
+      102191575,
+      85688637,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695932003,
-    "wof:lastmodified": 1583191847,
+    "wof:lastmodified": 1717024468,
     "wof:name": "ASA9531 (GSO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.110092, 
-    -79.933581, 
+    -122.370943,
+    36.110092,
+    -79.933581,
     37.61799
   ],
   "geometry": {"coordinates":[[-79.933581,36.110092],[-122.370943,37.61799]],"type":"MultiPoint"}

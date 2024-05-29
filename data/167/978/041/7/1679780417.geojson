@@ -2,6 +2,10 @@
   "id": 1679780417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-05",
+    "date:inception_upper": "2018-08-05",
     "edtf:cessation": "2018-08-05~",
     "edtf:inception": "2018-08-05T16:34:49",
     "flysfo:airline": "KL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180805-D-KLM-76U",
     "sfomuseum:flight_number": [
-      "KL76U", 
+      "KL76U",
       "KLM76U"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      1679780417, 
-      85922583, 
-      102191575, 
-      85688637, 
-      85633793, 
+      102087579,
+      102527513,
+      85922583,
+      102191575,
+      85688637,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679780417,
-    "wof:lastmodified": 1583188717,
+    "wof:lastmodified": 1717024516,
     "wof:name": "KLM76U (SFO-AMS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    4.782907, 
+    -122.370943,
+    37.61799,
+    4.782907,
     52.314791
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[4.782907,52.314791]],"type":"MultiPoint"}

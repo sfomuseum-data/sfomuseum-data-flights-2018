@@ -2,6 +2,10 @@
   "id": 1663004229,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-09",
+    "date:inception_upper": "2018-01-09",
     "edtf:cessation": "2018-01-09~",
     "edtf:inception": "2018-01-09T08:51:13",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180109-D-VRD-1126",
     "sfomuseum:flight_number": [
-      "VX1126", 
+      "VX1126",
       "VRD1126"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1663004229, 
-      1159157271, 
-      102527513, 
+      102191575,
+      85922583,
+      85688637,
+      85633793,
+      1159157271,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663004229,
-    "wof:lastmodified": 1583182987,
+    "wof:lastmodified": 1717024485,
     "wof:name": "VRD1126 (SFO-BWI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-76.67107,39.181319]],"type":"MultiPoint"}

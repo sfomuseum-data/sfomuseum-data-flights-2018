@@ -2,6 +2,10 @@
   "id": 1662631309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-20",
+    "date:cessation_upper": "2018-06-20",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-20T22:23:16",
     "edtf:inception": "2018-06-20~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20180620-A-DAL-408",
     "sfomuseum:flight_number": [
-      "DL408", 
+      "DL408",
       "DAL408"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85633793, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      1662631309, 
+      102527513,
+      85922583,
+      85633793,
+      1159157271,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662631309,
-    "wof:lastmodified": 1583187513,
+    "wof:lastmodified": 1717024458,
     "wof:name": "DAL408 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

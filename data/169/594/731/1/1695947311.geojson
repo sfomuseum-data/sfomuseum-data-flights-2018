@@ -2,6 +2,10 @@
   "id": 1695947311,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-10",
+    "date:inception_upper": "2018-12-10",
     "edtf:cessation": "2018-12-10~",
     "edtf:inception": "2018-12-10T15:42:57",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181210-D-UAL-264K",
     "sfomuseum:flight_number": [
-      "UA264K", 
+      "UA264K",
       "UAL264K"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102527513, 
-      1695947311, 
-      85922583, 
-      85633793, 
-      85688637, 
+      1159157271,
+      102191575,
+      102527513,
+      85922583,
+      85633793,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695947311,
-    "wof:lastmodified": 1583192081,
+    "wof:lastmodified": 1717024473,
     "wof:name": "UAL264K (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

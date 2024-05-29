@@ -2,6 +2,10 @@
   "id": 1663005197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-09",
+    "date:cessation_upper": "2018-01-09",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-09T13:38:11",
     "edtf:inception": "2018-01-09~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180109-A-ASA-387",
     "sfomuseum:flight_number": [
-      "AS387", 
+      "AS387",
       "ASA387"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1663005197
+      102527513,
+      102087579,
+      85922583,
+      1159157271,
+      102191575,
+      85633793,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583182992,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663005197,
-    "wof:lastmodified": 1583182992,
+    "wof:lastmodified": 1717024486,
     "wof:name": "ASA387 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

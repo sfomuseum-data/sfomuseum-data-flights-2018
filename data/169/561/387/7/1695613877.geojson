@@ -2,6 +2,10 @@
   "id": 1695613877,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-31",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-31T11:40:32",
     "edtf:inception": "2018-08-31~",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180831-A-KAL-8213",
     "sfomuseum:flight_number": [
-      "KE8213", 
+      "KE8213",
       "KAL8213"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1695613877, 
-      1159157271, 
-      102191575, 
-      85922583, 
-      85688637, 
-      102527513, 
+      102087579,
+      1159157271,
+      102191575,
+      85922583,
+      85688637,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695613877,
-    "wof:lastmodified": 1583189410,
+    "wof:lastmodified": 1717024451,
     "wof:name": "KAL8213 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

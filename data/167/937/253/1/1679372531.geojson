@@ -2,6 +2,10 @@
   "id": 1679372531,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-23",
+    "date:cessation_upper": "2018-04-23",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-23T17:28:52",
     "edtf:inception": "2018-04-23~",
     "flysfo:airline": "WW",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102553077,
     "sfomuseum:flight_id": "20180423-A-WOW-6DX",
     "sfomuseum:flight_number": [
-      "WW6DX", 
+      "WW6DX",
       "WOW6DX"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      1679372531, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      85688637, 
+      102087579,
+      102191575,
+      1159157271,
+      85633793,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679372531,
-    "wof:lastmodified": 1583185361,
+    "wof:lastmodified": 1717024496,
     "wof:name": "WOW6DX (KEF-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -22.585315, 
+    -122.370943,
+    37.61799,
+    -22.585315,
     63.983414
   ],
   "geometry": {"coordinates":[[-22.585315,63.983414],[-122.370943,37.61799]],"type":"MultiPoint"}

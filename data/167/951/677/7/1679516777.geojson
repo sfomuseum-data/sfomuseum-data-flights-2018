@@ -2,6 +2,10 @@
   "id": 1679516777,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-31",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-31T18:23:19",
     "edtf:inception": "2018-05-31~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20180531-A-UAL-1919",
     "sfomuseum:flight_number": [
-      "UA1919", 
+      "UA1919",
       "UAL1919"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1679516777, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
+      102191575,
+      85633793,
+      85688637,
+      102527513,
+      102087579,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679516777,
-    "wof:lastmodified": 1583186950,
+    "wof:lastmodified": 1717024503,
     "wof:name": "UAL1919 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

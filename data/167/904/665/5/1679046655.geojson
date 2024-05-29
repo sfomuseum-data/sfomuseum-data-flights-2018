@@ -2,6 +2,10 @@
   "id": 1679046655,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-09",
+    "date:cessation_upper": "2018-03-09",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-09T12:26:31",
     "edtf:inception": "2018-03-09~",
     "flysfo:airline": "AC",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102554351,
     "sfomuseum:flight_id": "20180309-A-ACA-761",
     "sfomuseum:flight_number": [
-      "AC761", 
+      "AC761",
       "ACA761"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1679046655
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583184185,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679046655,
-    "wof:lastmodified": 1583184185,
+    "wof:lastmodified": 1717024487,
     "wof:name": "ACA761 (YUL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.744749, 
+    -122.370943,
+    37.61799,
+    -73.744749,
     45.462004
   ],
   "geometry": {"coordinates":[[-73.744749,45.462004],[-122.370943,37.61799]],"type":"MultiPoint"}

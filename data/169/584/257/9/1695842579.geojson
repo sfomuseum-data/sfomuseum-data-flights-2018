@@ -2,6 +2,10 @@
   "id": 1695842579,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-31",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-31T16:46:02",
     "edtf:inception": "2018-10-31~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20181031-A-SWA-297",
     "sfomuseum:flight_number": [
-      "WN297", 
+      "WN297",
       "SWA297"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1695842579, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695842579,
-    "wof:lastmodified": 1583191032,
+    "wof:lastmodified": 1717024463,
     "wof:name": "SWA297 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679475343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-20",
+    "date:inception_upper": "2018-05-20",
     "edtf:cessation": "2018-05-20~",
     "edtf:inception": "2018-05-20T20:28:04",
     "flysfo:airline": "SY",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180520-D-SCX-396",
     "sfomuseum:flight_number": [
-      "SY396", 
+      "SY396",
       "SCX396"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      1679475343
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      1159157271,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583186676,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679475343,
-    "wof:lastmodified": 1583186676,
+    "wof:lastmodified": 1717024502,
     "wof:name": "SCX396 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

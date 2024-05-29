@@ -2,6 +2,10 @@
   "id": 1679421617,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-06",
+    "date:cessation_upper": "2018-05-06",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-06T16:18:32",
     "edtf:inception": "2018-05-06~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20180506-A-AAL-2352",
     "sfomuseum:flight_number": [
-      "AA2352", 
+      "AA2352",
       "AAL2352"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      1679421617, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      102191575, 
+      85922583,
+      85688637,
+      85633793,
+      1159157271,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679421617,
-    "wof:lastmodified": 1583186087,
+    "wof:lastmodified": 1717024497,
     "wof:name": "AAL2352 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

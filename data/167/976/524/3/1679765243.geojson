@@ -2,6 +2,10 @@
   "id": 1679765243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-01",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-01T22:36:04",
     "edtf:inception": "2018-08-01~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20180801-A-DAL-646",
     "sfomuseum:flight_number": [
-      "DL646", 
+      "DL646",
       "DAL646"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1679765243, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159157271, 
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679765243,
-    "wof:lastmodified": 1583188612,
+    "wof:lastmodified": 1717024518,
     "wof:name": "DAL646 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

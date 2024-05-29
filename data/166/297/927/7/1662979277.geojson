@@ -2,6 +2,10 @@
   "id": 1662979277,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-02",
+    "date:cessation_upper": "2018-01-02",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-02T11:17:34",
     "edtf:inception": "2018-01-02~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20180102-A-UAL-698",
     "sfomuseum:flight_number": [
-      "UA698", 
+      "UA698",
       "UAL698"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1662979277, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      85633793, 
-      85922583, 
+      102191575,
+      1159157271,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662979277,
-    "wof:lastmodified": 1583182878,
+    "wof:lastmodified": 1717024483,
     "wof:name": "UAL698 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

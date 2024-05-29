@@ -2,6 +2,10 @@
   "id": 1679571553,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-14",
+    "date:cessation_upper": "2018-06-14",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-14T12:27:25",
     "edtf:inception": "2018-06-14~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180614-A-ASA-1927",
     "sfomuseum:flight_number": [
-      "AS1927", 
+      "AS1927",
       "ASA1927"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
-      1679571553, 
-      85633793, 
-      1159157271, 
+      85688637,
+      102527513,
+      102087579,
+      85922583,
+      85633793,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679571553,
-    "wof:lastmodified": 1583187326,
+    "wof:lastmodified": 1717024505,
     "wof:name": "ASA1927 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

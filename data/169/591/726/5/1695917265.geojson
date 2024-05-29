@@ -2,6 +2,10 @@
   "id": 1695917265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-22",
+    "date:cessation_upper": "2018-11-22",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-22T22:32:11",
     "edtf:inception": "2018-11-22~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532939,
     "sfomuseum:flight_id": "20181122-A-ASA-759",
     "sfomuseum:flight_number": [
-      "AS759", 
+      "AS759",
       "ASA759"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      1695917265, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
+      85633793,
+      102527513,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695917265,
-    "wof:lastmodified": 1583191633,
+    "wof:lastmodified": 1717024471,
     "wof:name": "ASA759 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.03506, 
-    19.732444, 
-    -122.370943, 
+    -156.03506,
+    19.732444,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-156.03506,19.732444],[-122.370943,37.61799]],"type":"MultiPoint"}

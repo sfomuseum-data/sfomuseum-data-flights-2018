@@ -2,6 +2,10 @@
   "id": 1662525399,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-07",
+    "date:cessation_upper": "2018-07-07",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-07T22:14:23",
     "edtf:inception": "2018-07-07~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525635,
     "sfomuseum:flight_id": "20180707-A-DAL-1880",
     "sfomuseum:flight_number": [
-      "DL1880", 
+      "DL1880",
       "DAL1880"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1662525399, 
-      85688637, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662525399,
-    "wof:lastmodified": 1583187907,
+    "wof:lastmodified": 1717024454,
     "wof:name": "DAL1880 (DTW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-83.351709,42.21886],[-122.370943,37.61799]],"type":"MultiPoint"}

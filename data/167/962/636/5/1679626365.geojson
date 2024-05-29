@@ -2,6 +2,10 @@
   "id": 1679626365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-28",
+    "date:cessation_upper": "2018-06-28",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-28T11:49:36",
     "edtf:inception": "2018-06-28~",
     "flysfo:airline": "CZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550529,
     "sfomuseum:flight_id": "20180628-A-CSN-659",
     "sfomuseum:flight_number": [
-      "CZ659", 
+      "CZ659",
       "CSN659"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      1679626365, 
-      102087579, 
+      102191575,
+      85633793,
+      85688637,
+      1159157271,
+      102527513,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679626365,
-    "wof:lastmodified": 1583187691,
+    "wof:lastmodified": 1717024510,
     "wof:name": "CSN659 (WUH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.7838, 
-    114.208, 
+    -122.370943,
+    30.7838,
+    114.208,
     37.61799
   ],
   "geometry": {"coordinates":[[114.208,30.7838],[-122.370943,37.61799]],"type":"MultiPoint"}

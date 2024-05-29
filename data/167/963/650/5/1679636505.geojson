@@ -2,6 +2,10 @@
   "id": 1679636505,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-30",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-30T19:44:02",
     "edtf:inception": "2018-06-30~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20180630-A-DAL-2917",
     "sfomuseum:flight_number": [
-      "DL2917", 
+      "DL2917",
       "DAL2917"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679636505, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
+      85922583,
+      1159157271,
+      85633793,
+      102087579,
+      102527513,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679636505,
-    "wof:lastmodified": 1583187749,
+    "wof:lastmodified": 1717024511,
     "wof:name": "DAL2917 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

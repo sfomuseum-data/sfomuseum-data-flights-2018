@@ -2,6 +2,10 @@
   "id": 1679397045,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-30",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-30~",
     "edtf:inception": "2018-04-30T08:40:15",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180430-D-UAL-233",
     "sfomuseum:flight_number": [
-      "UA233", 
+      "UA233",
       "UAL233"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      1679397045, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679397045,
-    "wof:lastmodified": 1583185612,
+    "wof:lastmodified": 1717024499,
     "wof:name": "UAL233 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

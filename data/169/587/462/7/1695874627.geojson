@@ -2,6 +2,10 @@
   "id": 1695874627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-09",
+    "date:cessation_upper": "2018-11-09",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-09T13:41:44",
     "edtf:inception": "2018-11-09~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20181109-A-ASA-1957",
     "sfomuseum:flight_number": [
-      "AS1957", 
+      "AS1957",
       "ASA1957"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102087579, 
-      85688637, 
-      85922583, 
-      102527513, 
-      85633793, 
-      1695874627
+      1159157271,
+      102191575,
+      102087579,
+      85688637,
+      85922583,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583191251,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695874627,
-    "wof:lastmodified": 1583191251,
+    "wof:lastmodified": 1717024467,
     "wof:name": "ASA1957 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

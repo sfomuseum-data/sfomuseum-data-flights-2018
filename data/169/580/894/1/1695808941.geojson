@@ -2,6 +2,10 @@
   "id": 1695808941,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-22",
+    "date:cessation_upper": "2018-10-22",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-22T17:21:57",
     "edtf:inception": "2018-10-22~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20181022-A-AAL-2639",
     "sfomuseum:flight_number": [
-      "AA2639", 
+      "AA2639",
       "AAL2639"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1695808941, 
+      1159157271,
+      85633793,
+      102527513,
+      102087579,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695808941,
-    "wof:lastmodified": 1583190798,
+    "wof:lastmodified": 1717024465,
     "wof:name": "AAL2639 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679013241,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-04",
+    "date:cessation_upper": "2018-03-04",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-04T19:39:03",
     "edtf:inception": "2018-03-04~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20180304-A-AAL-1056",
     "sfomuseum:flight_number": [
-      "AA1056", 
+      "AA1056",
       "AAL1056"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159157271, 
-      85633793, 
-      1679013241, 
-      85922583, 
-      85688637, 
-      102191575, 
+      102527513,
+      1159157271,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679013241,
-    "wof:lastmodified": 1583184055,
+    "wof:lastmodified": 1717024485,
     "wof:name": "AAL1056 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

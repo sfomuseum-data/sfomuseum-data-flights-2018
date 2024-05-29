@@ -2,6 +2,10 @@
   "id": 1679339789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-14",
+    "date:cessation_upper": "2018-04-14",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-14T21:22:20",
     "edtf:inception": "2018-04-14~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20180414-A-SWA-4262",
     "sfomuseum:flight_number": [
-      "WN4262", 
+      "WN4262",
       "SWA4262"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1679339789
+      85688637,
+      1159157271,
+      85633793,
+      102527513,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583185078,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679339789,
-    "wof:lastmodified": 1583185078,
+    "wof:lastmodified": 1717024497,
     "wof:name": "SWA4262 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

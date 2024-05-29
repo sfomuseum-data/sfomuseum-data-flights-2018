@@ -2,6 +2,10 @@
   "id": 1679472975,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-20",
+    "date:inception_upper": "2018-05-20",
     "edtf:cessation": "2018-05-20~",
     "edtf:inception": "2018-05-20T08:03:05",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180520-D-UAL-1904",
     "sfomuseum:flight_number": [
-      "UA1904", 
+      "UA1904",
       "UAL1904"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      85688637, 
-      102087579, 
-      102191575, 
-      85633793, 
-      102527513, 
-      1679472975
+      1159157271,
+      85922583,
+      85688637,
+      102087579,
+      102191575,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583186659,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679472975,
-    "wof:lastmodified": 1583186659,
+    "wof:lastmodified": 1717024501,
     "wof:name": "UAL1904 (SFO-MSY)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.982609, 
-    -90.261832, 
+    -122.370943,
+    29.982609,
+    -90.261832,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-90.261832,29.982609]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679578589,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-01",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-16",
+    "date:inception_upper": "2018-06-16",
     "edtf:cessation": "2018-06-16~",
     "edtf:inception": "2018-06-16T06:33:45",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180616-D-UAL-734",
     "sfomuseum:flight_number": [
-      "UA734", 
+      "UA734",
       "UAL734"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159157271, 
-      1679578589
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583187374,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679578589,
-    "wof:lastmodified": 1583187374,
+    "wof:lastmodified": 1717024509,
     "wof:name": "UAL734 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695847757,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-02",
+    "date:cessation_upper": "2018-11-02",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-02T06:44:52",
     "edtf:inception": "2018-11-02~",
     "flysfo:airline": "AI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555709,
     "sfomuseum:flight_id": "20181102-A-AIC-173",
     "sfomuseum:flight_number": [
-      "AI173", 
+      "AI173",
       "AIC173"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1695847757, 
-      1159157271, 
+      85633793,
+      102527513,
+      85688637,
+      85922583,
+      102087579,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695847757,
-    "wof:lastmodified": 1583191066,
+    "wof:lastmodified": 1717024465,
     "wof:name": "AIC173 (DEL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.561954, 
-    77.098117, 
+    -122.370943,
+    28.561954,
+    77.098117,
     37.61799
   ],
   "geometry": {"coordinates":[[77.098117,28.561954],[-122.370943,37.61799]],"type":"MultiPoint"}

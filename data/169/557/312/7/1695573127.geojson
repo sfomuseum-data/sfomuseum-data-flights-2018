@@ -2,6 +2,10 @@
   "id": 1695573127,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-21",
+    "date:inception_upper": "2018-08-21",
     "edtf:cessation": "2018-08-21~",
     "edtf:inception": "2018-08-21T09:41:34",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180821-D-UAL-2063",
     "sfomuseum:flight_number": [
-      "UA2063", 
+      "UA2063",
       "UAL2063"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102087579, 
-      85688637, 
-      102191575, 
-      1695573127, 
-      102527513, 
+      85922583,
+      1159157271,
+      102087579,
+      85688637,
+      102191575,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695573127,
-    "wof:lastmodified": 1583189137,
+    "wof:lastmodified": 1717024451,
     "wof:name": "UAL2063 (SFO-BWI)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -76.67107, 
+    -122.370943,
+    37.61799,
+    -76.67107,
     39.181319
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-76.67107,39.181319]],"type":"MultiPoint"}

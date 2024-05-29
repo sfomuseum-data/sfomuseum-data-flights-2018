@@ -2,6 +2,10 @@
   "id": 1679228881,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-02",
+    "date:inception_upper": "2018-04-02",
     "edtf:cessation": "2018-04-02~",
     "edtf:inception": "2018-04-02T10:49:04",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180402-D-ASA-1136",
     "sfomuseum:flight_number": [
-      "AS1136", 
+      "AS1136",
       "ASA1136"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679228881, 
-      102527513, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102191575, 
-      102087579, 
+      102527513,
+      85922583,
+      85688637,
+      85633793,
+      102191575,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679228881,
-    "wof:lastmodified": 1583184840,
+    "wof:lastmodified": 1717024494,
     "wof:name": "ASA1136 (SFO-PHL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-75.247885,39.880952]],"type":"MultiPoint"}

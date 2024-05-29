@@ -2,6 +2,10 @@
   "id": 1662621101,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-26",
+    "date:inception_upper": "2018-05-26",
     "edtf:cessation": "2018-05-26~",
     "edtf:inception": "2018-05-26T07:39:20",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180526-D-UAL-504",
     "sfomuseum:flight_number": [
-      "UA504", 
+      "UA504",
       "UAL504"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1662621101, 
-      85922583, 
-      85633793, 
+      1159157271,
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662621101,
-    "wof:lastmodified": 1583186813,
+    "wof:lastmodified": 1717024454,
     "wof:name": "UAL504 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

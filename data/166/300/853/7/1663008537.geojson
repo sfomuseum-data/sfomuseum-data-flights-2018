@@ -2,6 +2,10 @@
   "id": 1663008537,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-10",
+    "date:cessation_upper": "2018-01-10",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-10T13:48:39",
     "edtf:inception": "2018-01-10~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20180110-A-VRD-1271",
     "sfomuseum:flight_number": [
-      "VX1271", 
+      "VX1271",
       "VRD1271"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1663008537, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85688637, 
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      102191575,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663008537,
-    "wof:lastmodified": 1583183006,
+    "wof:lastmodified": 1717024487,
     "wof:name": "VRD1271 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

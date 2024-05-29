@@ -2,6 +2,10 @@
   "id": 1695661903,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-13",
+    "date:inception_upper": "2018-09-13",
     "edtf:cessation": "2018-09-13~",
     "edtf:inception": "2018-09-13T14:54:59",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180913-D-SWA-1839",
     "sfomuseum:flight_number": [
-      "WN1839", 
+      "WN1839",
       "SWA1839"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695661903, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85633793, 
-      85922583, 
+      102087579,
+      102527513,
+      102191575,
+      85688637,
+      85633793,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695661903,
-    "wof:lastmodified": 1583189731,
+    "wof:lastmodified": 1717024454,
     "wof:name": "SWA1839 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

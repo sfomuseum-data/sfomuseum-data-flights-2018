@@ -2,6 +2,10 @@
   "id": 1695798453,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-19",
+    "date:cessation_upper": "2018-10-19",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-19T20:14:59",
     "edtf:inception": "2018-10-19~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20181019-A-DAL-273",
     "sfomuseum:flight_number": [
-      "DL273", 
+      "DL273",
       "DAL273"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695798453, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      102087579, 
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695798453,
-    "wof:lastmodified": 1583190709,
+    "wof:lastmodified": 1717024465,
     "wof:name": "DAL273 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679753831,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-29",
+    "date:cessation_upper": "2018-07-29",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-29T22:18:41",
     "edtf:inception": "2018-07-29~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20180729-A-AAL-526",
     "sfomuseum:flight_number": [
-      "AA526", 
+      "AA526",
       "AAL526"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1679753831
+      102191575,
+      1159157271,
+      102527513,
+      85922583,
+      85633793,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583188540,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679753831,
-    "wof:lastmodified": 1583188540,
+    "wof:lastmodified": 1717024517,
     "wof:name": "AAL526 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

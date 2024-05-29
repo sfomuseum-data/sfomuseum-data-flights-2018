@@ -2,6 +2,10 @@
   "id": 1662643253,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-21",
+    "date:cessation_upper": "2018-07-21",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-21T09:53:02",
     "edtf:inception": "2018-07-21~",
     "flysfo:airline": "QF",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102557783,
     "sfomuseum:flight_id": "20180721-A-QFA-73",
     "sfomuseum:flight_number": [
-      "QF73", 
+      "QF73",
       "QFA73"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      1662643253
+      102087579,
+      85922583,
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583188305,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662643253,
-    "wof:lastmodified": 1583188305,
+    "wof:lastmodified": 1717024464,
     "wof:name": "QFA73 (SYD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    -33.934928, 
-    151.173388, 
+    -122.370943,
+    -33.934928,
+    151.173388,
     37.61799
   ],
   "geometry": {"coordinates":[[151.173388,-33.934928],[-122.370943,37.61799]],"type":"MultiPoint"}

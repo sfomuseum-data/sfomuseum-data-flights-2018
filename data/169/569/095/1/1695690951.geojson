@@ -2,6 +2,10 @@
   "id": 1695690951,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-21",
+    "date:cessation_upper": "2018-09-21",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-21T13:19:48",
     "edtf:inception": "2018-09-21~",
     "flysfo:airline": "VS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556861,
     "sfomuseum:flight_id": "20180921-A-VIR-125",
     "sfomuseum:flight_number": [
-      "VS125", 
+      "VS125",
       "VIR125"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695690951, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1159157271, 
-      102191575, 
+      102527513,
+      85922583,
+      85688637,
+      102087579,
+      1159157271,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695690951,
-    "wof:lastmodified": 1583189935,
+    "wof:lastmodified": 1717024454,
     "wof:name": "VIR125 (MAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -2.337608, 
+    -122.370943,
+    37.61799,
+    -2.337608,
     53.411253
   ],
   "geometry": {"coordinates":[[-2.337608,53.411253],[-122.370943,37.61799]],"type":"MultiPoint"}

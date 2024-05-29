@@ -2,6 +2,10 @@
   "id": 1679223439,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-01",
     "edtf:cessation": "2018-04-01~",
     "edtf:inception": "2018-04-01T16:55:09",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180401-D-DAL-658",
     "sfomuseum:flight_number": [
-      "DL658", 
+      "DL658",
       "DAL658"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85922583, 
-      85688637, 
-      1679223439
+      1159157271,
+      102527513,
+      85633793,
+      102087579,
+      102191575,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583184828,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679223439,
-    "wof:lastmodified": 1583184828,
+    "wof:lastmodified": 1717024493,
     "wof:name": "DAL658 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

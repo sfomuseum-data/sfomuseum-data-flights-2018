@@ -2,6 +2,10 @@
   "id": 1695668141,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-15",
+    "date:cessation_upper": "2018-09-15",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-15T09:35:10",
     "edtf:inception": "2018-09-15~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20180915-A-AAL-1880",
     "sfomuseum:flight_number": [
-      "AA1880", 
+      "AA1880",
       "AAL1880"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102191575, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1695668141, 
+      85922583,
+      1159157271,
+      102191575,
+      85688637,
+      102527513,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695668141,
-    "wof:lastmodified": 1583189774,
+    "wof:lastmodified": 1717024457,
     "wof:name": "AAL1880 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

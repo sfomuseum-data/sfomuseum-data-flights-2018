@@ -2,6 +2,10 @@
   "id": 1679397611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-30",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-30~",
     "edtf:inception": "2018-04-30T11:22:28",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180430-D-UAL-2266",
     "sfomuseum:flight_number": [
-      "UA2266", 
+      "UA2266",
       "UAL2266"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679397611, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
+      1159157271,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679397611,
-    "wof:lastmodified": 1583185619,
+    "wof:lastmodified": 1717024499,
     "wof:name": "UAL2266 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303, 
-    37.61799, 
-    -122.370943, 
+    -123.21303,
+    37.61799,
+    -122.370943,
     44.119058
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.21303,44.119058]],"type":"MultiPoint"}

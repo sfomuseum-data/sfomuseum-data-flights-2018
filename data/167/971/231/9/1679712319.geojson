@@ -2,6 +2,10 @@
   "id": 1679712319,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-19",
+    "date:cessation_upper": "2018-07-19",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-19T21:11:15",
     "edtf:inception": "2018-07-19~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180719-A-UAL-2114",
     "sfomuseum:flight_number": [
-      "UA2114", 
+      "UA2114",
       "UAL2114"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1679712319, 
-      102191575, 
-      1159157271, 
-      85688637, 
-      102527513, 
+      85922583,
+      85633793,
+      102191575,
+      1159157271,
+      85688637,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679712319,
-    "wof:lastmodified": 1583188262,
+    "wof:lastmodified": 1717024511,
     "wof:name": "UAL2114 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

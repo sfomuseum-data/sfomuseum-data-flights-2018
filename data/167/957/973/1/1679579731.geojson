@@ -2,6 +2,10 @@
   "id": 1679579731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-16",
+    "date:cessation_upper": "2018-06-16",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-16T11:48:05",
     "edtf:inception": "2018-06-16~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533575,
     "sfomuseum:flight_id": "20180616-A-UAL-607",
     "sfomuseum:flight_number": [
-      "UA607", 
+      "UA607",
       "UAL607"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      85922583, 
-      102191575, 
-      1679579731, 
-      1159157271, 
-      85688637, 
+      102087579,
+      85633793,
+      85922583,
+      102191575,
+      1159157271,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679579731,
-    "wof:lastmodified": 1583187383,
+    "wof:lastmodified": 1717024510,
     "wof:name": "UAL607 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.059934, 
-    -117.587749, 
+    -122.370943,
+    34.059934,
+    -117.587749,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.587749,34.059934],[-122.370943,37.61799]],"type":"MultiPoint"}

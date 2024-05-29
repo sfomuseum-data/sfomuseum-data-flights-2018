@@ -2,6 +2,10 @@
   "id": 1695926747,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-28",
+    "date:cessation_upper": "2018-11-28",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-28T17:08:02",
     "edtf:inception": "2018-11-28~",
     "flysfo:airline": "IB",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102545733,
     "sfomuseum:flight_id": "20181128-A-IBE-2621",
     "sfomuseum:flight_number": [
-      "IB2621", 
+      "IB2621",
       "IBE2621"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      1159157271, 
-      85922583, 
-      1695926747, 
-      102527513, 
-      85633793, 
+      85688637,
+      102191575,
+      1159157271,
+      85922583,
+      102527513,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695926747,
-    "wof:lastmodified": 1583191769,
+    "wof:lastmodified": 1717024472,
     "wof:name": "IBE2621 (BCN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    2.081322, 
+    -122.370943,
+    37.61799,
+    2.081322,
     41.296019
   ],
   "geometry": {"coordinates":[[2.081322,41.296019],[-122.370943,37.61799]],"type":"MultiPoint"}

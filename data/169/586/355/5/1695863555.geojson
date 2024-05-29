@@ -2,6 +2,10 @@
   "id": 1695863555,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-06",
+    "date:inception_upper": "2018-11-06",
     "edtf:cessation": "2018-11-06~",
     "edtf:inception": "2018-11-06T13:13:10",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181106-D-UAL-2244",
     "sfomuseum:flight_number": [
-      "UA2244", 
+      "UA2244",
       "UAL2244"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1695863555
+      85922583,
+      102527513,
+      102087579,
+      1159157271,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583191171,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695863555,
-    "wof:lastmodified": 1583191171,
+    "wof:lastmodified": 1717024465,
     "wof:name": "UAL2244 (SFO-FLL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.138518,26.07486]],"type":"MultiPoint"}

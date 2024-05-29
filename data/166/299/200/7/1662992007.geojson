@@ -2,6 +2,10 @@
   "id": 1662992007,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-05",
+    "date:inception_upper": "2018-01-05",
     "edtf:cessation": "2018-01-05~",
     "edtf:inception": "2018-01-05T19:05:21",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180105-D-DAL-2040",
     "sfomuseum:flight_number": [
-      "DL2040", 
+      "DL2040",
       "DAL2040"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1662992007, 
-      102527513, 
-      85633793, 
+      1159157271,
+      102191575,
+      102087579,
+      85688637,
+      102527513,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662992007,
-    "wof:lastmodified": 1583182934,
+    "wof:lastmodified": 1717024484,
     "wof:name": "DAL2040 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

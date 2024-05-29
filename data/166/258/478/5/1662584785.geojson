@@ -2,6 +2,10 @@
   "id": 1662584785,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-15",
+    "date:cessation_upper": "2018-02-15",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-15T23:05:54",
     "edtf:inception": "2018-02-15~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20180215-A-ASA-1050",
     "sfomuseum:flight_number": [
-      "AS1050", 
+      "AS1050",
       "ASA1050"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662584785, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      85633793, 
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662584785,
-    "wof:lastmodified": 1583183645,
+    "wof:lastmodified": 1717024478,
     "wof:name": "ASA1050 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

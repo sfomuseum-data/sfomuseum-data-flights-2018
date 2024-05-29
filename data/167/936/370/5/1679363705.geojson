@@ -2,6 +2,10 @@
   "id": 1679363705,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-21",
+    "date:cessation_upper": "2018-04-21",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-21T10:00:13",
     "edtf:inception": "2018-04-21~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20180421-A-UAL-838",
     "sfomuseum:flight_number": [
-      "UA838", 
+      "UA838",
       "UAL838"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1679363705, 
-      85688637, 
-      102527513, 
+      1159157271,
+      85922583,
+      102191575,
+      102087579,
+      85688637,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679363705,
-    "wof:lastmodified": 1583185270,
+    "wof:lastmodified": 1717024496,
     "wof:name": "UAL838 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

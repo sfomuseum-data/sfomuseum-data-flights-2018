@@ -2,6 +2,10 @@
   "id": 1678985815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-28",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-28T20:03:04",
     "edtf:inception": "2018-02-28~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20180228-A-DAL-1505",
     "sfomuseum:flight_number": [
-      "DL1505", 
+      "DL1505",
       "DAL1505"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1678985815
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583183956,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678985815,
-    "wof:lastmodified": 1583183956,
+    "wof:lastmodified": 1717024484,
     "wof:name": "DAL1505 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695790487,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-17",
+    "date:inception_upper": "2018-10-17",
     "edtf:cessation": "2018-10-17~",
     "edtf:inception": "2018-10-17T19:05:08",
     "flysfo:airline": "FX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181017-D-FDX-1345",
     "sfomuseum:flight_number": [
-      "FX1345", 
+      "FX1345",
       "FDX1345"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1695790487, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
+      85633793,
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695790487,
-    "wof:lastmodified": 1583190650,
+    "wof:lastmodified": 1717024461,
     "wof:name": "FDX1345 (SFO-MEM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-89.981998,35.04889]],"type":"MultiPoint"}

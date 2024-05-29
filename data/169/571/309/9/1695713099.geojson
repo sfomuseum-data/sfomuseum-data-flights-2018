@@ -2,6 +2,10 @@
   "id": 1695713099,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-27",
+    "date:cessation_upper": "2018-09-27",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-27T10:53:58",
     "edtf:inception": "2018-09-27~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20180927-A-SWA-5979",
     "sfomuseum:flight_number": [
-      "WN5979", 
+      "WN5979",
       "SWA5979"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695713099, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      102191575, 
+      85922583,
+      85688637,
+      85633793,
+      1159157271,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695713099,
-    "wof:lastmodified": 1583190093,
+    "wof:lastmodified": 1717024458,
     "wof:name": "SWA5979 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

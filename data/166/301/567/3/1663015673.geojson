@@ -2,6 +2,10 @@
   "id": 1663015673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-12",
+    "date:inception_upper": "2018-01-12",
     "edtf:cessation": "2018-01-12~",
     "edtf:inception": "2018-01-12T15:19:12",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180112-D-UAL-497",
     "sfomuseum:flight_number": [
-      "UA497", 
+      "UA497",
       "UAL497"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1663015673
+      85688637,
+      1159157271,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583183038,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663015673,
-    "wof:lastmodified": 1583183038,
+    "wof:lastmodified": 1717024485,
     "wof:name": "UAL497 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

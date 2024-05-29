@@ -2,6 +2,10 @@
   "id": 1695932653,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-02",
+    "date:inception_upper": "2018-12-02",
     "edtf:cessation": "2018-12-02~",
     "edtf:inception": "2018-12-02T09:05:01",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181202-D-UAL-1761",
     "sfomuseum:flight_number": [
-      "UA1761", 
+      "UA1761",
       "UAL1761"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      1695932653, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695932653,
-    "wof:lastmodified": 1583191855,
+    "wof:lastmodified": 1717024469,
     "wof:name": "UAL1761 (SFO-SJD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}

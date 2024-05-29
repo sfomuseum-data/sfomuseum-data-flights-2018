@@ -2,6 +2,10 @@
   "id": 1662988069,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-04",
+    "date:cessation_upper": "2018-01-04",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-04T17:11:33",
     "edtf:inception": "2018-01-04~",
     "flysfo:airline": "B6",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528985,
     "sfomuseum:flight_id": "20180104-A-JBU-2136",
     "sfomuseum:flight_number": [
-      "B62136", 
+      "B62136",
       "JBU2136"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1662988069
+      102527513,
+      102087579,
+      1159157271,
+      85688637,
+      102191575,
+      85922583,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583182916,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662988069,
-    "wof:lastmodified": 1583182916,
+    "wof:lastmodified": 1717024483,
     "wof:name": "JBU2136 (LGB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.814039, 
-    -118.148993, 
+    -122.370943,
+    33.814039,
+    -118.148993,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.148993,33.814039],[-122.370943,37.61799]],"type":"MultiPoint"}

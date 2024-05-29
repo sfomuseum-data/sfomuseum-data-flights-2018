@@ -2,6 +2,10 @@
   "id": 1695965575,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-20",
+    "date:cessation_upper": "2018-12-20",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-20T23:07:03",
     "edtf:inception": "2018-12-20~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20181220-A-SWA-565",
     "sfomuseum:flight_number": [
-      "WN565", 
+      "WN565",
       "SWA565"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1695965575, 
+      102191575,
+      1159157271,
+      85633793,
+      102527513,
+      85922583,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695965575,
-    "wof:lastmodified": 1583192368,
+    "wof:lastmodified": 1717024474,
     "wof:name": "SWA565 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

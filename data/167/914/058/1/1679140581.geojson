@@ -2,6 +2,10 @@
   "id": 1679140581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-23",
+    "date:cessation_upper": "2018-03-23",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-23T07:19:27",
     "edtf:inception": "2018-03-23~",
     "flysfo:airline": "5Y",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528187,
     "sfomuseum:flight_id": "20180323-A-GTI-805",
     "sfomuseum:flight_number": [
-      "5Y805", 
+      "5Y805",
       "GTI805"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      1679140581
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583184593,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679140581,
-    "wof:lastmodified": 1583184593,
+    "wof:lastmodified": 1717024490,
     "wof:name": "GTI805 (CVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-84.657144,39.054422],[-122.370943,37.61799]],"type":"MultiPoint"}

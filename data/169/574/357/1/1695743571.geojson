@@ -2,6 +2,10 @@
   "id": 1695743571,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-05",
+    "date:inception_upper": "2018-10-05",
     "edtf:cessation": "2018-10-05~",
     "edtf:inception": "2018-10-05T10:10:49",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181005-D-SWA-1472",
     "sfomuseum:flight_number": [
-      "WN1472", 
+      "WN1472",
       "SWA1472"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85922583, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1695743571
+      1159157271,
+      102191575,
+      85922583,
+      102087579,
+      85688637,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583190309,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695743571,
-    "wof:lastmodified": 1583190309,
+    "wof:lastmodified": 1717024459,
     "wof:name": "SWA1472 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

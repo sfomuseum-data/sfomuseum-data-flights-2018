@@ -2,6 +2,10 @@
   "id": 1679096039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-16",
+    "date:inception_upper": "2018-03-16",
     "edtf:cessation": "2018-03-16~",
     "edtf:inception": "2018-03-16T13:45:13",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180316-D-ASA-1908",
     "sfomuseum:flight_number": [
-      "AS1908", 
+      "AS1908",
       "ASA1908"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1679096039
+      102087579,
+      85633793,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583184393,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679096039,
-    "wof:lastmodified": 1583184393,
+    "wof:lastmodified": 1717024489,
     "wof:name": "ASA1908 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695674131,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-16",
+    "date:inception_upper": "2018-09-16",
     "edtf:cessation": "2018-09-16~",
     "edtf:inception": "2018-09-16T23:41:30",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180916-D-UAL-1729",
     "sfomuseum:flight_number": [
-      "UA1729", 
+      "UA1729",
       "UAL1729"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695674131, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      85688637, 
-      102087579, 
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
+      85688637,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695674131,
-    "wof:lastmodified": 1583189815,
+    "wof:lastmodified": 1717024455,
     "wof:name": "UAL1729 (SFO-FAT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.768728, 
-    -119.721272, 
+    -122.370943,
+    36.768728,
+    -119.721272,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-119.721272,36.768728]],"type":"MultiPoint"}

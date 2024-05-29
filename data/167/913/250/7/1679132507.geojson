@@ -2,6 +2,10 @@
   "id": 1679132507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-21",
+    "date:cessation_upper": "2018-03-21",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-21T23:03:21",
     "edtf:inception": "2018-03-21~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20180321-A-JBU-277",
     "sfomuseum:flight_number": [
-      "B6277", 
+      "B6277",
       "JBU277"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679132507, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
+      102191575,
+      1159157271,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679132507,
-    "wof:lastmodified": 1583184555,
+    "wof:lastmodified": 1717024490,
     "wof:name": "JBU277 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695922005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-25",
+    "date:cessation_upper": "2018-11-25",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-25T21:41:41",
     "edtf:inception": "2018-11-25~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20181125-A-SWA-3622",
     "sfomuseum:flight_number": [
-      "WN3622", 
+      "WN3622",
       "SWA3622"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85633793, 
-      1695922005, 
-      102087579, 
-      85922583, 
-      85688637, 
+      102191575,
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695922005,
-    "wof:lastmodified": 1583191702,
+    "wof:lastmodified": 1717024468,
     "wof:name": "SWA3622 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679682533,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-12",
+    "date:cessation_upper": "2018-07-12",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-12T18:25:32",
     "edtf:inception": "2018-07-12~",
     "flysfo:airline": "BA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20180712-A-BAW-287",
     "sfomuseum:flight_number": [
-      "BA287", 
+      "BA287",
       "BAW287"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679682533, 
-      85922583, 
-      85633793, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      102527513, 
+      85922583,
+      85633793,
+      85688637,
+      102191575,
+      1159157271,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679682533,
-    "wof:lastmodified": 1583188049,
+    "wof:lastmodified": 1717024511,
     "wof:name": "BAW287 (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

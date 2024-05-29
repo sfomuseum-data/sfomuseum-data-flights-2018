@@ -2,6 +2,10 @@
   "id": 1679135109,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-22",
+    "date:inception_upper": "2018-03-22",
     "edtf:cessation": "2018-03-22~",
     "edtf:inception": "2018-03-22T11:27:57",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180322-D-ASA-1946",
     "sfomuseum:flight_number": [
-      "AS1946", 
+      "AS1946",
       "ASA1946"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85633793, 
-      1679135109, 
-      85922583, 
-      1159157271, 
-      85688637, 
+      102527513,
+      102087579,
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679135109,
-    "wof:lastmodified": 1583184567,
+    "wof:lastmodified": 1717024491,
     "wof:name": "ASA1946 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

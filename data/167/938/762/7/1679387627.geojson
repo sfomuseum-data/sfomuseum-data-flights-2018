@@ -2,6 +2,10 @@
   "id": 1679387627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-27",
+    "date:cessation_upper": "2018-04-27",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-27T16:47:42",
     "edtf:inception": "2018-04-27~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20180427-A-UAL-1973",
     "sfomuseum:flight_number": [
-      "UA1973", 
+      "UA1973",
       "UAL1973"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1679387627, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85922583, 
+      85688637,
+      102087579,
+      1159157271,
+      102527513,
+      102191575,
+      85922583,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679387627,
-    "wof:lastmodified": 1583185516,
+    "wof:lastmodified": 1717024499,
     "wof:name": "UAL1973 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

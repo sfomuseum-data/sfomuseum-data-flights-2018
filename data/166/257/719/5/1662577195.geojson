@@ -2,6 +2,10 @@
   "id": 1662577195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-24",
+    "date:inception_upper": "2018-01-24",
     "edtf:cessation": "2018-01-24~",
     "edtf:inception": "2018-01-24T08:51:27",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180124-D-UAL-1038",
     "sfomuseum:flight_number": [
-      "UA1038", 
+      "UA1038",
       "UAL1038"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662577195, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      85688637, 
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662577195,
-    "wof:lastmodified": 1583183207,
+    "wof:lastmodified": 1717024478,
     "wof:name": "UAL1038 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

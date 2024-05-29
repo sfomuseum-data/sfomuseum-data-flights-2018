@@ -2,6 +2,10 @@
   "id": 1678909897,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-16",
+    "date:inception_upper": "2018-02-16",
     "edtf:cessation": "2018-02-16~",
     "edtf:inception": "2018-02-16T07:23:36",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180216-D-UAL-1287",
     "sfomuseum:flight_number": [
-      "UA1287", 
+      "UA1287",
       "UAL1287"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102527513, 
-      1678909897, 
-      85633793, 
-      102087579, 
-      1159157271, 
-      85922583, 
+      102191575,
+      102527513,
+      85633793,
+      102087579,
+      1159157271,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678909897,
-    "wof:lastmodified": 1583183649,
+    "wof:lastmodified": 1717024473,
     "wof:name": "UAL1287 (SFO-BZN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.158267, 
+    -122.370943,
+    37.61799,
+    -111.158267,
     45.775425
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.158267,45.775425]],"type":"MultiPoint"}

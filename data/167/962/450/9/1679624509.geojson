@@ -2,6 +2,10 @@
   "id": 1679624509,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-27",
+    "date:cessation_upper": "2018-06-27",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-27T22:37:54",
     "edtf:inception": "2018-06-27~",
     "flysfo:airline": "SY",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20180627-A-SCX-397",
     "sfomuseum:flight_number": [
-      "SY397", 
+      "SY397",
       "SCX397"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      102191575, 
-      85688637, 
-      102527513, 
-      1679624509
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      102191575,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583187681,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679624509,
-    "wof:lastmodified": 1583187681,
+    "wof:lastmodified": 1717024509,
     "wof:name": "SCX397 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

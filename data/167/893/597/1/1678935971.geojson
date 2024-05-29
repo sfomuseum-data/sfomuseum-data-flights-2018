@@ -2,6 +2,10 @@
   "id": 1678935971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-21",
+    "date:cessation_upper": "2018-02-21",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-21T05:12:54",
     "edtf:inception": "2018-02-21~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20180221-A-UAL-396",
     "sfomuseum:flight_number": [
-      "UA396", 
+      "UA396",
       "UAL396"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      1678935971, 
-      1159157271, 
-      102191575, 
-      102527513, 
+      85688637,
+      85633793,
+      85922583,
+      1159157271,
+      102191575,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678935971,
-    "wof:lastmodified": 1583183767,
+    "wof:lastmodified": 1717024480,
     "wof:name": "UAL396 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

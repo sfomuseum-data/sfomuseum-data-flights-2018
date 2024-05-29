@@ -2,6 +2,10 @@
   "id": 1695627325,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-04",
+    "date:inception_upper": "2018-09-04",
     "edtf:cessation": "2018-09-04~",
     "edtf:inception": "2018-09-04T05:51:30",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180904-D-AAL-776P",
     "sfomuseum:flight_number": [
-      "AA776P", 
+      "AA776P",
       "AAL776P"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      1695627325
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      1159157271,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583189503,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695627325,
-    "wof:lastmodified": 1583189503,
+    "wof:lastmodified": 1717024453,
     "wof:name": "AAL776P (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695915593,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-21",
+    "date:inception_upper": "2018-11-21",
     "edtf:cessation": "2018-11-21~",
     "edtf:inception": "2018-11-21T21:17:11",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181121-D-DAL-746",
     "sfomuseum:flight_number": [
-      "DL746", 
+      "DL746",
       "DAL746"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1695915593, 
-      85688637, 
-      102527513, 
+      1159157271,
+      85633793,
+      102087579,
+      102191575,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695915593,
-    "wof:lastmodified": 1583191604,
+    "wof:lastmodified": 1717024470,
     "wof:name": "DAL746 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

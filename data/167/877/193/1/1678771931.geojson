@@ -2,6 +2,10 @@
   "id": 1678771931,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-21",
+    "date:inception_upper": "2018-01-21",
     "edtf:cessation": "2018-01-21~",
     "edtf:inception": "2018-01-21T07:37:19",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180121-D-DAL-401",
     "sfomuseum:flight_number": [
-      "DL401", 
+      "DL401",
       "DAL401"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1678771931, 
-      85688637, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1159157271, 
+      102191575,
+      85688637,
+      85633793,
+      102087579,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678771931,
-    "wof:lastmodified": 1583183161,
+    "wof:lastmodified": 1717024476,
     "wof:name": "DAL401 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

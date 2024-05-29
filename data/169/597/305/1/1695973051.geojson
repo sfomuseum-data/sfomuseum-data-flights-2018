@@ -2,6 +2,10 @@
   "id": 1695973051,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-25",
+    "date:inception_upper": "2018-12-25",
     "edtf:cessation": "2018-12-25~",
     "edtf:inception": "2018-12-25T02:13:48",
     "flysfo:airline": "CX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181225-D-CPA-893",
     "sfomuseum:flight_number": [
-      "CX893", 
+      "CX893",
       "CPA893"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1695973051
+      102527513,
+      102087579,
+      85922583,
+      1159157271,
+      102191575,
+      85633793,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583192484,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695973051,
-    "wof:lastmodified": 1583192484,
+    "wof:lastmodified": 1717024472,
     "wof:name": "CPA893 (SFO-HKG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[113.927436,22.307471]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679410815,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-03",
+    "date:cessation_upper": "2018-05-03",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-03T18:54:09",
     "edtf:inception": "2018-05-03~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20180503-A-DAL-1446",
     "sfomuseum:flight_number": [
-      "DL1446", 
+      "DL1446",
       "DAL1446"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679410815, 
-      1159157271, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85688637, 
+      1159157271,
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679410815,
-    "wof:lastmodified": 1583185910,
+    "wof:lastmodified": 1717024495,
     "wof:name": "DAL1446 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

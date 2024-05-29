@@ -2,6 +2,10 @@
   "id": 1678923685,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-18",
+    "date:cessation_upper": "2018-02-18",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-18T20:15:33",
     "edtf:inception": "2018-02-18~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180218-A-ASA-386",
     "sfomuseum:flight_number": [
-      "AS386", 
+      "AS386",
       "ASA386"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1678923685, 
-      102191575, 
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678923685,
-    "wof:lastmodified": 1583183714,
+    "wof:lastmodified": 1717024477,
     "wof:name": "ASA386 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

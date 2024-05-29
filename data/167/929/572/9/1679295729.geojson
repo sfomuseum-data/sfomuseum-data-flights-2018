@@ -2,6 +2,10 @@
   "id": 1679295729,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-09",
+    "date:cessation_upper": "2018-04-09",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-09T16:44:06",
     "edtf:inception": "2018-04-09~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20180409-A-ASA-1715",
     "sfomuseum:flight_number": [
-      "AS1715", 
+      "AS1715",
       "ASA1715"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      85633793, 
-      1679295729, 
-      102191575, 
-      85922583, 
-      102087579, 
+      85688637,
+      102527513,
+      85633793,
+      102191575,
+      85922583,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679295729,
-    "wof:lastmodified": 1583184977,
+    "wof:lastmodified": 1717024494,
     "wof:name": "ASA1715 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

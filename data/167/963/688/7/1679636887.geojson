@@ -2,6 +2,10 @@
   "id": 1679636887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-30",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-30T21:45:47",
     "edtf:inception": "2018-06-30~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20180630-A-AAL-1967",
     "sfomuseum:flight_number": [
-      "AA1967", 
+      "AA1967",
       "AAL1967"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1679636887, 
-      85688637, 
-      1159157271, 
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679636887,
-    "wof:lastmodified": 1583187751,
+    "wof:lastmodified": 1717024511,
     "wof:name": "AAL1967 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

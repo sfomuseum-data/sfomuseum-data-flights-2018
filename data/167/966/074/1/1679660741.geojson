@@ -2,6 +2,10 @@
   "id": 1679660741,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-07",
+    "date:inception_upper": "2018-07-07",
     "edtf:cessation": "2018-07-07~",
     "edtf:inception": "2018-07-07T15:15:04",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180707-D-UAL-647",
     "sfomuseum:flight_number": [
-      "UA647", 
+      "UA647",
       "UAL647"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85688637, 
-      85633793, 
-      102191575, 
-      1679660741, 
-      102087579, 
+      85922583,
+      102527513,
+      85688637,
+      85633793,
+      102191575,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679660741,
-    "wof:lastmodified": 1583187899,
+    "wof:lastmodified": 1717024511,
     "wof:name": "UAL647 (SFO-TPA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    27.972892, 
-    -82.530928, 
+    -122.370943,
+    27.972892,
+    -82.530928,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-82.530928,27.972892]],"type":"MultiPoint"}

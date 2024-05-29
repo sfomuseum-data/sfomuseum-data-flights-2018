@@ -2,6 +2,10 @@
   "id": 1695972017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-24",
+    "date:cessation_upper": "2018-12-24",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-24T12:27:39",
     "edtf:inception": "2018-12-24~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20181224-A-ASA-1345",
     "sfomuseum:flight_number": [
-      "AS1345", 
+      "AS1345",
       "ASA1345"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1695972017, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
+      1159157271,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695972017,
-    "wof:lastmodified": 1583192468,
+    "wof:lastmodified": 1717024471,
     "wof:name": "ASA1345 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

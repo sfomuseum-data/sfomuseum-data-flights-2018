@@ -2,6 +2,10 @@
   "id": 1679114081,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-19",
+    "date:cessation_upper": "2018-03-19",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-19T08:19:11",
     "edtf:inception": "2018-03-19~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20180319-A-ASA-1951",
     "sfomuseum:flight_number": [
-      "AS1951", 
+      "AS1951",
       "ASA1951"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1679114081
+      1159157271,
+      85922583,
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583184472,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679114081,
-    "wof:lastmodified": 1583184472,
+    "wof:lastmodified": 1717024489,
     "wof:name": "ASA1951 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662676899,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-15",
+    "date:cessation_upper": "2018-10-15",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-15T19:13:05",
     "edtf:inception": "2018-10-15~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20181015-A-AAL-680",
     "sfomuseum:flight_number": [
-      "AA680", 
+      "AA680",
       "AAL680"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      102087579, 
-      1662676899, 
+      102191575,
+      85633793,
+      85688637,
+      102527513,
+      1159157271,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662676899,
-    "wof:lastmodified": 1583190592,
+    "wof:lastmodified": 1717024482,
     "wof:name": "AAL680 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

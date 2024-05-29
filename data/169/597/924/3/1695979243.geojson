@@ -2,6 +2,10 @@
   "id": 1695979243,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-28",
+    "date:cessation_upper": "2018-12-28",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-28T13:51:07",
     "edtf:inception": "2018-12-28~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531041,
     "sfomuseum:flight_id": "20181228-A-ASA-9800",
     "sfomuseum:flight_number": [
-      "AS9800", 
+      "AS9800",
       "ASA9800"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1695979243, 
+      85633793,
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695979243,
-    "wof:lastmodified": 1583192578,
+    "wof:lastmodified": 1717024477,
     "wof:name": "ASA9800 (OAK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.212464, 
+    -122.370943,
+    37.61799,
+    -122.212464,
     37.72131
   ],
   "geometry": {"coordinates":[[-122.212464,37.72131],[-122.370943,37.61799]],"type":"MultiPoint"}

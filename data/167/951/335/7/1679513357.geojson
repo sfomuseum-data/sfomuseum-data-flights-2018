@@ -2,6 +2,10 @@
   "id": 1679513357,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-30",
+    "date:cessation_upper": "2018-05-30",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-30T20:53:30",
     "edtf:inception": "2018-05-30~",
     "flysfo:airline": "BF",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102544453,
     "sfomuseum:flight_id": "20180530-A-FBU-712",
     "sfomuseum:flight_number": [
-      "BF712", 
+      "BF712",
       "FBU712"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1679513357
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583186927,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679513357,
-    "wof:lastmodified": 1583186927,
+    "wof:lastmodified": 1717024502,
     "wof:name": "FBU712 (ORY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    2.36613, 
+    -122.370943,
+    37.61799,
+    2.36613,
     48.729315
   ],
   "geometry": {"coordinates":[[2.36613,48.729315],[-122.370943,37.61799]],"type":"MultiPoint"}

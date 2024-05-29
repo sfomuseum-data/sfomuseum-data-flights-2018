@@ -2,6 +2,10 @@
   "id": 1695673841,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-16",
+    "date:cessation_upper": "2018-09-16",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-16T22:11:48",
     "edtf:inception": "2018-09-16~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20180916-A-SWA-6154",
     "sfomuseum:flight_number": [
-      "WN6154", 
+      "WN6154",
       "SWA6154"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1695673841, 
-      1159157271, 
-      85688637, 
-      102087579, 
-      85922583, 
+      102527513,
+      85633793,
+      1159157271,
+      85688637,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695673841,
-    "wof:lastmodified": 1583189813,
+    "wof:lastmodified": 1717024455,
     "wof:name": "SWA6154 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

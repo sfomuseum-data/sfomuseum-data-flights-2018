@@ -2,6 +2,10 @@
   "id": 1695842203,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-31",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-31T14:35:48",
     "edtf:inception": "2018-10-31~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20181031-A-ASA-1929",
     "sfomuseum:flight_number": [
-      "AS1929", 
+      "AS1929",
       "ASA1929"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      1695842203, 
-      85688637, 
+      85633793,
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695842203,
-    "wof:lastmodified": 1583191030,
+    "wof:lastmodified": 1717024463,
     "wof:name": "ASA1929 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

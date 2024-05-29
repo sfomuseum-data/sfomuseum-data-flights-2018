@@ -2,6 +2,10 @@
   "id": 1679704689,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-18",
+    "date:inception_upper": "2018-07-18",
     "edtf:cessation": "2018-07-18~",
     "edtf:inception": "2018-07-18T03:29:26",
     "flysfo:airline": "OZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180718-D-AAR-285",
     "sfomuseum:flight_number": [
-      "OZ285", 
+      "OZ285",
       "AAR285"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      1159157271, 
-      1679704689, 
-      85922583, 
-      85688637, 
-      102191575, 
+      102527513,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679704689,
-    "wof:lastmodified": 1583188208,
+    "wof:lastmodified": 1717024513,
     "wof:name": "AAR285 (SFO-ANC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.968401, 
-    37.61799, 
-    -122.370943, 
+    -149.968401,
+    37.61799,
+    -122.370943,
     61.173606
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-149.968401,61.173606]],"type":"MultiPoint"}

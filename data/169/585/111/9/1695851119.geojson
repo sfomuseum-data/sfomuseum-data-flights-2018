@@ -2,6 +2,10 @@
   "id": 1695851119,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-02",
+    "date:cessation_upper": "2018-11-02",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-02T23:16:48",
     "edtf:inception": "2018-11-02~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20181102-A-ASA-1357",
     "sfomuseum:flight_number": [
-      "AS1357", 
+      "AS1357",
       "ASA1357"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1695851119, 
+      85922583,
+      1159157271,
+      85633793,
+      102527513,
+      102191575,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695851119,
-    "wof:lastmodified": 1583191088,
+    "wof:lastmodified": 1717024463,
     "wof:name": "ASA1357 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

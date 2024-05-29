@@ -2,6 +2,10 @@
   "id": 1695783901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-16",
+    "date:cessation_upper": "2018-10-16",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-16T04:12:55",
     "edtf:inception": "2018-10-16~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529587,
     "sfomuseum:flight_id": "20181016-A-UAL-2505",
     "sfomuseum:flight_number": [
-      "UA2505", 
+      "UA2505",
       "UAL2505"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102087579, 
-      85688637, 
-      85922583, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      1695783901
+      102527513,
+      102087579,
+      85688637,
+      85922583,
+      102191575,
+      85633793,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583190601,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695783901,
-    "wof:lastmodified": 1583190601,
+    "wof:lastmodified": 1717024460,
     "wof:name": "UAL2505 (GRB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -88.107889, 
+    -122.370943,
+    37.61799,
+    -88.107889,
     44.493219
   ],
   "geometry": {"coordinates":[[-88.107889,44.493219],[-122.370943,37.61799]],"type":"MultiPoint"}

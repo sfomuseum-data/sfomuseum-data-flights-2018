@@ -2,6 +2,10 @@
   "id": 1695588369,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-24",
+    "date:cessation_upper": "2018-08-24",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-24T22:53:11",
     "edtf:inception": "2018-08-24~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20180824-A-UAL-1844",
     "sfomuseum:flight_number": [
-      "UA1844", 
+      "UA1844",
       "UAL1844"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695588369, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102527513, 
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695588369,
-    "wof:lastmodified": 1583189235,
+    "wof:lastmodified": 1717024453,
     "wof:name": "UAL1844 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

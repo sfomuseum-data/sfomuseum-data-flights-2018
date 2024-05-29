@@ -2,6 +2,10 @@
   "id": 1678956415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-24",
+    "date:cessation_upper": "2018-02-24",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-24T11:25:24",
     "edtf:inception": "2018-02-24~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20180224-A-SWA-2536",
     "sfomuseum:flight_number": [
-      "WN2536", 
+      "WN2536",
       "SWA2536"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      1678956415
+      102191575,
+      85633793,
+      85922583,
+      102527513,
+      85688637,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583183847,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678956415,
-    "wof:lastmodified": 1583183847,
+    "wof:lastmodified": 1717024482,
     "wof:name": "SWA2536 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695697123,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-23",
+    "date:cessation_upper": "2018-09-23",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-23T10:01:32",
     "edtf:inception": "2018-09-23~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20180923-A-ASA-1183",
     "sfomuseum:flight_number": [
-      "AS1183", 
+      "AS1183",
       "ASA1183"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      1695697123, 
-      102191575, 
-      1159157271, 
-      85922583, 
+      102527513,
+      85633793,
+      102087579,
+      102191575,
+      1159157271,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695697123,
-    "wof:lastmodified": 1583189979,
+    "wof:lastmodified": 1717024457,
     "wof:name": "ASA1183 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

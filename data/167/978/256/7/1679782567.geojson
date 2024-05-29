@@ -2,6 +2,10 @@
   "id": 1679782567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-06",
+    "date:inception_upper": "2018-08-06",
     "edtf:cessation": "2018-08-06~",
     "edtf:inception": "2018-08-06T07:35:38",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180806-D-ASA-1924",
     "sfomuseum:flight_number": [
-      "AS1924", 
+      "AS1924",
       "ASA1924"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      1679782567
+      102191575,
+      85688637,
+      85922583,
+      102087579,
+      1159157271,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583188732,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679782567,
-    "wof:lastmodified": 1583188732,
+    "wof:lastmodified": 1717024517,
     "wof:name": "ASA1924 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

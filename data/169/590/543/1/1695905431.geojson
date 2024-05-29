@@ -2,6 +2,10 @@
   "id": 1695905431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-17",
+    "date:cessation_upper": "2018-11-17",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-17T22:46:17",
     "edtf:inception": "2018-11-17~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536223,
     "sfomuseum:flight_id": "20181117-A-UAL-1712",
     "sfomuseum:flight_number": [
-      "UA1712", 
+      "UA1712",
       "UAL1712"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1695905431
+      85688637,
+      102527513,
+      1159157271,
+      102191575,
+      85633793,
+      102087579,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1583191493,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695905431,
-    "wof:lastmodified": 1583191493,
+    "wof:lastmodified": 1717024468,
     "wof:name": "UAL1712 (CUN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    21.040317, 
-    -86.872856, 
+    -122.370943,
+    21.040317,
+    -86.872856,
     37.61799
   ],
   "geometry": {"coordinates":[[-86.872856,21.040317],[-122.370943,37.61799]],"type":"MultiPoint"}

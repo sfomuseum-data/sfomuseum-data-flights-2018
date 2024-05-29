@@ -2,6 +2,10 @@
   "id": 1678873971,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-09",
+    "date:inception_upper": "2018-02-09",
     "edtf:cessation": "2018-02-09~",
     "edtf:inception": "2018-02-09T23:32:18",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180209-D-UAL-1530",
     "sfomuseum:flight_number": [
-      "UA1530", 
+      "UA1530",
       "UAL1530"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      1678873971, 
-      85688637, 
-      102527513, 
-      102191575, 
-      102087579, 
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
+      102191575,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678873971,
-    "wof:lastmodified": 1583183515,
+    "wof:lastmodified": 1717024465,
     "wof:name": "UAL1530 (SFO-MFR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.874456, 
-    37.61799, 
-    -122.370943, 
+    -122.874456,
+    37.61799,
+    -122.370943,
     42.369651
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.874456,42.369651]],"type":"MultiPoint"}

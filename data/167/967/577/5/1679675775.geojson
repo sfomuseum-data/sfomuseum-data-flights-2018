@@ -2,6 +2,10 @@
   "id": 1679675775,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-11",
+    "date:inception_upper": "2018-07-11",
     "edtf:cessation": "2018-07-11~",
     "edtf:inception": "2018-07-11T08:14:33",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180711-D-UAL-408",
     "sfomuseum:flight_number": [
-      "UA408", 
+      "UA408",
       "UAL408"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1679675775
+      102191575,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583188000,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679675775,
-    "wof:lastmodified": 1583188000,
+    "wof:lastmodified": 1717024513,
     "wof:name": "UAL408 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

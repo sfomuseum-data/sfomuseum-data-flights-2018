@@ -2,6 +2,10 @@
   "id": 1679440541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-11",
+    "date:cessation_upper": "2018-05-11",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-11T13:23:51",
     "edtf:inception": "2018-05-11~",
     "flysfo:airline": "BA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102556703,
     "sfomuseum:flight_id": "20180511-A-BAW-11M",
     "sfomuseum:flight_number": [
-      "BA11M", 
+      "BA11M",
       "BAW11M"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1679440541
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583186442,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679440541,
-    "wof:lastmodified": 1583186442,
+    "wof:lastmodified": 1717024500,
     "wof:name": "BAW11M (LHR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-0.450443,51.470087],[-122.370943,37.61799]],"type":"MultiPoint"}

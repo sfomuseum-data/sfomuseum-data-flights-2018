@@ -2,6 +2,10 @@
   "id": 1695946863,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-10",
+    "date:cessation_upper": "2018-12-10",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-10T11:28:42",
     "edtf:inception": "2018-12-10~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20181210-A-UAL-207",
     "sfomuseum:flight_number": [
-      "UA207", 
+      "UA207",
       "UAL207"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102527513, 
-      102087579, 
-      1695946863, 
-      85633793, 
-      85922583, 
+      1159157271,
+      102191575,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695946863,
-    "wof:lastmodified": 1583192074,
+    "wof:lastmodified": 1717024473,
     "wof:name": "UAL207 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

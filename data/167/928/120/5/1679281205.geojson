@@ -2,6 +2,10 @@
   "id": 1679281205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-08",
+    "date:inception_upper": "2018-04-08",
     "edtf:cessation": "2018-04-08~",
     "edtf:inception": "2018-04-08T06:44:49",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180408-D-ACA-567",
     "sfomuseum:flight_number": [
-      "AC567", 
+      "AC567",
       "ACA567"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      1679281205, 
-      102527513, 
-      102191575, 
+      102087579,
+      85688637,
+      1159157271,
+      85633793,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679281205,
-    "wof:lastmodified": 1583184947,
+    "wof:lastmodified": 1717024492,
     "wof:name": "ACA567 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

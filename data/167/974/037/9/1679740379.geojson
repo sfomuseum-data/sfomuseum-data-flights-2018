@@ -2,6 +2,10 @@
   "id": 1679740379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-26",
+    "date:inception_upper": "2018-07-26",
     "edtf:cessation": "2018-07-26~",
     "edtf:inception": "2018-07-26T14:29:52",
     "flysfo:airline": "MU",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180726-D-CES-590",
     "sfomuseum:flight_number": [
-      "MU590", 
+      "MU590",
       "CES590"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679740379, 
-      85688637, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102527513, 
+      102191575,
+      85688637,
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679740379,
-    "wof:lastmodified": 1583188456,
+    "wof:lastmodified": 1717024516,
     "wof:name": "CES590 (SFO-PVG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    31.145312, 
-    121.799307, 
+    -122.370943,
+    31.145312,
+    121.799307,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[121.799307,31.145312]],"type":"MultiPoint"}

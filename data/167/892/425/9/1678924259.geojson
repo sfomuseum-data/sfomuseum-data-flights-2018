@@ -2,6 +2,10 @@
   "id": 1678924259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-18",
+    "date:inception_upper": "2018-02-18",
     "edtf:cessation": "2018-02-18~",
     "edtf:inception": "2018-02-18T23:31:46",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180218-D-UAL-1519",
     "sfomuseum:flight_number": [
-      "UA1519", 
+      "UA1519",
       "UAL1519"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85688637, 
-      1678924259, 
-      1159157271, 
+      102191575,
+      85633793,
+      102087579,
+      102527513,
+      85688637,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678924259,
-    "wof:lastmodified": 1583183719,
+    "wof:lastmodified": 1717024477,
     "wof:name": "UAL1519 (SFO-MCO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-81.307537,28.431495]],"type":"MultiPoint"}

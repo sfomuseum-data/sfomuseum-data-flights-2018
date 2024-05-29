@@ -2,6 +2,10 @@
   "id": 1679054695,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-10",
+    "date:cessation_upper": "2018-03-10",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-10T16:56:01",
     "edtf:inception": "2018-03-10~",
     "flysfo:airline": "CM",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102547051,
     "sfomuseum:flight_id": "20180310-A-CMP-384",
     "sfomuseum:flight_number": [
-      "CM384", 
+      "CM384",
       "CMP384"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1679054695, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1159157271, 
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      102087579,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679054695,
-    "wof:lastmodified": 1583184222,
+    "wof:lastmodified": 1717024487,
     "wof:name": "CMP384 (PTY-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    9.07136, 
-    -79.383499, 
+    -122.370943,
+    9.07136,
+    -79.383499,
     37.61799
   ],
   "geometry": {"coordinates":[[-79.383499,9.07136],[-122.370943,37.61799]],"type":"MultiPoint"}

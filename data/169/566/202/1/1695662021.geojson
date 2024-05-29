@@ -2,6 +2,10 @@
   "id": 1695662021,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-13",
+    "date:inception_upper": "2018-09-13",
     "edtf:cessation": "2018-09-13~",
     "edtf:inception": "2018-09-13T15:38:46",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180913-D-DAL-1151",
     "sfomuseum:flight_number": [
-      "DL1151", 
+      "DL1151",
       "DAL1151"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1695662021
+      1159157271,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1583189732,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695662021,
-    "wof:lastmodified": 1583189732,
+    "wof:lastmodified": 1717024454,
     "wof:name": "DAL1151 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

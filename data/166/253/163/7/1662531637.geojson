@@ -2,6 +2,10 @@
   "id": 1662531637,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-25",
+    "date:inception_upper": "2018-03-25",
     "edtf:cessation": "2018-03-25~",
     "edtf:inception": "2018-03-25T18:22:11",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180325-D-UAL-2058",
     "sfomuseum:flight_number": [
-      "UA2058", 
+      "UA2058",
       "UAL2058"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1662531637, 
-      85922583, 
-      1159157271, 
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662531637,
-    "wof:lastmodified": 1583184668,
+    "wof:lastmodified": 1717024474,
     "wof:name": "UAL2058 (SFO-IAH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-95.338444,29.977186]],"type":"MultiPoint"}

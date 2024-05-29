@@ -2,6 +2,10 @@
   "id": 1662669113,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-25",
+    "date:cessation_upper": "2018-09-25",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-25T09:52:03",
     "edtf:inception": "2018-09-25~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180925-A-SWA-1421",
     "sfomuseum:flight_number": [
-      "WN1421", 
+      "WN1421",
       "SWA1421"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      1662669113, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662669113,
-    "wof:lastmodified": 1583190034,
+    "wof:lastmodified": 1717024474,
     "wof:name": "SWA1421 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

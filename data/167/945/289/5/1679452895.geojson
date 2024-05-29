@@ -2,6 +2,10 @@
   "id": 1679452895,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-14",
+    "date:cessation_upper": "2018-05-14",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-14T18:50:54",
     "edtf:inception": "2018-05-14~",
     "flysfo:airline": "BF",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102558779,
     "sfomuseum:flight_id": "20180514-A-FBU-711",
     "sfomuseum:flight_number": [
-      "BF711", 
+      "BF711",
       "FBU711"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102527513, 
-      1679452895
+      102191575,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      85633793,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583186536,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679452895,
-    "wof:lastmodified": 1583186536,
+    "wof:lastmodified": 1717024501,
     "wof:name": "FBU711 (PPT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -149.617144, 
-    -17.573463, 
-    -122.370943, 
+    -149.617144,
+    -17.573463,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-149.617144,-17.573463],[-122.370943,37.61799]],"type":"MultiPoint"}

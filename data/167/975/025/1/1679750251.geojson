@@ -2,6 +2,10 @@
   "id": 1679750251,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-28",
+    "date:cessation_upper": "2018-07-28",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-28T00:13:43",
     "edtf:inception": "2018-07-28~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533575,
     "sfomuseum:flight_id": "20180728-A-DAL-8969",
     "sfomuseum:flight_number": [
-      "DL8969", 
+      "DL8969",
       "DAL8969"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679750251, 
-      85633793, 
-      102191575, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1159157271, 
+      85633793,
+      102191575,
+      102087579,
+      85688637,
+      102527513,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679750251,
-    "wof:lastmodified": 1583188518,
+    "wof:lastmodified": 1717024516,
     "wof:name": "DAL8969 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.059934, 
-    -117.587749, 
+    -122.370943,
+    34.059934,
+    -117.587749,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.587749,34.059934],[-122.370943,37.61799]],"type":"MultiPoint"}

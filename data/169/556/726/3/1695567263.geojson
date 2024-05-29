@@ -2,6 +2,10 @@
   "id": 1695567263,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-19",
+    "date:cessation_upper": "2018-08-19",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-19T21:06:53",
     "edtf:inception": "2018-08-19~",
     "flysfo:airline": "5Y",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20180819-A-GTI-7742",
     "sfomuseum:flight_number": [
-      "5Y7742", 
+      "5Y7742",
       "GTI7742"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85633793, 
-      1695567263, 
-      85922583, 
-      1159157271, 
+      102527513,
+      102191575,
+      102087579,
+      85633793,
+      85922583,
+      1159157271,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695567263,
-    "wof:lastmodified": 1583189098,
+    "wof:lastmodified": 1717024452,
     "wof:name": "GTI7742 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

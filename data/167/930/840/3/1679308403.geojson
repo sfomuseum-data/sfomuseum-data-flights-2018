@@ -2,6 +2,10 @@
   "id": 1679308403,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-11",
+    "date:cessation_upper": "2018-04-11",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-11T07:11:59",
     "edtf:inception": "2018-04-11~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533575,
     "sfomuseum:flight_id": "20180411-A-UAL-295",
     "sfomuseum:flight_number": [
-      "UA295", 
+      "UA295",
       "UAL295"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      102087579, 
-      1679308403, 
-      85688637, 
-      1159157271, 
-      102527513, 
+      102191575,
+      85922583,
+      102087579,
+      85688637,
+      1159157271,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679308403,
-    "wof:lastmodified": 1583185005,
+    "wof:lastmodified": 1717024495,
     "wof:name": "UAL295 (ONT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.059934, 
-    -117.587749, 
+    -122.370943,
+    34.059934,
+    -117.587749,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.587749,34.059934],[-122.370943,37.61799]],"type":"MultiPoint"}

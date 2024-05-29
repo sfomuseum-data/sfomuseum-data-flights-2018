@@ -2,6 +2,10 @@
   "id": 1679013195,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-04",
+    "date:cessation_upper": "2018-03-04",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-04T19:19:36",
     "edtf:inception": "2018-03-04~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20180304-A-UAL-538",
     "sfomuseum:flight_number": [
-      "UA538", 
+      "UA538",
       "UAL538"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      85633793, 
-      1679013195, 
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      1159157271,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679013195,
-    "wof:lastmodified": 1583184055,
+    "wof:lastmodified": 1717024485,
     "wof:name": "UAL538 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

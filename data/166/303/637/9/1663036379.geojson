@@ -2,6 +2,10 @@
   "id": 1663036379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-18",
+    "date:cessation_upper": "2018-01-18",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-18T22:29:48",
     "edtf:inception": "2018-01-18~",
     "flysfo:airline": "B6",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20180118-A-JBU-833",
     "sfomuseum:flight_number": [
-      "B6833", 
+      "B6833",
       "JBU833"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1663036379
+      1159157271,
+      102527513,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583183131,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663036379,
-    "wof:lastmodified": 1583183131,
+    "wof:lastmodified": 1717024489,
     "wof:name": "JBU833 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

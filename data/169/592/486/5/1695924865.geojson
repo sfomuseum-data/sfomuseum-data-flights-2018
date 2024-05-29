@@ -2,6 +2,10 @@
   "id": 1695924865,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-27",
+    "date:cessation_upper": "2018-11-27",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-27T14:01:37",
     "edtf:inception": "2018-11-27~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20181127-A-AAL-594",
     "sfomuseum:flight_number": [
-      "AA594", 
+      "AA594",
       "AAL594"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1695924865
+      102087579,
+      85922583,
+      85688637,
+      1159157271,
+      85633793,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583191742,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695924865,
-    "wof:lastmodified": 1583191742,
+    "wof:lastmodified": 1717024470,
     "wof:name": "AAL594 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679669993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-09",
+    "date:cessation_upper": "2018-07-09",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-09T21:23:23",
     "edtf:inception": "2018-07-09~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20180709-A-UAL-1740",
     "sfomuseum:flight_number": [
-      "UA1740", 
+      "UA1740",
       "UAL1740"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      102191575, 
-      85688637, 
-      1679669993
+      85633793,
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      102191575,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583187963,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679669993,
-    "wof:lastmodified": 1583187963,
+    "wof:lastmodified": 1717024516,
     "wof:name": "UAL1740 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

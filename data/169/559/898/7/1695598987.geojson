@@ -2,6 +2,10 @@
   "id": 1695598987,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-27",
+    "date:cessation_upper": "2018-08-27",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-27T18:10:08",
     "edtf:inception": "2018-08-27~",
     "flysfo:airline": "AF",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102544459,
     "sfomuseum:flight_id": "20180827-A-AFR-082",
     "sfomuseum:flight_number": [
-      "AF082", 
+      "AF082",
       "AFR082"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      102527513, 
-      1695598987
+      102087579,
+      85688637,
+      85633793,
+      85922583,
+      1159157271,
+      102191575,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583189307,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695598987,
-    "wof:lastmodified": 1583189307,
+    "wof:lastmodified": 1717024453,
     "wof:name": "AFR082 (CDG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    2.542809, 
+    -122.370943,
+    37.61799,
+    2.542809,
     49.007854
   ],
   "geometry": {"coordinates":[[2.542809,49.007854],[-122.370943,37.61799]],"type":"MultiPoint"}

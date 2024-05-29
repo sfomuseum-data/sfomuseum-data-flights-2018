@@ -2,6 +2,10 @@
   "id": 1679460799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-16",
+    "date:cessation_upper": "2018-05-16",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-16T20:09:00",
     "edtf:inception": "2018-05-16~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20180516-A-ASA-129",
     "sfomuseum:flight_number": [
-      "AS129", 
+      "AS129",
       "ASA129"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      102087579, 
-      1679460799, 
-      85688637, 
-      102527513, 
-      1159157271, 
+      102191575,
+      85922583,
+      102087579,
+      85688637,
+      102527513,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679460799,
-    "wof:lastmodified": 1583186584,
+    "wof:lastmodified": 1717024500,
     "wof:name": "ASA129 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

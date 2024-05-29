@@ -2,6 +2,10 @@
   "id": 1679736433,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-25",
+    "date:inception_upper": "2018-07-25",
     "edtf:cessation": "2018-07-25~",
     "edtf:inception": "2018-07-25T15:43:52",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180725-D-UAL-44",
     "sfomuseum:flight_number": [
-      "UA44", 
+      "UA44",
       "UAL44"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      1679736433
+      85633793,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      102191575,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583188430,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679736433,
-    "wof:lastmodified": 1583188430,
+    "wof:lastmodified": 1717024516,
     "wof:name": "UAL44 (SFO-ZRH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    8.559692, 
+    -122.370943,
+    37.61799,
+    8.559692,
     47.455793
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[8.559692,47.455793]],"type":"MultiPoint"}

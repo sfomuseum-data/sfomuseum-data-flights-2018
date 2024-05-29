@@ -2,6 +2,10 @@
   "id": 1662989307,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-05",
+    "date:inception_upper": "2018-01-05",
     "edtf:cessation": "2018-01-05~",
     "edtf:inception": "2018-01-05T00:11:23",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180105-D-AAL-1522",
     "sfomuseum:flight_number": [
-      "AA1522", 
+      "AA1522",
       "AAL1522"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1662989307, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662989307,
-    "wof:lastmodified": 1583182922,
+    "wof:lastmodified": 1717024484,
     "wof:name": "AAL1522 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

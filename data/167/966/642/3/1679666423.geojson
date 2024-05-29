@@ -2,6 +2,10 @@
   "id": 1679666423,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-08",
+    "date:cessation_upper": "2018-07-08",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-08T23:37:12",
     "edtf:inception": "2018-07-08~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20180708-A-DAL-907",
     "sfomuseum:flight_number": [
-      "DL907", 
+      "DL907",
       "DAL907"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      1679666423, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85922583, 
+      1159157271,
+      85633793,
+      102191575,
+      102087579,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679666423,
-    "wof:lastmodified": 1583187936,
+    "wof:lastmodified": 1717024513,
     "wof:name": "DAL907 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

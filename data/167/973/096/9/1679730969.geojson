@@ -2,6 +2,10 @@
   "id": 1679730969,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-24",
+    "date:cessation_upper": "2018-07-24",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-24T11:12:30",
     "edtf:inception": "2018-07-24~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534097,
     "sfomuseum:flight_id": "20180724-A-UAL-1087",
     "sfomuseum:flight_number": [
-      "UA1087", 
+      "UA1087",
       "UAL1087"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679730969, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1159157271, 
-      85688637, 
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      1159157271,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679730969,
-    "wof:lastmodified": 1583188392,
+    "wof:lastmodified": 1717024513,
     "wof:name": "UAL1087 (IAH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    29.977186, 
-    -95.338444, 
+    -122.370943,
+    29.977186,
+    -95.338444,
     37.61799
   ],
   "geometry": {"coordinates":[[-95.338444,29.977186],[-122.370943,37.61799]],"type":"MultiPoint"}

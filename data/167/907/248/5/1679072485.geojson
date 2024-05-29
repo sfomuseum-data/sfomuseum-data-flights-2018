@@ -2,6 +2,10 @@
   "id": 1679072485,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-13",
+    "date:cessation_upper": "2018-03-13",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-13T07:48:51",
     "edtf:inception": "2018-03-13~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20180313-A-UAL-2398",
     "sfomuseum:flight_number": [
-      "UA2398", 
+      "UA2398",
       "UAL2398"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1679072485
+      102191575,
+      85633793,
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583184294,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679072485,
-    "wof:lastmodified": 1583184294,
+    "wof:lastmodified": 1717024488,
     "wof:name": "UAL2398 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

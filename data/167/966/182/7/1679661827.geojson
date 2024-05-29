@@ -2,6 +2,10 @@
   "id": 1679661827,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-07",
+    "date:inception_upper": "2018-07-07",
     "edtf:cessation": "2018-07-07~",
     "edtf:inception": "2018-07-07T21:41:55",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180707-D-ASA-1090",
     "sfomuseum:flight_number": [
-      "AS1090", 
+      "AS1090",
       "ASA1090"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      1679661827, 
-      102191575, 
-      85688637, 
-      85633793, 
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679661827,
-    "wof:lastmodified": 1583187907,
+    "wof:lastmodified": 1717024511,
     "wof:name": "ASA1090 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

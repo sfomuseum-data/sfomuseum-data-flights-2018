@@ -2,6 +2,10 @@
   "id": 1679397245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-30",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-30~",
     "edtf:inception": "2018-04-30T09:37:33",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180430-D-ASA-337",
     "sfomuseum:flight_number": [
-      "AS337", 
+      "AS337",
       "ASA337"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1679397245, 
-      85633793, 
-      102527513, 
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      85633793,
+      102527513,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679397245,
-    "wof:lastmodified": 1583185614,
+    "wof:lastmodified": 1717024499,
     "wof:name": "ASA337 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}

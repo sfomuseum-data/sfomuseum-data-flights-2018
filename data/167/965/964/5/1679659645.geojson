@@ -2,6 +2,10 @@
   "id": 1679659645,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-07",
+    "date:inception_upper": "2018-07-07",
     "edtf:cessation": "2018-07-07~",
     "edtf:inception": "2018-07-07T10:06:13",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180707-D-ACA-760",
     "sfomuseum:flight_number": [
-      "AC760", 
+      "AC760",
       "ACA760"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      102191575, 
-      102527513, 
-      85922583, 
-      1679659645, 
-      85688637, 
+      102087579,
+      1159157271,
+      102191575,
+      102527513,
+      85922583,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679659645,
-    "wof:lastmodified": 1583187890,
+    "wof:lastmodified": 1717024515,
     "wof:name": "ACA760 (SFO-YUL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.744749, 
+    -122.370943,
+    37.61799,
+    -73.744749,
     45.462004
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.744749,45.462004]],"type":"MultiPoint"}

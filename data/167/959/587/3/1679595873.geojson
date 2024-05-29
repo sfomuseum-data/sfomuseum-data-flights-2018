@@ -2,6 +2,10 @@
   "id": 1679595873,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-20",
+    "date:cessation_upper": "2018-06-20",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-20T12:06:02",
     "edtf:inception": "2018-06-20~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20180620-A-UAL-637",
     "sfomuseum:flight_number": [
-      "UA637", 
+      "UA637",
       "UAL637"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1679595873
+      102527513,
+      102191575,
+      85922583,
+      1159157271,
+      85688637,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583187497,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679595873,
-    "wof:lastmodified": 1583187497,
+    "wof:lastmodified": 1717024508,
     "wof:name": "UAL637 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

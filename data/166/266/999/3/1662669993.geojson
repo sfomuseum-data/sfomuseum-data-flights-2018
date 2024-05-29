@@ -2,6 +2,10 @@
   "id": 1662669993,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-27",
+    "date:cessation_upper": "2018-09-27",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-27T13:44:34",
     "edtf:inception": "2018-09-27~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180927-A-ASA-1282",
     "sfomuseum:flight_number": [
-      "AS1282", 
+      "AS1282",
       "ASA1282"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102191575, 
-      85688637, 
-      85922583, 
-      102527513, 
-      102087579, 
-      1662669993
+      1159157271,
+      85633793,
+      102191575,
+      85688637,
+      85922583,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583190097,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662669993,
-    "wof:lastmodified": 1583190097,
+    "wof:lastmodified": 1717024475,
     "wof:name": "ASA1282 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679226665,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-01",
     "edtf:cessation": "2018-04-01~",
     "edtf:inception": "2018-04-01T23:36:53",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180401-D-DAL-1775",
     "sfomuseum:flight_number": [
-      "DL1775", 
+      "DL1775",
       "DAL1775"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679226665, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
+      102191575,
+      1159157271,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679226665,
-    "wof:lastmodified": 1583184834,
+    "wof:lastmodified": 1717024493,
     "wof:name": "DAL1775 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695973143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-25",
+    "date:cessation_upper": "2018-12-25",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-25T07:21:53",
     "edtf:inception": "2018-12-25~",
     "flysfo:airline": "SQ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102551593,
     "sfomuseum:flight_id": "20181225-A-SIA-32",
     "sfomuseum:flight_number": [
-      "SQ32", 
+      "SQ32",
       "SIA32"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1695973143, 
+      1159157271,
+      102087579,
+      102527513,
+      85688637,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695973143,
-    "wof:lastmodified": 1583192485,
+    "wof:lastmodified": 1717024472,
     "wof:name": "SIA32 (SIN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    1.3474, 
-    103.976839, 
+    -122.370943,
+    1.3474,
+    103.976839,
     37.61799
   ],
   "geometry": {"coordinates":[[103.976839,1.3474],[-122.370943,37.61799]],"type":"MultiPoint"}

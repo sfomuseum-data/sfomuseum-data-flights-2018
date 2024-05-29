@@ -2,6 +2,10 @@
   "id": 1679695799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-15",
+    "date:cessation_upper": "2018-07-15",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-15T22:51:49",
     "edtf:inception": "2018-07-15~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20180715-A-SWA-3526",
     "sfomuseum:flight_number": [
-      "WN3526", 
+      "WN3526",
       "SWA3526"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      85633793, 
-      1679695799, 
-      1159157271, 
-      102527513, 
-      102191575, 
+      85922583,
+      85688637,
+      85633793,
+      1159157271,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679695799,
-    "wof:lastmodified": 1583188144,
+    "wof:lastmodified": 1717024513,
     "wof:name": "SWA3526 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

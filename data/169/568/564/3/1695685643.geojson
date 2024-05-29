@@ -2,6 +2,10 @@
   "id": 1695685643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-20",
+    "date:inception_upper": "2018-09-20",
     "edtf:cessation": "2018-09-20~",
     "edtf:inception": "2018-09-20T07:47:06",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180920-D-ASA-1280",
     "sfomuseum:flight_number": [
-      "AS1280", 
+      "AS1280",
       "ASA1280"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102527513, 
-      102191575, 
-      1695685643
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
+      85633793,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583189897,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695685643,
-    "wof:lastmodified": 1583189897,
+    "wof:lastmodified": 1717024456,
     "wof:name": "ASA1280 (SFO-IND)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -86.278675, 
+    -122.370943,
+    37.61799,
+    -86.278675,
     39.730262
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-86.278675,39.730262]],"type":"MultiPoint"}

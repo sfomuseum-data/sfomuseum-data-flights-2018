@@ -2,6 +2,10 @@
   "id": 1695948133,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-11",
+    "date:cessation_upper": "2018-12-11",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-11T05:20:58",
     "edtf:inception": "2018-12-11~",
     "flysfo:airline": "FX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527185,
     "sfomuseum:flight_id": "20181211-A-FDX-1545",
     "sfomuseum:flight_number": [
-      "FX1545", 
+      "FX1545",
       "FDX1545"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1695948133, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      85922583, 
+      102527513,
+      102191575,
+      102087579,
+      1159157271,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695948133,
-    "wof:lastmodified": 1583192094,
+    "wof:lastmodified": 1717024474,
     "wof:name": "FDX1545 (MEM-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.04889, 
-    -89.981998, 
+    -122.370943,
+    35.04889,
+    -89.981998,
     37.61799
   ],
   "geometry": {"coordinates":[[-89.981998,35.04889],[-122.370943,37.61799]],"type":"MultiPoint"}

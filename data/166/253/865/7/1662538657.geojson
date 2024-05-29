@@ -2,6 +2,10 @@
   "id": 1662538657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-22",
+    "date:cessation_upper": "2018-09-22",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-22T18:26:36",
     "edtf:inception": "2018-09-22~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102521851,
     "sfomuseum:flight_id": "20180922-A-SWA-4021",
     "sfomuseum:flight_number": [
-      "WN4021", 
+      "WN4021",
       "SWA4021"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      85922583, 
-      102087579, 
-      1662538657, 
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      85922583,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662538657,
-    "wof:lastmodified": 1583189968,
+    "wof:lastmodified": 1717024477,
     "wof:name": "SWA4021 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}

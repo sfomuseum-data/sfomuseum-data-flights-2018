@@ -2,6 +2,10 @@
   "id": 1679684651,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-13",
+    "date:cessation_upper": "2018-07-13",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-13T09:11:40",
     "edtf:inception": "2018-07-13~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180713-A-SWA-1784",
     "sfomuseum:flight_number": [
-      "WN1784", 
+      "WN1784",
       "SWA1784"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      1679684651
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      85922583,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583188065,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679684651,
-    "wof:lastmodified": 1583188065,
+    "wof:lastmodified": 1717024513,
     "wof:name": "SWA1784 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679497469,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-26",
+    "date:inception_upper": "2018-05-26",
     "edtf:cessation": "2018-05-26~",
     "edtf:inception": "2018-05-26T13:37:44",
     "flysfo:airline": "OO",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180526-D-SKW-5201",
     "sfomuseum:flight_number": [
-      "OO5201", 
+      "OO5201",
       "SKW5201"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      102527513, 
-      85633793, 
-      1679497469, 
-      85922583, 
-      102191575, 
+      85688637,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679497469,
-    "wof:lastmodified": 1583186822,
+    "wof:lastmodified": 1717024504,
     "wof:name": "SKW5201 (SFO-MRY)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.5879, 
-    -121.83939, 
+    -122.370943,
+    36.5879,
+    -121.83939,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-121.83939,36.5879]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695947489,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-10",
+    "date:inception_upper": "2018-12-10",
     "edtf:cessation": "2018-12-10~",
     "edtf:inception": "2018-12-10T17:38:08",
     "flysfo:airline": "EI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181210-D-EIN-146",
     "sfomuseum:flight_number": [
-      "EI146", 
+      "EI146",
       "EIN146"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1695947489, 
-      102087579, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85922583, 
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695947489,
-    "wof:lastmodified": 1583192084,
+    "wof:lastmodified": 1717024473,
     "wof:name": "EIN146 (SFO-DUB)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -6.246362, 
+    -122.370943,
+    37.61799,
+    -6.246362,
     53.425842
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-6.246362,53.425842]],"type":"MultiPoint"}

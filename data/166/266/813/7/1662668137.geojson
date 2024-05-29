@@ -2,6 +2,10 @@
   "id": 1662668137,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-22",
+    "date:cessation_upper": "2018-09-22",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-22T18:12:53",
     "edtf:inception": "2018-09-22~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20180922-A-UAL-1560",
     "sfomuseum:flight_number": [
-      "UA1560", 
+      "UA1560",
       "UAL1560"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662668137, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1159157271, 
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662668137,
-    "wof:lastmodified": 1583189968,
+    "wof:lastmodified": 1717024474,
     "wof:name": "UAL1560 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

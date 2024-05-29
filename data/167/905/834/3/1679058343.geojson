@@ -2,6 +2,10 @@
   "id": 1679058343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-11",
+    "date:inception_upper": "2018-03-11",
     "edtf:cessation": "2018-03-11~",
     "edtf:inception": "2018-03-11T09:13:24",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180311-D-UAL-1679",
     "sfomuseum:flight_number": [
-      "UA1679", 
+      "UA1679",
       "UAL1679"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85688637, 
-      102191575, 
-      85922583, 
-      102527513, 
-      102087579, 
-      85633793, 
-      1679058343
+      1159157271,
+      85688637,
+      102191575,
+      85922583,
+      102527513,
+      102087579,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583184238,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679058343,
-    "wof:lastmodified": 1583184238,
+    "wof:lastmodified": 1717024488,
     "wof:name": "UAL1679 (SFO-CUN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    21.040317, 
-    -86.872856, 
+    -122.370943,
+    21.040317,
+    -86.872856,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-86.872856,21.040317]],"type":"MultiPoint"}

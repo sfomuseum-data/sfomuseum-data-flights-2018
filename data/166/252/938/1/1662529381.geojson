@@ -2,6 +2,10 @@
   "id": 1662529381,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-18",
+    "date:cessation_upper": "2018-01-18",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-18T20:01:18",
     "edtf:inception": "2018-01-18~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20180118-A-DAL-483",
     "sfomuseum:flight_number": [
-      "DL483", 
+      "DL483",
       "DAL483"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      1662529381
+      102527513,
+      102191575,
+      85688637,
+      85922583,
+      102087579,
+      1159157271,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583183129,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662529381,
-    "wof:lastmodified": 1583183129,
+    "wof:lastmodified": 1717024455,
     "wof:name": "DAL483 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

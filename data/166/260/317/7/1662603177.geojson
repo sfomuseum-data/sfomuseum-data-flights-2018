@@ -2,6 +2,10 @@
   "id": 1662603177,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-08",
+    "date:cessation_upper": "2018-04-08",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-08T20:37:00",
     "edtf:inception": "2018-04-08~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20180408-A-UAL-384",
     "sfomuseum:flight_number": [
-      "UA384", 
+      "UA384",
       "UAL384"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1662603177, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      85688637, 
+      85633793,
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662603177,
-    "wof:lastmodified": 1583184961,
+    "wof:lastmodified": 1717024480,
     "wof:name": "UAL384 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

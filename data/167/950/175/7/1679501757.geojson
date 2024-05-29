@@ -2,6 +2,10 @@
   "id": 1679501757,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-27",
+    "date:inception_upper": "2018-05-27",
     "edtf:cessation": "2018-05-27~",
     "edtf:inception": "2018-05-27T19:17:16",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180527-D-SWA-2462",
     "sfomuseum:flight_number": [
-      "WN2462", 
+      "WN2462",
       "SWA2462"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102527513, 
-      85922583, 
-      1159157271, 
-      1679501757
+      102087579,
+      85688637,
+      102191575,
+      85633793,
+      102527513,
+      85922583,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583186850,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679501757,
-    "wof:lastmodified": 1583186850,
+    "wof:lastmodified": 1717024501,
     "wof:name": "SWA2462 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

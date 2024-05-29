@@ -2,6 +2,10 @@
   "id": 1679690731,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-14",
+    "date:cessation_upper": "2018-07-14",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-14T17:25:51",
     "edtf:inception": "2018-07-14~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180714-A-SWA-3310",
     "sfomuseum:flight_number": [
-      "WN3310", 
+      "WN3310",
       "SWA3310"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      1679690731
+      1159157271,
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583188106,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679690731,
-    "wof:lastmodified": 1583188106,
+    "wof:lastmodified": 1717024511,
     "wof:name": "SWA3310 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

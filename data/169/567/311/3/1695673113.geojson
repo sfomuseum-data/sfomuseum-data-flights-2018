@@ -2,6 +2,10 @@
   "id": 1695673113,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-16",
+    "date:inception_upper": "2018-09-16",
     "edtf:cessation": "2018-09-16~",
     "edtf:inception": "2018-09-16T18:27:31",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180916-D-UAL-2160",
     "sfomuseum:flight_number": [
-      "UA2160", 
+      "UA2160",
       "UAL2160"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      102527513, 
-      85922583, 
-      85633793, 
-      1159157271, 
-      102191575, 
-      1695673113
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      85633793,
+      1159157271,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583189807,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695673113,
-    "wof:lastmodified": 1583189807,
+    "wof:lastmodified": 1717024455,
     "wof:name": "UAL2160 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1678905329,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-15",
+    "date:inception_upper": "2018-02-15",
     "edtf:cessation": "2018-02-15~",
     "edtf:inception": "2018-02-15T12:32:10",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180215-D-UAL-759",
     "sfomuseum:flight_number": [
-      "UA759", 
+      "UA759",
       "UAL759"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      1678905329, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159157271,
+      102191575,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678905329,
-    "wof:lastmodified": 1583183631,
+    "wof:lastmodified": 1717024472,
     "wof:name": "UAL759 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

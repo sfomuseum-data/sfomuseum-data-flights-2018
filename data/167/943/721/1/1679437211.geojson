@@ -2,6 +2,10 @@
   "id": 1679437211,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-10",
+    "date:cessation_upper": "2018-05-10",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-10T16:23:33",
     "edtf:inception": "2018-05-10~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180510-A-ASA-554",
     "sfomuseum:flight_number": [
-      "AS554", 
+      "AS554",
       "ASA554"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1679437211
+      102527513,
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583186386,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679437211,
-    "wof:lastmodified": 1583186386,
+    "wof:lastmodified": 1717024501,
     "wof:name": "ASA554 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

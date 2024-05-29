@@ -2,6 +2,10 @@
   "id": 1695864017,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-06",
+    "date:cessation_upper": "2018-11-06",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-06T15:29:41",
     "edtf:inception": "2018-11-06~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20181106-A-SWA-103",
     "sfomuseum:flight_number": [
-      "WN103", 
+      "WN103",
       "SWA103"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1695864017, 
+      85688637,
+      85922583,
+      102191575,
+      85633793,
+      102087579,
+      102527513,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695864017,
-    "wof:lastmodified": 1583191176,
+    "wof:lastmodified": 1717024465,
     "wof:name": "SWA103 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695610039,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-30",
+    "date:cessation_upper": "2018-08-30",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-30T12:33:33",
     "edtf:inception": "2018-08-30~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20180830-A-UAL-1914",
     "sfomuseum:flight_number": [
-      "UA1914", 
+      "UA1914",
       "UAL1914"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1159157271, 
-      102087579, 
-      1695610039
+      85633793,
+      85688637,
+      102527513,
+      85922583,
+      102191575,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583189384,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695610039,
-    "wof:lastmodified": 1583189384,
+    "wof:lastmodified": 1717024475,
     "wof:name": "UAL1914 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

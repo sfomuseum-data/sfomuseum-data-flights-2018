@@ -2,6 +2,10 @@
   "id": 1678890697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-12",
+    "date:cessation_upper": "2018-02-12",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-12T21:13:55",
     "edtf:inception": "2018-02-12~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20180212-A-UAL-2777",
     "sfomuseum:flight_number": [
-      "UA2777", 
+      "UA2777",
       "UAL2777"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159157271, 
-      102191575, 
-      85922583, 
-      102527513, 
-      85688637, 
-      1678890697
+      85633793,
+      102087579,
+      1159157271,
+      102191575,
+      85922583,
+      102527513,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583183573,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678890697,
-    "wof:lastmodified": 1583183573,
+    "wof:lastmodified": 1717024468,
     "wof:name": "UAL2777 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

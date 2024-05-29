@@ -2,6 +2,10 @@
   "id": 1695979911,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-28",
+    "date:cessation_upper": "2018-12-28",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-28T20:46:24",
     "edtf:inception": "2018-12-28~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20181228-A-ASA-9578",
     "sfomuseum:flight_number": [
-      "AS9578", 
+      "AS9578",
       "ASA9578"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      1695979911, 
-      85688637, 
-      102527513, 
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695979911,
-    "wof:lastmodified": 1583192593,
+    "wof:lastmodified": 1717024478,
     "wof:name": "ASA9578 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

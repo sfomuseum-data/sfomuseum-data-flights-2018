@@ -2,6 +2,10 @@
   "id": 1679039129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-08",
+    "date:cessation_upper": "2018-03-08",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-08T11:09:04",
     "edtf:inception": "2018-03-08~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180308-A-SWA-496",
     "sfomuseum:flight_number": [
-      "WN496", 
+      "WN496",
       "SWA496"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1679039129, 
-      85922583, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      102527513, 
+      85688637,
+      85922583,
+      102191575,
+      85633793,
+      1159157271,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679039129,
-    "wof:lastmodified": 1583184152,
+    "wof:lastmodified": 1717024486,
     "wof:name": "SWA496 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

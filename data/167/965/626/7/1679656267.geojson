@@ -2,6 +2,10 @@
   "id": 1679656267,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-06",
+    "date:cessation_upper": "2018-07-06",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-06T12:38:54",
     "edtf:inception": "2018-07-06~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180706-A-ASA-430",
     "sfomuseum:flight_number": [
-      "AS430", 
+      "AS430",
       "ASA430"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1679656267, 
-      85922583, 
-      102087579, 
+      85688637,
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679656267,
-    "wof:lastmodified": 1583187867,
+    "wof:lastmodified": 1717024513,
     "wof:name": "ASA430 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

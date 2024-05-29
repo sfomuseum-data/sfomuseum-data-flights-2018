@@ -2,6 +2,10 @@
   "id": 1678796043,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-27",
+    "date:cessation_upper": "2018-01-27",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-27T23:42:27",
     "edtf:inception": "2018-01-27~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526657,
     "sfomuseum:flight_id": "20180127-A-ASA-9574",
     "sfomuseum:flight_number": [
-      "AS9574", 
+      "AS9574",
       "ASA9574"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1678796043, 
-      1159157271, 
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678796043,
-    "wof:lastmodified": 1583183264,
+    "wof:lastmodified": 1717024481,
     "wof:name": "ASA9574 (PAE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.279084, 
+    -122.370943,
+    37.61799,
+    -122.279084,
     47.908767
   ],
   "geometry": {"coordinates":[[-122.279084,47.908767],[-122.370943,37.61799]],"type":"MultiPoint"}

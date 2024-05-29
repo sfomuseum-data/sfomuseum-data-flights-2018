@@ -2,6 +2,10 @@
   "id": 1679406245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-02",
+    "date:cessation_upper": "2018-05-02",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-02T15:28:02",
     "edtf:inception": "2018-05-02~",
     "flysfo:airline": "EI",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102547639,
     "sfomuseum:flight_id": "20180502-A-EIN-147",
     "sfomuseum:flight_number": [
-      "EI147", 
+      "EI147",
       "EIN147"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85633793, 
-      1679406245, 
-      102527513, 
-      102191575, 
-      85922583, 
+      102087579,
+      1159157271,
+      85633793,
+      102527513,
+      102191575,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679406245,
-    "wof:lastmodified": 1583185793,
+    "wof:lastmodified": 1717024498,
     "wof:name": "EIN147 (DUB-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -6.246362, 
+    -122.370943,
+    37.61799,
+    -6.246362,
     53.425842
   ],
   "geometry": {"coordinates":[[-6.246362,53.425842],[-122.370943,37.61799]],"type":"MultiPoint"}

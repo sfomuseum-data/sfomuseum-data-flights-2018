@@ -2,6 +2,10 @@
   "id": 1695851229,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-02",
+    "date:cessation_upper": "2018-11-02",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-02T23:53:18",
     "edtf:inception": "2018-11-02~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528541,
     "sfomuseum:flight_id": "20181102-A-AAL-446",
     "sfomuseum:flight_number": [
-      "AA446", 
+      "AA446",
       "AAL446"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
-      85688637, 
-      102087579, 
-      1695851229, 
-      1159157271, 
+      85633793,
+      102527513,
+      102191575,
+      85688637,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695851229,
-    "wof:lastmodified": 1583191089,
+    "wof:lastmodified": 1717024463,
     "wof:name": "AAL446 (DFW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.050966,32.90366],[-122.370943,37.61799]],"type":"MultiPoint"}

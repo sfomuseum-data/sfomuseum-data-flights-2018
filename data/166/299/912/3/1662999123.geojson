@@ -2,6 +2,10 @@
   "id": 1662999123,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-07",
+    "date:cessation_upper": "2018-01-07",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-07T18:58:16",
     "edtf:inception": "2018-01-07~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20180107-A-UAL-622",
     "sfomuseum:flight_number": [
-      "UA622", 
+      "UA622",
       "UAL622"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1662999123, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      85633793, 
+      102087579,
+      85922583,
+      85688637,
+      102191575,
+      1159157271,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662999123,
-    "wof:lastmodified": 1583182965,
+    "wof:lastmodified": 1717024488,
     "wof:name": "UAL622 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679347709,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-17",
+    "date:cessation_upper": "2018-04-17",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-17T01:03:51",
     "edtf:inception": "2018-04-17~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180417-A-SWA-1380",
     "sfomuseum:flight_number": [
-      "WN1380", 
+      "WN1380",
       "SWA1380"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      1159157271, 
-      1679347709, 
-      85922583, 
-      85633793, 
-      102087579, 
+      102527513,
+      85688637,
+      1159157271,
+      85922583,
+      85633793,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679347709,
-    "wof:lastmodified": 1583185132,
+    "wof:lastmodified": 1717024499,
     "wof:name": "SWA1380 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

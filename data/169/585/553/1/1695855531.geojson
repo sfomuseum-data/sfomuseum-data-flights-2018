@@ -2,6 +2,10 @@
   "id": 1695855531,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-04",
+    "date:cessation_upper": "2018-11-04",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-04T10:49:45",
     "edtf:inception": "2018-11-04~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20181104-A-SWA-5729",
     "sfomuseum:flight_number": [
-      "WN5729", 
+      "WN5729",
       "SWA5729"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85633793, 
-      85688637, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1695855531
+      1159157271,
+      102527513,
+      85633793,
+      85688637,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583191118,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695855531,
-    "wof:lastmodified": 1583191118,
+    "wof:lastmodified": 1717024464,
     "wof:name": "SWA5729 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

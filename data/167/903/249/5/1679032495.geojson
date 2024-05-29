@@ -2,6 +2,10 @@
   "id": 1679032495,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-07",
+    "date:cessation_upper": "2018-03-07",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-07T12:25:53",
     "edtf:inception": "2018-03-07~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20180307-A-SWA-898",
     "sfomuseum:flight_number": [
-      "WN898", 
+      "WN898",
       "SWA898"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1679032495, 
+      85688637,
+      1159157271,
+      102087579,
+      102527513,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679032495,
-    "wof:lastmodified": 1583184128,
+    "wof:lastmodified": 1717024485,
     "wof:name": "SWA898 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

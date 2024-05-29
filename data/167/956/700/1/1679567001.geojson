@@ -2,6 +2,10 @@
   "id": 1679567001,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-13",
+    "date:cessation_upper": "2018-06-13",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-13T11:08:36",
     "edtf:inception": "2018-06-13~",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20180613-A-AAL-383",
     "sfomuseum:flight_number": [
-      "AA383", 
+      "AA383",
       "AAL383"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1679567001
+      102087579,
+      85922583,
+      1159157271,
+      102191575,
+      85633793,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583187295,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679567001,
-    "wof:lastmodified": 1583187295,
+    "wof:lastmodified": 1717024508,
     "wof:name": "AAL383 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

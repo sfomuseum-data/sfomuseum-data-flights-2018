@@ -2,6 +2,10 @@
   "id": 1679317681,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-11",
+    "date:cessation_upper": "2018-04-11",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-11T00:37:44",
     "edtf:inception": "2018-04-11~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20180411-A-DAL-2416",
     "sfomuseum:flight_number": [
-      "DL2416", 
+      "DL2416",
       "DAL2416"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1679317681, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
+      85688637,
+      1159157271,
+      102191575,
+      102087579,
+      85922583,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679317681,
-    "wof:lastmodified": 1583185023,
+    "wof:lastmodified": 1717024494,
     "wof:name": "DAL2416 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679513419,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-30",
+    "date:cessation_upper": "2018-05-30",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-30T21:09:34",
     "edtf:inception": "2018-05-30~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20180530-A-UAL-760",
     "sfomuseum:flight_number": [
-      "UA760", 
+      "UA760",
       "UAL760"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1679513419
+      102527513,
+      102191575,
+      102087579,
+      1159157271,
+      85922583,
+      85633793,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583186928,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679513419,
-    "wof:lastmodified": 1583186928,
+    "wof:lastmodified": 1717024502,
     "wof:name": "UAL760 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679495025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-25",
+    "date:cessation_upper": "2018-05-25",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-25T21:31:10",
     "edtf:inception": "2018-05-25~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180525-A-UAL-283",
     "sfomuseum:flight_number": [
-      "UA283", 
+      "UA283",
       "UAL283"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      1679495025, 
-      102087579, 
-      85633793, 
-      85922583, 
-      85688637, 
+      1159157271,
+      102527513,
+      102087579,
+      85633793,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679495025,
-    "wof:lastmodified": 1583186806,
+    "wof:lastmodified": 1717024502,
     "wof:name": "UAL283 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695551887,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-16",
+    "date:inception_upper": "2018-08-16",
     "edtf:cessation": "2018-08-16~",
     "edtf:inception": "2018-08-16T06:04:28",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180816-D-AAL-2025",
     "sfomuseum:flight_number": [
-      "AA2025", 
+      "AA2025",
       "AAL2025"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102191575, 
-      102527513, 
-      85688637, 
-      102087579, 
-      1695551887, 
+      85633793,
+      85922583,
+      102191575,
+      102527513,
+      85688637,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695551887,
-    "wof:lastmodified": 1583188997,
+    "wof:lastmodified": 1717024451,
     "wof:name": "AAL2025 (SFO-CLT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.942777,35.220744]],"type":"MultiPoint"}

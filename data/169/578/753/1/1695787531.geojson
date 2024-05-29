@@ -2,6 +2,10 @@
   "id": 1695787531,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-16",
+    "date:cessation_upper": "2018-10-16",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-16T23:48:19",
     "edtf:inception": "2018-10-16~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20181016-A-SWA-2177",
     "sfomuseum:flight_number": [
-      "WN2177", 
+      "WN2177",
       "SWA2177"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      1159157271, 
-      1695787531, 
-      102087579, 
-      102527513, 
-      102191575, 
+      85633793,
+      85922583,
+      1159157271,
+      102087579,
+      102527513,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695787531,
-    "wof:lastmodified": 1583190626,
+    "wof:lastmodified": 1717024462,
     "wof:name": "SWA2177 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695952673,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-13",
+    "date:cessation_upper": "2018-12-13",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-13T17:49:33",
     "edtf:inception": "2018-12-13~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20181213-A-UAL-1026",
     "sfomuseum:flight_number": [
-      "UA1026", 
+      "UA1026",
       "UAL1026"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102191575, 
-      1695952673, 
-      1159157271, 
-      102527513, 
-      85922583, 
+      85688637,
+      85633793,
+      102191575,
+      1159157271,
+      102527513,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695952673,
-    "wof:lastmodified": 1583192162,
+    "wof:lastmodified": 1717024472,
     "wof:name": "UAL1026 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

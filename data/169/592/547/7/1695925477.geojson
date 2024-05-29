@@ -2,6 +2,10 @@
   "id": 1695925477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-27",
+    "date:cessation_upper": "2018-11-27",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-27T20:41:59",
     "edtf:inception": "2018-11-27~",
     "flysfo:airline": "Y4",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536387,
     "sfomuseum:flight_id": "20181127-A-VOI-886",
     "sfomuseum:flight_number": [
-      "Y4886", 
+      "Y4886",
       "VOI886"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
-      102087579, 
-      85688637, 
-      1695925477
+      1159157271,
+      102191575,
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583191750,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695925477,
-    "wof:lastmodified": 1583191750,
+    "wof:lastmodified": 1717024471,
     "wof:name": "VOI886 (GDL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.525627, 
-    -103.301974, 
+    -122.370943,
+    20.525627,
+    -103.301974,
     37.61799
   ],
   "geometry": {"coordinates":[[-103.301974,20.525627],[-122.370943,37.61799]],"type":"MultiPoint"}

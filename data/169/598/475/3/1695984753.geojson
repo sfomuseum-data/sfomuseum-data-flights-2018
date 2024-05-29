@@ -2,6 +2,10 @@
   "id": 1695984753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-31",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-31T13:32:43",
     "edtf:inception": "2018-12-31~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20181231-A-SWA-4056",
     "sfomuseum:flight_number": [
-      "WN4056", 
+      "WN4056",
       "SWA4056"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      1695984753
+      102191575,
+      85633793,
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583192663,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695984753,
-    "wof:lastmodified": 1583192663,
+    "wof:lastmodified": 1717024474,
     "wof:name": "SWA4056 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

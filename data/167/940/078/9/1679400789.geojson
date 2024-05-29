@@ -2,6 +2,10 @@
   "id": 1679400789,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-01",
     "edtf:cessation": "2018-05-01~",
     "edtf:inception": "2018-05-01T08:03:22",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180501-D-ASA-1174",
     "sfomuseum:flight_number": [
-      "AS1174", 
+      "AS1174",
       "ASA1174"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159157271, 
-      85688637, 
-      85922583, 
-      102191575, 
-      85633793, 
-      102087579, 
-      1679400789
+      102527513,
+      1159157271,
+      85688637,
+      85922583,
+      102191575,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583185679,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679400789,
-    "wof:lastmodified": 1583185679,
+    "wof:lastmodified": 1717024495,
     "wof:name": "ASA1174 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

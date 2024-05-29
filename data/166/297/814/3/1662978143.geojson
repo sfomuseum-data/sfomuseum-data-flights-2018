@@ -2,6 +2,10 @@
   "id": 1662978143,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-02",
+    "date:cessation_upper": "2018-01-02",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-02T04:55:40",
     "edtf:inception": "2018-01-02~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532929,
     "sfomuseum:flight_id": "20180102-A-UAL-2080",
     "sfomuseum:flight_number": [
-      "UA2080", 
+      "UA2080",
       "UAL2080"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      1662978143, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102191575, 
+      1159157271,
+      102527513,
+      85633793,
+      102087579,
+      85688637,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662978143,
-    "wof:lastmodified": 1583182873,
+    "wof:lastmodified": 1717024484,
     "wof:name": "UAL2080 (OGG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662702643,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-26",
+    "date:cessation_upper": "2018-12-26",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-26T18:00:07",
     "edtf:inception": "2018-12-26~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20181226-A-SWA-6544",
     "sfomuseum:flight_number": [
-      "WN6544", 
+      "WN6544",
       "SWA6544"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1662702643, 
+      102191575,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662702643,
-    "wof:lastmodified": 1583192526,
+    "wof:lastmodified": 1717024482,
     "wof:name": "SWA6544 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

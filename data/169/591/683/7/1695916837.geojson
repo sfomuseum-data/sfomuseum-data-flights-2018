@@ -2,6 +2,10 @@
   "id": 1695916837,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-22",
+    "date:cessation_upper": "2018-11-22",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-22T14:08:09",
     "edtf:inception": "2018-11-22~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20181122-A-UAL-499",
     "sfomuseum:flight_number": [
-      "UA499", 
+      "UA499",
       "UAL499"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      85633793, 
-      1695916837, 
-      85922583, 
-      102527513, 
-      102191575, 
+      85688637,
+      1159157271,
+      85633793,
+      85922583,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695916837,
-    "wof:lastmodified": 1583191626,
+    "wof:lastmodified": 1717024471,
     "wof:name": "UAL499 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

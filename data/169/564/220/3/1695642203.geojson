@@ -2,6 +2,10 @@
   "id": 1695642203,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-07",
+    "date:cessation_upper": "2018-09-07",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-07T21:28:23",
     "edtf:inception": "2018-09-07~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20180907-A-SWA-1860",
     "sfomuseum:flight_number": [
-      "WN1860", 
+      "WN1860",
       "SWA1860"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102191575, 
-      85688637, 
-      1695642203, 
-      1159157271, 
-      102527513, 
-      85922583, 
+      85633793,
+      102191575,
+      85688637,
+      1159157271,
+      102527513,
+      85922583,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695642203,
-    "wof:lastmodified": 1583189599,
+    "wof:lastmodified": 1717024454,
     "wof:name": "SWA1860 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

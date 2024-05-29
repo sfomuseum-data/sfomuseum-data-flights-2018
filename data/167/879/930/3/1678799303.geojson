@@ -2,6 +2,10 @@
   "id": 1678799303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-28",
+    "date:cessation_upper": "2018-01-28",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-28T13:29:04",
     "edtf:inception": "2018-01-28~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525535,
     "sfomuseum:flight_id": "20180128-A-UAL-1778",
     "sfomuseum:flight_number": [
-      "UA1778", 
+      "UA1778",
       "UAL1778"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      102087579, 
-      1678799303, 
-      1159157271, 
-      102191575, 
+      85688637,
+      85633793,
+      85922583,
+      102087579,
+      1159157271,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678799303,
-    "wof:lastmodified": 1583183271,
+    "wof:lastmodified": 1717024480,
     "wof:name": "UAL1778 (RNO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -119.772167, 
+    -122.370943,
+    37.61799,
+    -119.772167,
     39.505219
   ],
   "geometry": {"coordinates":[[-119.772167,39.505219],[-122.370943,37.61799]],"type":"MultiPoint"}

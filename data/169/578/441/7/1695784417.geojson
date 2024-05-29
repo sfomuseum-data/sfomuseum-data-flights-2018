@@ -2,6 +2,10 @@
   "id": 1695784417,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-16",
+    "date:inception_upper": "2018-10-16",
     "edtf:cessation": "2018-10-16~",
     "edtf:inception": "2018-10-16T08:44:50",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181016-D-UAL-2790",
     "sfomuseum:flight_number": [
-      "UA2790", 
+      "UA2790",
       "UAL2790"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1159157271, 
-      1695784417, 
-      102527513, 
-      85922583, 
-      85688637, 
+      102191575,
+      85633793,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695784417,
-    "wof:lastmodified": 1583190604,
+    "wof:lastmodified": 1717024460,
     "wof:name": "UAL2790 (SFO-HKG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[113.927436,22.307471]],"type":"MultiPoint"}

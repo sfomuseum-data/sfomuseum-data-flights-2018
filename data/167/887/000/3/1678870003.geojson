@@ -2,6 +2,10 @@
   "id": 1678870003,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-09",
+    "date:cessation_upper": "2018-02-09",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-09T10:39:34",
     "edtf:inception": "2018-02-09~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528779,
     "sfomuseum:flight_id": "20180209-A-ASA-1107",
     "sfomuseum:flight_number": [
-      "AS1107", 
+      "AS1107",
       "ASA1107"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      1678870003, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102191575, 
+      1159157271,
+      102087579,
+      85688637,
+      102527513,
+      85633793,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678870003,
-    "wof:lastmodified": 1583183498,
+    "wof:lastmodified": 1717024463,
     "wof:name": "ASA1107 (RDU-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.876323, 
-    -78.790399, 
+    -122.370943,
+    35.876323,
+    -78.790399,
     37.61799
   ],
   "geometry": {"coordinates":[[-78.790399,35.876323],[-122.370943,37.61799]],"type":"MultiPoint"}

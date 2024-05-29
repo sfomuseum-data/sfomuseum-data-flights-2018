@@ -2,6 +2,10 @@
   "id": 1679778561,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-05",
+    "date:inception_upper": "2018-08-05",
     "edtf:cessation": "2018-08-05~",
     "edtf:inception": "2018-08-05T08:36:28",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180805-D-DAL-2016",
     "sfomuseum:flight_number": [
-      "DL2016", 
+      "DL2016",
       "DAL2016"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679778561, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679778561,
-    "wof:lastmodified": 1583188705,
+    "wof:lastmodified": 1717024520,
     "wof:name": "DAL2016 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679404609,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-02",
+    "date:cessation_upper": "2018-05-02",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-02T08:13:34",
     "edtf:inception": "2018-05-02~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527337,
     "sfomuseum:flight_id": "20180502-A-UAL-499",
     "sfomuseum:flight_number": [
-      "UA499", 
+      "UA499",
       "UAL499"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1679404609, 
+      102087579,
+      102191575,
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679404609,
-    "wof:lastmodified": 1583185761,
+    "wof:lastmodified": 1717024497,
     "wof:name": "UAL499 (SBA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.427974, 
-    -119.837133, 
+    -122.370943,
+    34.427974,
+    -119.837133,
     37.61799
   ],
   "geometry": {"coordinates":[[-119.837133,34.427974],[-122.370943,37.61799]],"type":"MultiPoint"}

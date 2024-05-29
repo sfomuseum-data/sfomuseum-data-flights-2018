@@ -2,6 +2,10 @@
   "id": 1679728575,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-23",
+    "date:inception_upper": "2018-07-23",
     "edtf:cessation": "2018-07-23~",
     "edtf:inception": "2018-07-23T19:15:37",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180723-D-UAL-460",
     "sfomuseum:flight_number": [
-      "UA460", 
+      "UA460",
       "UAL460"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1679728575, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      102087579, 
+      85688637,
+      102527513,
+      85922583,
+      1159157271,
+      102191575,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679728575,
-    "wof:lastmodified": 1583188376,
+    "wof:lastmodified": 1717024516,
     "wof:name": "UAL460 (SFO-YVR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.1792,49.19333]],"type":"MultiPoint"}

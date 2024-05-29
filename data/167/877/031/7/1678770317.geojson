@@ -2,6 +2,10 @@
   "id": 1678770317,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-20",
+    "date:cessation_upper": "2018-01-20",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-20T13:25:01",
     "edtf:inception": "2018-01-20~",
     "flysfo:airline": "XP",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20180120-A-CXP-715",
     "sfomuseum:flight_number": [
-      "XP715", 
+      "XP715",
       "CXP715"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      1678770317, 
-      102527513, 
+      102191575,
+      85688637,
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678770317,
-    "wof:lastmodified": 1583183154,
+    "wof:lastmodified": 1717024475,
     "wof:name": "CXP715 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

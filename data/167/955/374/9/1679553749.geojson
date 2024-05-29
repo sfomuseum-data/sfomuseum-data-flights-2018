@@ -2,6 +2,10 @@
   "id": 1679553749,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-01",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-10",
+    "date:inception_upper": "2018-06-10",
     "edtf:cessation": "2018-06-10~",
     "edtf:inception": "2018-06-10T07:45:26",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180610-D-AAL-343",
     "sfomuseum:flight_number": [
-      "AA343", 
+      "AA343",
       "AAL343"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85922583, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1679553749
+      85688637,
+      85922583,
+      102191575,
+      1159157271,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583187203,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679553749,
-    "wof:lastmodified": 1583187203,
+    "wof:lastmodified": 1717024506,
     "wof:name": "AAL343 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.296006,25.79047]],"type":"MultiPoint"}

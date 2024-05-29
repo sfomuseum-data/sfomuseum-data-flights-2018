@@ -2,6 +2,10 @@
   "id": 1679286281,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-08",
+    "date:cessation_upper": "2018-04-08",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-08T16:12:26",
     "edtf:inception": "2018-04-08~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20180408-A-UAL-595",
     "sfomuseum:flight_number": [
-      "UA595", 
+      "UA595",
       "UAL595"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      85688637, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1679286281
+      1159157271,
+      102527513,
+      102191575,
+      85688637,
+      102087579,
+      85922583,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583184957,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679286281,
-    "wof:lastmodified": 1583184957,
+    "wof:lastmodified": 1717024494,
     "wof:name": "UAL595 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

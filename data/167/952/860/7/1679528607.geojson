@@ -2,6 +2,10 @@
   "id": 1679528607,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-03",
+    "date:cessation_upper": "2018-06-03",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-03T20:18:42",
     "edtf:inception": "2018-06-03~",
     "flysfo:airline": "SQ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102541737,
     "sfomuseum:flight_id": "20180603-A-SIA-2",
     "sfomuseum:flight_number": [
-      "SQ2", 
+      "SQ2",
       "SIA2"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159157271, 
-      85922583, 
-      102191575, 
-      1679528607
+      102087579,
+      85688637,
+      102527513,
+      85633793,
+      1159157271,
+      85922583,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583187031,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679528607,
-    "wof:lastmodified": 1583187031,
+    "wof:lastmodified": 1717024505,
     "wof:name": "SIA2 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}

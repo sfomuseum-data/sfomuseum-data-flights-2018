@@ -2,6 +2,10 @@
   "id": 1695688913,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-20",
+    "date:cessation_upper": "2018-09-20",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-20T22:37:16",
     "edtf:inception": "2018-09-20~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526657,
     "sfomuseum:flight_id": "20180920-A-ASA-9573",
     "sfomuseum:flight_number": [
-      "AS9573", 
+      "AS9573",
       "ASA9573"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85688637, 
-      85922583, 
-      1695688913, 
-      102191575, 
-      85633793, 
+      102087579,
+      1159157271,
+      85688637,
+      85922583,
+      102191575,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695688913,
-    "wof:lastmodified": 1583189919,
+    "wof:lastmodified": 1717024457,
     "wof:name": "ASA9573 (PAE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.279084, 
+    -122.370943,
+    37.61799,
+    -122.279084,
     47.908767
   ],
   "geometry": {"coordinates":[[-122.279084,47.908767],[-122.370943,37.61799]],"type":"MultiPoint"}

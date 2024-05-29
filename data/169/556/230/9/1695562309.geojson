@@ -2,6 +2,10 @@
   "id": 1695562309,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-18",
+    "date:cessation_upper": "2018-08-18",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-18T14:33:05",
     "edtf:inception": "2018-08-18~",
     "flysfo:airline": "SK",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102544207,
     "sfomuseum:flight_id": "20180818-A-SAS-935",
     "sfomuseum:flight_number": [
-      "SK935", 
+      "SK935",
       "SAS935"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1159157271, 
-      102191575, 
-      102527513, 
-      1695562309, 
-      85922583, 
+      85633793,
+      102087579,
+      1159157271,
+      102191575,
+      102527513,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695562309,
-    "wof:lastmodified": 1583189065,
+    "wof:lastmodified": 1717024451,
     "wof:name": "SAS935 (CPH-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    12.649581, 
+    -122.370943,
+    37.61799,
+    12.649581,
     55.627628
   ],
   "geometry": {"coordinates":[[12.649581,55.627628],[-122.370943,37.61799]],"type":"MultiPoint"}

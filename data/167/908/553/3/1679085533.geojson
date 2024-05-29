@@ -2,6 +2,10 @@
   "id": 1679085533,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-15",
+    "date:inception_upper": "2018-03-15",
     "edtf:cessation": "2018-03-15~",
     "edtf:inception": "2018-03-15T00:15:22",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180315-D-UAL-312",
     "sfomuseum:flight_number": [
-      "UA312", 
+      "UA312",
       "UAL312"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      102087579, 
-      1679085533
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583184348,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679085533,
-    "wof:lastmodified": 1583184348,
+    "wof:lastmodified": 1717024489,
     "wof:name": "UAL312 (SFO-RNO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -119.772167, 
+    -122.370943,
+    37.61799,
+    -119.772167,
     39.505219
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-119.772167,39.505219]],"type":"MultiPoint"}

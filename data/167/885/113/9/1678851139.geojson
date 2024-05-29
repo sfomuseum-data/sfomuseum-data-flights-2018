@@ -2,6 +2,10 @@
   "id": 1678851139,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-06",
+    "date:cessation_upper": "2018-02-06",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-06T06:39:15",
     "edtf:inception": "2018-02-06~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102552389,
     "sfomuseum:flight_id": "20180206-A-UAL-916",
     "sfomuseum:flight_number": [
-      "UA916", 
+      "UA916",
       "UAL916"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1678851139, 
-      102087579, 
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
+      102087579,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678851139,
-    "wof:lastmodified": 1583183434,
+    "wof:lastmodified": 1717024459,
     "wof:name": "UAL916 (AKL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    -37.005501, 
-    174.788678, 
+    -122.370943,
+    -37.005501,
+    174.788678,
     37.61799
   ],
   "geometry": {"coordinates":[[174.788678,-37.005501],[-122.370943,37.61799]],"type":"MultiPoint"}

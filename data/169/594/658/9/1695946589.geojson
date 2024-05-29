@@ -2,6 +2,10 @@
   "id": 1695946589,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-10",
+    "date:cessation_upper": "2018-12-10",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-10T09:02:45",
     "edtf:inception": "2018-12-10~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534019,
     "sfomuseum:flight_id": "20181210-A-UAL-1615",
     "sfomuseum:flight_number": [
-      "UA1615", 
+      "UA1615",
       "UAL1615"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1695946589, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      85688637, 
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      102527513,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695946589,
-    "wof:lastmodified": 1583192070,
+    "wof:lastmodified": 1717024473,
     "wof:name": "UAL1615 (CLE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -81.835629, 
+    -122.370943,
+    37.61799,
+    -81.835629,
     41.406844
   ],
   "geometry": {"coordinates":[[-81.835629,41.406844],[-122.370943,37.61799]],"type":"MultiPoint"}

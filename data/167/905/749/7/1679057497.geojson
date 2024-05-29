@@ -2,6 +2,10 @@
   "id": 1679057497,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-11",
+    "date:inception_upper": "2018-03-11",
     "edtf:cessation": "2018-03-11~",
     "edtf:inception": "2018-03-11T06:02:25",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180311-D-SWA-4310",
     "sfomuseum:flight_number": [
-      "WN4310", 
+      "WN4310",
       "SWA4310"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85922583, 
-      1679057497
+      102087579,
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
+      102191575,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1583184231,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679057497,
-    "wof:lastmodified": 1583184231,
+    "wof:lastmodified": 1717024487,
     "wof:name": "SWA4310 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

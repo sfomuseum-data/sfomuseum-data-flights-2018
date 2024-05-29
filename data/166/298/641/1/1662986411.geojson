@@ -2,6 +2,10 @@
   "id": 1662986411,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-04",
+    "date:cessation_upper": "2018-01-04",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-04T08:38:05",
     "edtf:inception": "2018-01-04~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180104-A-VRD-1897",
     "sfomuseum:flight_number": [
-      "VX1897", 
+      "VX1897",
       "VRD1897"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1662986411, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      102087579, 
+      85922583,
+      85633793,
+      85688637,
+      102191575,
+      1159157271,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662986411,
-    "wof:lastmodified": 1583182909,
+    "wof:lastmodified": 1717024484,
     "wof:name": "VRD1897 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

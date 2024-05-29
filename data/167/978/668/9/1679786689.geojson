@@ -2,6 +2,10 @@
   "id": 1679786689,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-07",
+    "date:cessation_upper": "2018-08-07",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-07T07:08:51",
     "edtf:inception": "2018-08-07~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527187,
     "sfomuseum:flight_id": "20180807-A-UAL-2068",
     "sfomuseum:flight_number": [
-      "UA2068", 
+      "UA2068",
       "UAL2068"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1679786689, 
-      102191575, 
-      85633793, 
-      1159157271, 
-      85688637, 
+      102087579,
+      85922583,
+      102191575,
+      85633793,
+      1159157271,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679786689,
-    "wof:lastmodified": 1583188758,
+    "wof:lastmodified": 1717024520,
     "wof:name": "UAL2068 (MFR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.874456, 
-    37.61799, 
-    -122.370943, 
+    -122.874456,
+    37.61799,
+    -122.370943,
     42.369651
   ],
   "geometry": {"coordinates":[[-122.874456,42.369651],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1663009807,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-10",
+    "date:inception_upper": "2018-01-10",
     "edtf:cessation": "2018-01-10~",
     "edtf:inception": "2018-01-10T21:30:59",
     "flysfo:airline": "VX",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180110-D-VRD-1754",
     "sfomuseum:flight_number": [
-      "VX1754", 
+      "VX1754",
       "VRD1754"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1663009807
+      1159157271,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583183012,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663009807,
-    "wof:lastmodified": 1583183012,
+    "wof:lastmodified": 1717024488,
     "wof:name": "VRD1754 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

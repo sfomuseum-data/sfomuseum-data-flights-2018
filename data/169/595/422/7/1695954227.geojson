@@ -2,6 +2,10 @@
   "id": 1695954227,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-14",
+    "date:cessation_upper": "2018-12-14",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-14T16:06:20",
     "edtf:inception": "2018-12-14~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530801,
     "sfomuseum:flight_id": "20181214-A-ASA-9521",
     "sfomuseum:flight_number": [
-      "AS9521", 
+      "AS9521",
       "ASA9521"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1695954227
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583192187,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695954227,
-    "wof:lastmodified": 1583192187,
+    "wof:lastmodified": 1717024473,
     "wof:name": "ASA9521 (VCV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.581613, 
-    -117.374502, 
+    -122.370943,
+    34.581613,
+    -117.374502,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.374502,34.581613],[-122.370943,37.61799]],"type":"MultiPoint"}

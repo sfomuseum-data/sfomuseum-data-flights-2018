@@ -2,6 +2,10 @@
   "id": 1695751481,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-07",
+    "date:inception_upper": "2018-10-07",
     "edtf:cessation": "2018-10-07~",
     "edtf:inception": "2018-10-07T14:26:48",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181007-D-JBU-534",
     "sfomuseum:flight_number": [
-      "B6534", 
+      "B6534",
       "JBU534"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1695751481, 
-      85688637, 
-      85633793, 
-      1159157271, 
-      102087579, 
-      85922583, 
+      102527513,
+      85688637,
+      85633793,
+      1159157271,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695751481,
-    "wof:lastmodified": 1583190367,
+    "wof:lastmodified": 1717024458,
     "wof:name": "JBU534 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

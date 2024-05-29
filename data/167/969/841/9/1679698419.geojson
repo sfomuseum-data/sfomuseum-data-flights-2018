@@ -2,6 +2,10 @@
   "id": 1679698419,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-16",
+    "date:cessation_upper": "2018-07-16",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-16T15:36:14",
     "edtf:inception": "2018-07-16~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180716-A-ASA-400",
     "sfomuseum:flight_number": [
-      "AS400", 
+      "AS400",
       "ASA400"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      1159157271, 
-      1679698419, 
-      85922583, 
+      102191575,
+      85633793,
+      102087579,
+      102527513,
+      1159157271,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679698419,
-    "wof:lastmodified": 1583188165,
+    "wof:lastmodified": 1717024514,
     "wof:name": "ASA400 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

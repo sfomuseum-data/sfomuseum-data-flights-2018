@@ -2,6 +2,10 @@
   "id": 1679612219,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-01",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-24",
+    "date:inception_upper": "2018-06-24",
     "edtf:cessation": "2018-06-24~",
     "edtf:inception": "2018-06-24T23:18:55",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180624-D-UAL-8228",
     "sfomuseum:flight_number": [
-      "UA8228", 
+      "UA8228",
       "UAL8228"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      1679612219, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
+      85633793,
+      85688637,
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679612219,
-    "wof:lastmodified": 1583187607,
+    "wof:lastmodified": 1717024506,
     "wof:name": "UAL8228 (SFO-PIT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -80.259551, 
+    -122.370943,
+    37.61799,
+    -80.259551,
     40.492624
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.259551,40.492624]],"type":"MultiPoint"}

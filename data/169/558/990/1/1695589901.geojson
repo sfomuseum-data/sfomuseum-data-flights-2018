@@ -2,6 +2,10 @@
   "id": 1695589901,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-25",
+    "date:inception_upper": "2018-08-25",
     "edtf:cessation": "2018-08-25~",
     "edtf:inception": "2018-08-25T11:14:06",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180825-D-DAL-8964",
     "sfomuseum:flight_number": [
-      "DL8964", 
+      "DL8964",
       "DAL8964"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      1159157271, 
-      102191575, 
-      85633793, 
-      102527513, 
-      1695589901, 
+      85922583,
+      102087579,
+      1159157271,
+      102191575,
+      85633793,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695589901,
-    "wof:lastmodified": 1583189245,
+    "wof:lastmodified": 1717024454,
     "wof:name": "DAL8964 (SFO-TCM)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.496295, 
-    37.61799, 
-    -122.370943, 
+    -122.496295,
+    37.61799,
+    -122.370943,
     47.134565
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.496295,47.134565]],"type":"MultiPoint"}

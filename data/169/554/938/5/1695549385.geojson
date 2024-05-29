@@ -2,6 +2,10 @@
   "id": 1695549385,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-15",
+    "date:cessation_upper": "2018-08-15",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-15T14:20:05",
     "edtf:inception": "2018-08-15~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20180815-A-UAL-477",
     "sfomuseum:flight_number": [
-      "UA477", 
+      "UA477",
       "UAL477"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1695549385
+      85688637,
+      85633793,
+      85922583,
+      1159157271,
+      102087579,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583188980,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695549385,
-    "wof:lastmodified": 1583188980,
+    "wof:lastmodified": 1717024475,
     "wof:name": "UAL477 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662627905,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-01",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-12",
+    "date:inception_upper": "2018-06-12",
     "edtf:cessation": "2018-06-12~",
     "edtf:inception": "2018-06-12T16:46:52",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180612-D-AAL-1470",
     "sfomuseum:flight_number": [
-      "AA1470", 
+      "AA1470",
       "AAL1470"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      1159157271, 
-      85633793, 
-      1662627905, 
-      102191575, 
+      85922583,
+      85688637,
+      102527513,
+      1159157271,
+      85633793,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662627905,
-    "wof:lastmodified": 1583187276,
+    "wof:lastmodified": 1717024457,
     "wof:name": "AAL1470 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679412973,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-04",
+    "date:cessation_upper": "2018-05-04",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-04T10:23:00",
     "edtf:inception": "2018-05-04~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20180504-A-AAL-662",
     "sfomuseum:flight_number": [
-      "AA662", 
+      "AA662",
       "AAL662"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679412973, 
-      102191575, 
-      85922583, 
-      102527513, 
-      1159157271, 
-      102087579, 
-      85688637, 
+      102191575,
+      85922583,
+      102527513,
+      1159157271,
+      102087579,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679412973,
-    "wof:lastmodified": 1583185964,
+    "wof:lastmodified": 1717024496,
     "wof:name": "AAL662 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

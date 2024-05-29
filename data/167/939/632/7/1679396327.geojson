@@ -2,6 +2,10 @@
   "id": 1679396327,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-29",
+    "date:cessation_upper": "2018-04-29",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-29T00:02:39",
     "edtf:inception": "2018-04-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180429-A-SWA-3732",
     "sfomuseum:flight_number": [
-      "WN3732", 
+      "WN3732",
       "SWA3732"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      102527513, 
-      1159157271, 
-      1679396327, 
-      85688637, 
-      85633793, 
+      102191575,
+      85922583,
+      102527513,
+      1159157271,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679396327,
-    "wof:lastmodified": 1583185605,
+    "wof:lastmodified": 1717024498,
     "wof:name": "SWA3732 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

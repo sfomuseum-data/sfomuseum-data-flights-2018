@@ -2,6 +2,10 @@
   "id": 1695967217,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-21",
+    "date:inception_upper": "2018-12-21",
     "edtf:cessation": "2018-12-21~",
     "edtf:inception": "2018-12-21T20:14:31",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181221-D-UAL-1973",
     "sfomuseum:flight_number": [
-      "UA1973", 
+      "UA1973",
       "UAL1973"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695967217, 
-      85688637, 
-      85633793, 
-      102191575, 
-      1159157271, 
-      102527513, 
-      102087579, 
+      85688637,
+      85633793,
+      102191575,
+      1159157271,
+      102527513,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695967217,
-    "wof:lastmodified": 1583192395,
+    "wof:lastmodified": 1717024476,
     "wof:name": "UAL1973 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

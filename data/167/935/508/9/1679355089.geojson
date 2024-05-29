@@ -2,6 +2,10 @@
   "id": 1679355089,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-19",
+    "date:cessation_upper": "2018-04-19",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-19T01:02:18",
     "edtf:inception": "2018-04-19~",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180419-A-KAL-213",
     "sfomuseum:flight_number": [
-      "KE213", 
+      "KE213",
       "KAL213"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679355089, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      85633793, 
+      102191575,
+      85922583,
+      1159157271,
+      102527513,
+      102087579,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679355089,
-    "wof:lastmodified": 1583185183,
+    "wof:lastmodified": 1717024497,
     "wof:name": "KAL213 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

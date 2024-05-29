@@ -2,6 +2,10 @@
   "id": 1695985415,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-31",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-31~",
     "edtf:inception": "2018-12-31T21:24:55",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181231-D-ASA-1964",
     "sfomuseum:flight_number": [
-      "AS1964", 
+      "AS1964",
       "ASA1964"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102087579, 
-      85633793, 
-      1695985415, 
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      102087579,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695985415,
-    "wof:lastmodified": 1583192674,
+    "wof:lastmodified": 1717024475,
     "wof:name": "ASA1964 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

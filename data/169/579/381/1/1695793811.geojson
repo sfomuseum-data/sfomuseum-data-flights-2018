@@ -2,6 +2,10 @@
   "id": 1695793811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-18",
+    "date:cessation_upper": "2018-10-18",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-18T16:12:07",
     "edtf:inception": "2018-10-18~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20181018-A-SWA-260",
     "sfomuseum:flight_number": [
-      "WN260", 
+      "WN260",
       "SWA260"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85688637, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      1695793811, 
+      102087579,
+      85688637,
+      85633793,
+      1159157271,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695793811,
-    "wof:lastmodified": 1583190674,
+    "wof:lastmodified": 1717024463,
     "wof:name": "SWA260 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

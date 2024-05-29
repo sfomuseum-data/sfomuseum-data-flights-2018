@@ -2,6 +2,10 @@
   "id": 1679629997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-29",
+    "date:cessation_upper": "2018-06-29",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-29T09:02:31",
     "edtf:inception": "2018-06-29~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530741,
     "sfomuseum:flight_id": "20180629-A-UAL-433",
     "sfomuseum:flight_number": [
-      "UA433", 
+      "UA433",
       "UAL433"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679629997, 
-      85688637, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1159157271, 
-      85922583, 
+      85688637,
+      85633793,
+      102087579,
+      102191575,
+      1159157271,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679629997,
-    "wof:lastmodified": 1583187712,
+    "wof:lastmodified": 1717024512,
     "wof:name": "UAL433 (BOS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-71.01475,42.362322],[-122.370943,37.61799]],"type":"MultiPoint"}

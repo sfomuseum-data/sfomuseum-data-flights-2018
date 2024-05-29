@@ -2,6 +2,10 @@
   "id": 1662573035,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-11",
+    "date:inception_upper": "2018-01-11",
     "edtf:cessation": "2018-01-11~",
     "edtf:inception": "2018-01-11T13:42:44",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180111-D-UAL-242",
     "sfomuseum:flight_number": [
-      "UA242", 
+      "UA242",
       "UAL242"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85633793, 
-      1662573035, 
-      85922583, 
-      85688637, 
-      1159157271, 
+      102087579,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662573035,
-    "wof:lastmodified": 1583183021,
+    "wof:lastmodified": 1717024477,
     "wof:name": "UAL242 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

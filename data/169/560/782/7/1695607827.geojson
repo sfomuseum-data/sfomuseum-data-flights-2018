@@ -2,6 +2,10 @@
   "id": 1695607827,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-29",
+    "date:cessation_upper": "2018-08-29",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-29T21:15:47",
     "edtf:inception": "2018-08-29~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20180829-A-SWA-1973",
     "sfomuseum:flight_number": [
-      "WN1973", 
+      "WN1973",
       "SWA1973"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85688637, 
-      102087579, 
-      102527513, 
-      102191575, 
-      1695607827, 
+      1159157271,
+      85633793,
+      85688637,
+      102087579,
+      102527513,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695607827,
-    "wof:lastmodified": 1583189368,
+    "wof:lastmodified": 1717024453,
     "wof:name": "SWA1973 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

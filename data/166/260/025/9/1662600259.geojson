@@ -2,6 +2,10 @@
   "id": 1662600259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-31",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-31T21:50:28",
     "edtf:inception": "2018-03-31~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20180331-A-ASA-1077",
     "sfomuseum:flight_number": [
-      "AS1077", 
+      "AS1077",
       "ASA1077"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      1662600259
+      85922583,
+      85633793,
+      102087579,
+      102527513,
+      85688637,
+      1159157271,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583184816,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662600259,
-    "wof:lastmodified": 1583184816,
+    "wof:lastmodified": 1717024478,
     "wof:name": "ASA1077 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

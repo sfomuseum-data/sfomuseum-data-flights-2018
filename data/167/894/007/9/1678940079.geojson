@@ -2,6 +2,10 @@
   "id": 1678940079,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-21",
+    "date:inception_upper": "2018-02-21",
     "edtf:cessation": "2018-02-21~",
     "edtf:inception": "2018-02-21T16:23:57",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180221-D-UAL-1787",
     "sfomuseum:flight_number": [
-      "UA1787", 
+      "UA1787",
       "UAL1787"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1678940079, 
-      85688637, 
-      102527513, 
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678940079,
-    "wof:lastmodified": 1583183781,
+    "wof:lastmodified": 1717024480,
     "wof:name": "UAL1787 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303, 
-    37.61799, 
-    -122.370943, 
+    -123.21303,
+    37.61799,
+    -122.370943,
     44.119058
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.21303,44.119058]],"type":"MultiPoint"}

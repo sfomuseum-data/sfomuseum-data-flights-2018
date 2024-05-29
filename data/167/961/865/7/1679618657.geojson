@@ -2,6 +2,10 @@
   "id": 1679618657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-26",
+    "date:cessation_upper": "2018-06-26",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-26T14:09:45",
     "edtf:inception": "2018-06-26~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180626-A-UAL-365",
     "sfomuseum:flight_number": [
-      "UA365", 
+      "UA365",
       "UAL365"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679618657, 
-      85633793, 
-      102527513, 
-      85688637, 
-      1159157271, 
-      102087579, 
+      102191575,
+      85633793,
+      102527513,
+      85688637,
+      1159157271,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679618657,
-    "wof:lastmodified": 1583187645,
+    "wof:lastmodified": 1717024509,
     "wof:name": "UAL365 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

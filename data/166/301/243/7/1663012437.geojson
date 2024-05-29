@@ -2,6 +2,10 @@
   "id": 1663012437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-11",
+    "date:inception_upper": "2018-01-11",
     "edtf:cessation": "2018-01-11~",
     "edtf:inception": "2018-01-11T16:11:17",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180111-D-SWA-1447",
     "sfomuseum:flight_number": [
-      "WN1447", 
+      "WN1447",
       "SWA1447"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      1663012437
+      102527513,
+      85922583,
+      85633793,
+      85688637,
+      1159157271,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583183024,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663012437,
-    "wof:lastmodified": 1583183024,
+    "wof:lastmodified": 1717024484,
     "wof:name": "SWA1447 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

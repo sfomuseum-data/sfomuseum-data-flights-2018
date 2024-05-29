@@ -2,6 +2,10 @@
   "id": 1695898763,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-16",
+    "date:cessation_upper": "2018-11-16",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-16T06:47:36",
     "edtf:inception": "2018-11-16~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102551487,
     "sfomuseum:flight_id": "20181116-A-UAL-872",
     "sfomuseum:flight_number": [
-      "UA872", 
+      "UA872",
       "UAL872"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695898763, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
+      85688637,
+      1159157271,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695898763,
-    "wof:lastmodified": 1583191440,
+    "wof:lastmodified": 1717024469,
     "wof:name": "UAL872 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}

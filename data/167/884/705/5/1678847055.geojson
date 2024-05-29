@@ -2,6 +2,10 @@
   "id": 1678847055,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-05",
+    "date:inception_upper": "2018-02-05",
     "edtf:cessation": "2018-02-05~",
     "edtf:inception": "2018-02-05T11:39:45",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180205-D-ASA-311",
     "sfomuseum:flight_number": [
-      "AS311", 
+      "AS311",
       "ASA311"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      1678847055, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102527513, 
+      1159157271,
+      102087579,
+      85688637,
+      102191575,
+      85633793,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678847055,
-    "wof:lastmodified": 1583183421,
+    "wof:lastmodified": 1717024458,
     "wof:name": "ASA311 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

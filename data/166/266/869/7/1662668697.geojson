@@ -2,6 +2,10 @@
   "id": 1662668697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-24",
+    "date:cessation_upper": "2018-09-24",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-24T09:21:05",
     "edtf:inception": "2018-09-24~",
     "flysfo:airline": "MU",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550331,
     "sfomuseum:flight_id": "20180924-A-CES-589",
     "sfomuseum:flight_number": [
-      "MU589", 
+      "MU589",
       "CES589"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      1662668697, 
+      85633793,
+      102527513,
+      102191575,
+      102087579,
+      1159157271,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662668697,
-    "wof:lastmodified": 1583190005,
+    "wof:lastmodified": 1717024474,
     "wof:name": "CES589 (PVG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    31.145312, 
-    121.799307, 
+    -122.370943,
+    31.145312,
+    121.799307,
     37.61799
   ],
   "geometry": {"coordinates":[[121.799307,31.145312],[-122.370943,37.61799]],"type":"MultiPoint"}

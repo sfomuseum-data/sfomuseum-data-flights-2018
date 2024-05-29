@@ -2,6 +2,10 @@
   "id": 1679430165,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-08",
+    "date:cessation_upper": "2018-05-08",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-08T19:58:30",
     "edtf:inception": "2018-05-08~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180508-A-ASA-1941",
     "sfomuseum:flight_number": [
-      "AS1941", 
+      "AS1941",
       "ASA1941"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85633793, 
-      102527513, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1679430165
+      1159157271,
+      102191575,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583186261,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679430165,
-    "wof:lastmodified": 1583186261,
+    "wof:lastmodified": 1717024497,
     "wof:name": "ASA1941 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

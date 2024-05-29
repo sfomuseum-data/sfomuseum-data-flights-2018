@@ -2,6 +2,10 @@
   "id": 1679662779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-08",
+    "date:cessation_upper": "2018-07-08",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-08T07:41:33",
     "edtf:inception": "2018-07-08~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20180708-A-SWA-4002",
     "sfomuseum:flight_number": [
-      "WN4002", 
+      "WN4002",
       "SWA4002"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      1679662779, 
-      85688637, 
-      85922583, 
-      102527513, 
-      85633793, 
+      1159157271,
+      102087579,
+      85688637,
+      85922583,
+      102527513,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679662779,
-    "wof:lastmodified": 1583187912,
+    "wof:lastmodified": 1717024511,
     "wof:name": "SWA4002 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

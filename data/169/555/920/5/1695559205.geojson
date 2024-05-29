@@ -2,6 +2,10 @@
   "id": 1695559205,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-17",
+    "date:cessation_upper": "2018-08-17",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-17T19:38:08",
     "edtf:inception": "2018-08-17~",
     "flysfo:airline": "CZ",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102550391,
     "sfomuseum:flight_id": "20180817-A-CSN-657",
     "sfomuseum:flight_number": [
-      "CZ657", 
+      "CZ657",
       "CSN657"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      1695559205, 
-      85633793, 
+      102527513,
+      102191575,
+      1159157271,
+      85922583,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695559205,
-    "wof:lastmodified": 1583189044,
+    "wof:lastmodified": 1717024454,
     "wof:name": "CSN657 (CAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.447348, 
-    113.399556, 
+    -122.370943,
+    23.447348,
+    113.399556,
     37.61799
   ],
   "geometry": {"coordinates":[[113.399556,23.447348],[-122.370943,37.61799]],"type":"MultiPoint"}

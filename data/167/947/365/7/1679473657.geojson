@@ -2,6 +2,10 @@
   "id": 1679473657,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-20",
+    "date:cessation_upper": "2018-05-20",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-20T11:25:43",
     "edtf:inception": "2018-05-20~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20180520-A-DAL-433",
     "sfomuseum:flight_number": [
-      "DL433", 
+      "DL433",
       "DAL433"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1679473657, 
-      1159157271, 
-      85633793, 
+      102527513,
+      85688637,
+      102191575,
+      102087579,
+      1159157271,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679473657,
-    "wof:lastmodified": 1583186663,
+    "wof:lastmodified": 1717024502,
     "wof:name": "DAL433 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

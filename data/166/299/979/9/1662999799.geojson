@@ -2,6 +2,10 @@
   "id": 1662999799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-07",
+    "date:inception_upper": "2018-01-07",
     "edtf:cessation": "2018-01-07~",
     "edtf:inception": "2018-01-07T22:25:40",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180107-D-UAL-581",
     "sfomuseum:flight_number": [
-      "UA581", 
+      "UA581",
       "UAL581"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1662999799, 
-      102087579, 
-      85688637, 
-      102527513, 
-      85633793, 
-      85922583, 
+      1159157271,
+      102087579,
+      85688637,
+      102527513,
+      85633793,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662999799,
-    "wof:lastmodified": 1583182968,
+    "wof:lastmodified": 1717024488,
     "wof:name": "UAL581 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

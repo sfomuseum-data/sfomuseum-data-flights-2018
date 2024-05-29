@@ -2,6 +2,10 @@
   "id": 1662681907,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-28",
+    "date:cessation_upper": "2018-10-28",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-28T22:25:17",
     "edtf:inception": "2018-10-28~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527529,
     "sfomuseum:flight_id": "20181028-A-UAL-2567",
     "sfomuseum:flight_number": [
-      "UA2567", 
+      "UA2567",
       "UAL2567"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1662681907, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
+      1159157271,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662681907,
-    "wof:lastmodified": 1583190966,
+    "wof:lastmodified": 1717024476,
     "wof:name": "UAL2567 (SJC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.363728, 
-    -121.928755, 
+    -122.370943,
+    37.363728,
+    -121.928755,
     37.61799
   ],
   "geometry": {"coordinates":[[-121.928755,37.363728],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662531065,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-09",
+    "date:inception_upper": "2018-03-09",
     "edtf:cessation": "2018-03-09~",
     "edtf:inception": "2018-03-09T17:19:49",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180309-D-UAL-1744",
     "sfomuseum:flight_number": [
-      "UA1744", 
+      "UA1744",
       "UAL1744"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      1662531065, 
-      1159157271, 
-      102087579, 
-      85922583, 
+      102527513,
+      102191575,
+      85633793,
+      1159157271,
+      102087579,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662531065,
-    "wof:lastmodified": 1583184193,
+    "wof:lastmodified": 1717024474,
     "wof:name": "UAL1744 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

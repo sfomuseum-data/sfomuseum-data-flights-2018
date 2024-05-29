@@ -2,6 +2,10 @@
   "id": 1678857265,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-07",
+    "date:inception_upper": "2018-02-07",
     "edtf:cessation": "2018-02-07~",
     "edtf:inception": "2018-02-07T08:07:41",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180207-D-AAL-1053",
     "sfomuseum:flight_number": [
-      "AA1053", 
+      "AA1053",
       "AAL1053"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1678857265, 
-      85688637, 
-      102191575, 
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      102527513,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678857265,
-    "wof:lastmodified": 1583183453,
+    "wof:lastmodified": 1717024460,
     "wof:name": "AAL1053 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

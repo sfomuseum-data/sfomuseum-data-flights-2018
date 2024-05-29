@@ -2,6 +2,10 @@
   "id": 1679478455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-21",
+    "date:cessation_upper": "2018-05-21",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-21T15:23:33",
     "edtf:inception": "2018-05-21~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533927,
     "sfomuseum:flight_id": "20180521-A-UAL-997",
     "sfomuseum:flight_number": [
-      "UA997", 
+      "UA997",
       "UAL997"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      1679478455
+      102087579,
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583186696,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679478455,
-    "wof:lastmodified": 1583186696,
+    "wof:lastmodified": 1717024504,
     "wof:name": "UAL997 (EUG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303, 
-    37.61799, 
-    -122.370943, 
+    -123.21303,
+    37.61799,
+    -122.370943,
     44.119058
   ],
   "geometry": {"coordinates":[[-123.21303,44.119058],[-122.370943,37.61799]],"type":"MultiPoint"}

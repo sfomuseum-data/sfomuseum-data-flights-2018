@@ -2,6 +2,10 @@
   "id": 1678952819,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-23",
+    "date:inception_upper": "2018-02-23",
     "edtf:cessation": "2018-02-23~",
     "edtf:inception": "2018-02-23T16:25:53",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180223-D-UAL-517",
     "sfomuseum:flight_number": [
-      "UA517", 
+      "UA517",
       "UAL517"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      102191575, 
-      1678952819, 
+      102527513,
+      85633793,
+      85688637,
+      1159157271,
+      102087579,
+      102191575,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678952819,
-    "wof:lastmodified": 1583183831,
+    "wof:lastmodified": 1717024482,
     "wof:name": "UAL517 (SFO-IAD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-77.453702,38.949246]],"type":"MultiPoint"}

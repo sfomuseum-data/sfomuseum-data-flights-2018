@@ -2,6 +2,10 @@
   "id": 1695973663,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-25",
+    "date:cessation_upper": "2018-12-25",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-25T12:49:54",
     "edtf:inception": "2018-12-25~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20181225-A-ASA-1023",
     "sfomuseum:flight_number": [
-      "AS1023", 
+      "AS1023",
       "ASA1023"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1695973663, 
-      85688637, 
-      85633793, 
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695973663,
-    "wof:lastmodified": 1583192494,
+    "wof:lastmodified": 1717024473,
     "wof:name": "ASA1023 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

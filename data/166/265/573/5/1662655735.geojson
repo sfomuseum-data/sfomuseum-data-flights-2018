@@ -2,6 +2,10 @@
   "id": 1662655735,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-20",
+    "date:cessation_upper": "2018-08-20",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-20T21:41:08",
     "edtf:inception": "2018-08-20~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102529403,
     "sfomuseum:flight_id": "20180820-A-UAL-2132",
     "sfomuseum:flight_number": [
-      "UA2132", 
+      "UA2132",
       "UAL2132"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      102087579, 
-      1662655735, 
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      1159157271,
+      102087579,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662655735,
-    "wof:lastmodified": 1583189126,
+    "wof:lastmodified": 1717024469,
     "wof:name": "UAL2132 (PHL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -75.247885, 
+    -122.370943,
+    37.61799,
+    -75.247885,
     39.880952
   ],
   "geometry": {"coordinates":[[-75.247885,39.880952],[-122.370943,37.61799]],"type":"MultiPoint"}

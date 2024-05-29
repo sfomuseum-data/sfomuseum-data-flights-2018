@@ -2,6 +2,10 @@
   "id": 1662653677,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-15",
+    "date:cessation_upper": "2018-08-15",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-15T21:53:45",
     "edtf:inception": "2018-08-15~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20180815-A-SWA-694",
     "sfomuseum:flight_number": [
-      "WN694", 
+      "WN694",
       "SWA694"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
-      1662653677, 
-      85922583, 
-      85688637, 
-      1159157271, 
+      85633793,
+      102527513,
+      102191575,
+      85922583,
+      85688637,
+      1159157271,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662653677,
-    "wof:lastmodified": 1583188991,
+    "wof:lastmodified": 1717024468,
     "wof:name": "SWA694 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

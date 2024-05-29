@@ -2,6 +2,10 @@
   "id": 1679528611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-03",
+    "date:cessation_upper": "2018-06-03",
+    "date:inception_lower": "2018-06-01",
+    "date:inception_upper": "2018-06-30",
     "edtf:cessation": "2018-06-03T20:16:48",
     "edtf:inception": "2018-06-03~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102529249,
     "sfomuseum:flight_id": "20180603-A-UAL-2716",
     "sfomuseum:flight_number": [
-      "UA2716", 
+      "UA2716",
       "UAL2716"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      85688637, 
-      1679528611
+      85633793,
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      1159157271,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583187031,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679528611,
-    "wof:lastmodified": 1583187031,
+    "wof:lastmodified": 1717024505,
     "wof:name": "UAL2716 (AMA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.22018, 
-    -101.708962, 
+    -122.370943,
+    35.22018,
+    -101.708962,
     37.61799
   ],
   "geometry": {"coordinates":[[-101.708962,35.22018],[-122.370943,37.61799]],"type":"MultiPoint"}

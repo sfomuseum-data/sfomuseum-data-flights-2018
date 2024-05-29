@@ -2,6 +2,10 @@
   "id": 1663012799,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-11",
+    "date:cessation_upper": "2018-01-11",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-11T18:16:33",
     "edtf:inception": "2018-01-11~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180111-A-ASA-1867",
     "sfomuseum:flight_number": [
-      "AS1867", 
+      "AS1867",
       "ASA1867"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1663012799, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      102527513, 
+      102191575,
+      85633793,
+      85688637,
+      85922583,
+      1159157271,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663012799,
-    "wof:lastmodified": 1583183025,
+    "wof:lastmodified": 1717024484,
     "wof:name": "ASA1867 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

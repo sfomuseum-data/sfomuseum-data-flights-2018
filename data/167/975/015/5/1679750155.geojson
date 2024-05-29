@@ -2,6 +2,10 @@
   "id": 1679750155,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-28",
+    "date:cessation_upper": "2018-07-28",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-28T23:32:52",
     "edtf:inception": "2018-07-28~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20180728-A-UAL-650",
     "sfomuseum:flight_number": [
-      "UA650", 
+      "UA650",
       "UAL650"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679750155, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102087579, 
+      102191575,
+      1159157271,
+      102527513,
+      85633793,
+      85922583,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679750155,
-    "wof:lastmodified": 1583188517,
+    "wof:lastmodified": 1717024516,
     "wof:name": "UAL650 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

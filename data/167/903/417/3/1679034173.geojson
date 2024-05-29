@@ -2,6 +2,10 @@
   "id": 1679034173,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-07",
+    "date:cessation_upper": "2018-03-07",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-07T15:43:08",
     "edtf:inception": "2018-03-07~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180307-A-UAL-420",
     "sfomuseum:flight_number": [
-      "UA420", 
+      "UA420",
       "UAL420"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      1679034173
+      102191575,
+      85688637,
+      102527513,
+      102087579,
+      1159157271,
+      85633793,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1583184133,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679034173,
-    "wof:lastmodified": 1583184133,
+    "wof:lastmodified": 1717024485,
     "wof:name": "UAL420 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

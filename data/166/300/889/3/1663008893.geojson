@@ -2,6 +2,10 @@
   "id": 1663008893,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-10",
+    "date:cessation_upper": "2018-01-10",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-10T15:59:31",
     "edtf:inception": "2018-01-10~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180110-A-ASA-346",
     "sfomuseum:flight_number": [
-      "AS346", 
+      "AS346",
       "ASA346"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      1663008893, 
-      1159157271, 
-      102087579, 
-      102191575, 
-      85922583, 
+      85633793,
+      102527513,
+      1159157271,
+      102087579,
+      102191575,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663008893,
-    "wof:lastmodified": 1583183008,
+    "wof:lastmodified": 1717024487,
     "wof:name": "ASA346 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

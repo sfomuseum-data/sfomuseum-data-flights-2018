@@ -2,6 +2,10 @@
   "id": 1678879601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-10",
+    "date:cessation_upper": "2018-02-10",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-10T22:25:51",
     "edtf:inception": "2018-02-10~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180210-A-SWA-2809",
     "sfomuseum:flight_number": [
-      "WN2809", 
+      "WN2809",
       "SWA2809"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1678879601
+      102191575,
+      85922583,
+      85688637,
+      1159157271,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583183532,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678879601,
-    "wof:lastmodified": 1583183532,
+    "wof:lastmodified": 1717024466,
     "wof:name": "SWA2809 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

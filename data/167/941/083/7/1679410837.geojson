@@ -2,6 +2,10 @@
   "id": 1679410837,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-03",
+    "date:cessation_upper": "2018-05-03",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-03T19:00:56",
     "edtf:inception": "2018-05-03~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180503-A-UAL-451",
     "sfomuseum:flight_number": [
-      "UA451", 
+      "UA451",
       "UAL451"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      1159157271, 
-      102191575, 
-      1679410837, 
-      85688637, 
-      102087579, 
+      102527513,
+      85633793,
+      1159157271,
+      102191575,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679410837,
-    "wof:lastmodified": 1583185910,
+    "wof:lastmodified": 1717024495,
     "wof:name": "UAL451 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

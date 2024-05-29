@@ -2,6 +2,10 @@
   "id": 1695890811,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-13",
+    "date:inception_upper": "2018-11-13",
     "edtf:cessation": "2018-11-13~",
     "edtf:inception": "2018-11-13T22:58:19",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181113-D-UAL-658",
     "sfomuseum:flight_number": [
-      "UA658", 
+      "UA658",
       "UAL658"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1159157271, 
-      102191575, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1695890811
+      85922583,
+      85633793,
+      1159157271,
+      102191575,
+      85688637,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583191380,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695890811,
-    "wof:lastmodified": 1583191380,
+    "wof:lastmodified": 1717024466,
     "wof:name": "UAL658 (SFO-ONT)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.059934, 
-    -117.587749, 
+    -122.370943,
+    34.059934,
+    -117.587749,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.587749,34.059934]],"type":"MultiPoint"}

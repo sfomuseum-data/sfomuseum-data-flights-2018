@@ -2,6 +2,10 @@
   "id": 1662595473,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-18",
+    "date:cessation_upper": "2018-03-18",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-18T17:39:22",
     "edtf:inception": "2018-03-18~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20180318-A-UAL-1814",
     "sfomuseum:flight_number": [
-      "UA1814", 
+      "UA1814",
       "UAL1814"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      85688637, 
-      102527513, 
-      1662595473, 
-      85922583, 
-      85633793, 
+      1159157271,
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662595473,
-    "wof:lastmodified": 1583184457,
+    "wof:lastmodified": 1717024481,
     "wof:name": "UAL1814 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

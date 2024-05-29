@@ -2,6 +2,10 @@
   "id": 1679301013,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-10",
+    "date:inception_upper": "2018-04-10",
     "edtf:cessation": "2018-04-10~",
     "edtf:inception": "2018-04-10T09:13:52",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180410-D-UAL-2128",
     "sfomuseum:flight_number": [
-      "UA2128", 
+      "UA2128",
       "UAL2128"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1679301013, 
-      102527513, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      85633793, 
+      102087579,
+      102527513,
+      85922583,
+      1159157271,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679301013,
-    "wof:lastmodified": 1583184988,
+    "wof:lastmodified": 1717024493,
     "wof:name": "UAL2128 (SFO-MIA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-80.296006,25.79047]],"type":"MultiPoint"}

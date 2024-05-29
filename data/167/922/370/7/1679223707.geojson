@@ -2,6 +2,10 @@
   "id": 1679223707,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-01",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-01T18:10:01",
     "edtf:inception": "2018-04-01~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20180401-A-UAL-1965",
     "sfomuseum:flight_number": [
-      "UA1965", 
+      "UA1965",
       "UAL1965"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1679223707, 
-      1159157271, 
-      102191575, 
-      85922583, 
-      85688637, 
-      102527513, 
+      85633793,
+      1159157271,
+      102191575,
+      85922583,
+      85688637,
+      102527513,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679223707,
-    "wof:lastmodified": 1583184829,
+    "wof:lastmodified": 1717024493,
     "wof:name": "UAL1965 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

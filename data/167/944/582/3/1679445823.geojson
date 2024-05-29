@@ -2,6 +2,10 @@
   "id": 1679445823,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-12",
+    "date:cessation_upper": "2018-05-12",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-12T21:35:19",
     "edtf:inception": "2018-05-12~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20180512-A-ASA-1349",
     "sfomuseum:flight_number": [
-      "AS1349", 
+      "AS1349",
       "ASA1349"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      1679445823, 
-      102527513, 
-      85922583, 
-      102191575, 
+      85633793,
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679445823,
-    "wof:lastmodified": 1583186494,
+    "wof:lastmodified": 1717024502,
     "wof:name": "ASA1349 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679683883,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-13",
+    "date:inception_upper": "2018-07-13",
     "edtf:cessation": "2018-07-13~",
     "edtf:inception": "2018-07-13T00:28:22",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180713-D-DAL-2049",
     "sfomuseum:flight_number": [
-      "DL2049", 
+      "DL2049",
       "DAL2049"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102087579, 
-      1679683883, 
-      85688637, 
-      102527513, 
-      85633793, 
-      1159157271, 
+      85922583,
+      102087579,
+      85688637,
+      102527513,
+      85633793,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679683883,
-    "wof:lastmodified": 1583188058,
+    "wof:lastmodified": 1717024512,
     "wof:name": "DAL2049 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1678918083,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-17",
+    "date:cessation_upper": "2018-02-17",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-17T19:50:20",
     "edtf:inception": "2018-02-17~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180217-A-SWA-3251",
     "sfomuseum:flight_number": [
-      "WN3251", 
+      "WN3251",
       "SWA3251"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102527513, 
-      85633793, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1678918083
+      102087579,
+      102527513,
+      85633793,
+      1159157271,
+      85922583,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583183691,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678918083,
-    "wof:lastmodified": 1583183691,
+    "wof:lastmodified": 1717024475,
     "wof:name": "SWA3251 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

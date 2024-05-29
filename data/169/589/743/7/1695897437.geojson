@@ -2,6 +2,10 @@
   "id": 1695897437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-15",
+    "date:inception_upper": "2018-11-15",
     "edtf:cessation": "2018-11-15~",
     "edtf:inception": "2018-11-15T19:20:42",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181115-D-SWA-1911",
     "sfomuseum:flight_number": [
-      "WN1911", 
+      "WN1911",
       "SWA1911"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85922583, 
-      102191575, 
-      1695897437, 
-      102527513, 
-      102087579, 
+      1159157271,
+      85633793,
+      85922583,
+      102191575,
+      102527513,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695897437,
-    "wof:lastmodified": 1583191432,
+    "wof:lastmodified": 1717024469,
     "wof:name": "SWA1911 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

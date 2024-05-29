@@ -2,6 +2,10 @@
   "id": 1679689361,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-14",
+    "date:cessation_upper": "2018-07-14",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-14T10:56:12",
     "edtf:inception": "2018-07-14~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533657,
     "sfomuseum:flight_id": "20180714-A-UAL-2234",
     "sfomuseum:flight_number": [
-      "UA2234", 
+      "UA2234",
       "UAL2234"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      85633793, 
-      1679689361, 
-      85688637, 
+      85922583,
+      1159157271,
+      102191575,
+      102087579,
+      85633793,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679689361,
-    "wof:lastmodified": 1583188096,
+    "wof:lastmodified": 1717024515,
     "wof:name": "UAL2234 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}

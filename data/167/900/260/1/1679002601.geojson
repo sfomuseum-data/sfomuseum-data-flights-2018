@@ -2,6 +2,10 @@
   "id": 1679002601,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-03",
+    "date:cessation_upper": "2018-03-03",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-03T09:03:54",
     "edtf:inception": "2018-03-03~",
     "flysfo:airline": "NH",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102541685,
     "sfomuseum:flight_id": "20180303-A-ANA-8",
     "sfomuseum:flight_number": [
-      "NH8", 
+      "NH8",
       "ANA8"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      1679002601, 
-      85633793, 
-      85922583, 
+      102191575,
+      102087579,
+      1159157271,
+      85688637,
+      85633793,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679002601,
-    "wof:lastmodified": 1583184017,
+    "wof:lastmodified": 1717024485,
     "wof:name": "ANA8 (NRT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.755744, 
-    140.395257, 
+    -122.370943,
+    35.755744,
+    140.395257,
     37.61799
   ],
   "geometry": {"coordinates":[[140.395257,35.755744],[-122.370943,37.61799]],"type":"MultiPoint"}

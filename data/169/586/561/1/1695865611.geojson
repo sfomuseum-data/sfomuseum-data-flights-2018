@@ -2,6 +2,10 @@
   "id": 1695865611,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-07",
+    "date:inception_upper": "2018-11-07",
     "edtf:cessation": "2018-11-07~",
     "edtf:inception": "2018-11-07T05:34:35",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181107-D-SWA-550",
     "sfomuseum:flight_number": [
-      "WN550", 
+      "WN550",
       "SWA550"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85633793, 
-      1695865611, 
-      1159157271, 
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85633793,
+      1159157271,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695865611,
-    "wof:lastmodified": 1583191188,
+    "wof:lastmodified": 1717024465,
     "wof:name": "SWA550 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

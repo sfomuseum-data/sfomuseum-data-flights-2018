@@ -2,6 +2,10 @@
   "id": 1679475829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-20",
+    "date:inception_upper": "2018-05-20",
     "edtf:cessation": "2018-05-20~",
     "edtf:inception": "2018-05-20T23:04:20",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180520-D-SWA-6322",
     "sfomuseum:flight_number": [
-      "WN6322", 
+      "WN6322",
       "SWA6322"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1679475829, 
-      85688637, 
-      1159157271, 
-      85922583, 
-      102087579, 
-      102191575, 
+      102527513,
+      85688637,
+      1159157271,
+      85922583,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679475829,
-    "wof:lastmodified": 1583186679,
+    "wof:lastmodified": 1717024503,
     "wof:name": "SWA6322 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}

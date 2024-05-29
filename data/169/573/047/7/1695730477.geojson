@@ -2,6 +2,10 @@
   "id": 1695730477,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-01",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-01T22:20:46",
     "edtf:inception": "2018-10-01~",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20181001-A-SWA-6707",
     "sfomuseum:flight_number": [
-      "WN6707", 
+      "WN6707",
       "SWA6707"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1695730477
+      102527513,
+      85922583,
+      1159157271,
+      85633793,
+      85688637,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583190216,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695730477,
-    "wof:lastmodified": 1583190216,
+    "wof:lastmodified": 1717024457,
     "wof:name": "SWA6707 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

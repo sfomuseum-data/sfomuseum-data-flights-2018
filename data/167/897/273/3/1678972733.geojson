@@ -2,6 +2,10 @@
   "id": 1678972733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-26",
+    "date:cessation_upper": "2018-02-26",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-26T22:11:43",
     "edtf:inception": "2018-02-26~",
     "flysfo:airline": "Y4",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536579,
     "sfomuseum:flight_id": "20180226-A-VOI-910",
     "sfomuseum:flight_number": [
-      "Y4910", 
+      "Y4910",
       "VOI910"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1678972733, 
-      102191575, 
-      102087579, 
-      1159157271, 
-      85633793, 
+      85688637,
+      102527513,
+      102191575,
+      102087579,
+      1159157271,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678972733,
-    "wof:lastmodified": 1583183907,
+    "wof:lastmodified": 1717024482,
     "wof:name": "VOI910 (MEX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-99.080804,19.431302],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679404233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-02",
+    "date:inception_upper": "2018-05-02",
     "edtf:cessation": "2018-05-02~",
     "edtf:inception": "2018-05-02T06:04:33",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180502-D-DAL-2520",
     "sfomuseum:flight_number": [
-      "DL2520", 
+      "DL2520",
       "DAL2520"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      1679404233
+      102527513,
+      102191575,
+      85688637,
+      1159157271,
+      85633793,
+      102087579,
+      85922583
     ],
     "wof:country": "US",
     "wof:created": 1583185753,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679404233,
-    "wof:lastmodified": 1583185753,
+    "wof:lastmodified": 1717024497,
     "wof:name": "DAL2520 (SFO-SLC)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-111.980566,40.78217]],"type":"MultiPoint"}

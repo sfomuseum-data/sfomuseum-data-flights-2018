@@ -2,6 +2,10 @@
   "id": 1679348739,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-17",
+    "date:cessation_upper": "2018-04-17",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-17T10:23:14",
     "edtf:inception": "2018-04-17~",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555091,
     "sfomuseum:flight_id": "20180417-A-ACA-737",
     "sfomuseum:flight_number": [
-      "AC737", 
+      "AC737",
       "ACA737"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      1679348739, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102191575, 
+      85688637,
+      1159157271,
+      85922583,
+      102527513,
+      85633793,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679348739,
-    "wof:lastmodified": 1583185138,
+    "wof:lastmodified": 1717024499,
     "wof:name": "ACA737 (YYZ-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -79.628342, 
+    -122.370943,
+    37.61799,
+    -79.628342,
     43.676352
   ],
   "geometry": {"coordinates":[[-79.628342,43.676352],[-122.370943,37.61799]],"type":"MultiPoint"}

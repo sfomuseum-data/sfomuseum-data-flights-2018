@@ -2,6 +2,10 @@
   "id": 1679458445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-16",
+    "date:inception_upper": "2018-05-16",
     "edtf:cessation": "2018-05-16~",
     "edtf:inception": "2018-05-16T09:09:07",
     "flysfo:airline": "HA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180516-D-HAL-11",
     "sfomuseum:flight_number": [
-      "HA11", 
+      "HA11",
       "HAL11"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679458445, 
-      85922583, 
-      85633793, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      102527513, 
+      85922583,
+      85633793,
+      1159157271,
+      102191575,
+      102087579,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679458445,
-    "wof:lastmodified": 1583186569,
+    "wof:lastmodified": 1717024504,
     "wof:name": "HAL11 (SFO-HNL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-157.918416,21.332508]],"type":"MultiPoint"}

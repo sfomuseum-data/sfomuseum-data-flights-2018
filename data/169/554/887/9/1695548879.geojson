@@ -2,6 +2,10 @@
   "id": 1695548879,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-15",
+    "date:cessation_upper": "2018-08-15",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-15T12:12:54",
     "edtf:inception": "2018-08-15~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533927,
     "sfomuseum:flight_id": "20180815-A-UAL-2737",
     "sfomuseum:flight_number": [
-      "UA2737", 
+      "UA2737",
       "UAL2737"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      1695548879
+      102527513,
+      85633793,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583188976,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695548879,
-    "wof:lastmodified": 1583188976,
+    "wof:lastmodified": 1717024475,
     "wof:name": "UAL2737 (EUG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303, 
-    37.61799, 
-    -122.370943, 
+    -123.21303,
+    37.61799,
+    -122.370943,
     44.119058
   ],
   "geometry": {"coordinates":[[-123.21303,44.119058],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679368359,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-22",
+    "date:cessation_upper": "2018-04-22",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-22T15:56:15",
     "edtf:inception": "2018-04-22~",
     "flysfo:airline": "KZ",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180422-A-NCA-109",
     "sfomuseum:flight_number": [
-      "KZ109", 
+      "KZ109",
       "NCA109"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
-      1679368359
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583185318,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679368359,
-    "wof:lastmodified": 1583185318,
+    "wof:lastmodified": 1717024499,
     "wof:name": "NCA109 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

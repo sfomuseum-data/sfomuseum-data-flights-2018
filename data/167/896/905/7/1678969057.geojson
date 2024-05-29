@@ -2,6 +2,10 @@
   "id": 1678969057,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-26",
+    "date:cessation_upper": "2018-02-26",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-26T13:25:34",
     "edtf:inception": "2018-02-26~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180226-A-SWA-555",
     "sfomuseum:flight_number": [
-      "WN555", 
+      "WN555",
       "SWA555"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1678969057, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
-      85922583, 
+      102087579,
+      1159157271,
+      85633793,
+      85688637,
+      102527513,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678969057,
-    "wof:lastmodified": 1583183896,
+    "wof:lastmodified": 1717024484,
     "wof:name": "SWA555 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

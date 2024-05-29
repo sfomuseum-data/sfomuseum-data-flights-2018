@@ -2,6 +2,10 @@
   "id": 1679729957,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-24",
+    "date:inception_upper": "2018-07-24",
     "edtf:cessation": "2018-07-24~",
     "edtf:inception": "2018-07-24T06:28:38",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180724-D-DAL-1847",
     "sfomuseum:flight_number": [
-      "DL1847", 
+      "DL1847",
       "DAL1847"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      1679729957, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
+      85688637,
+      1159157271,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679729957,
-    "wof:lastmodified": 1583188385,
+    "wof:lastmodified": 1717024517,
     "wof:name": "DAL1847 (SFO-MSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-93.200317,44.883321]],"type":"MultiPoint"}

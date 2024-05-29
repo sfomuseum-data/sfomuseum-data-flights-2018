@@ -2,6 +2,10 @@
   "id": 1695965077,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-20",
+    "date:cessation_upper": "2018-12-20",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-20T17:40:49",
     "edtf:inception": "2018-12-20~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20181220-A-DAL-1699",
     "sfomuseum:flight_number": [
-      "DL1699", 
+      "DL1699",
       "DAL1699"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      1695965077, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      102087579, 
+      85922583,
+      85633793,
+      85688637,
+      1159157271,
+      102527513,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695965077,
-    "wof:lastmodified": 1583192360,
+    "wof:lastmodified": 1717024474,
     "wof:name": "DAL1699 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

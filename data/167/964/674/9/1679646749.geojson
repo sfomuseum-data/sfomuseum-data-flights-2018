@@ -2,6 +2,10 @@
   "id": 1679646749,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-03",
+    "date:cessation_upper": "2018-07-03",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-03T23:32:56",
     "edtf:inception": "2018-07-03~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180703-A-UAL-398",
     "sfomuseum:flight_number": [
-      "UA398", 
+      "UA398",
       "UAL398"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1679646749, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102087579, 
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679646749,
-    "wof:lastmodified": 1583187810,
+    "wof:lastmodified": 1717024514,
     "wof:name": "UAL398 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

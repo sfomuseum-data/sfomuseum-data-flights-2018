@@ -2,6 +2,10 @@
   "id": 1695799327,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-20",
+    "date:cessation_upper": "2018-10-20",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-20T00:49:32",
     "edtf:inception": "2018-10-20~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20181020-A-DAL-463",
     "sfomuseum:flight_number": [
-      "DL463", 
+      "DL463",
       "DAL463"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      102191575, 
-      85633793, 
-      1695799327, 
+      85688637,
+      1159157271,
+      102527513,
+      102087579,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695799327,
-    "wof:lastmodified": 1583190715,
+    "wof:lastmodified": 1717024465,
     "wof:name": "DAL463 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

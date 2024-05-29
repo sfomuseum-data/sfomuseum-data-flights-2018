@@ -2,6 +2,10 @@
   "id": 1695697413,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-23",
+    "date:inception_upper": "2018-09-23",
     "edtf:cessation": "2018-09-23~",
     "edtf:inception": "2018-09-23T11:16:12",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180923-D-UAL-1273",
     "sfomuseum:flight_number": [
-      "UA1273", 
+      "UA1273",
       "UAL1273"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1695697413
+      85633793,
+      85688637,
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583189981,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695697413,
-    "wof:lastmodified": 1583189981,
+    "wof:lastmodified": 1717024457,
     "wof:name": "UAL1273 (SFO-OGG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.437877,20.894952]],"type":"MultiPoint"}

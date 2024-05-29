@@ -2,6 +2,10 @@
   "id": 1695943581,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-08",
+    "date:cessation_upper": "2018-12-08",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-08T11:29:06",
     "edtf:inception": "2018-12-08~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528181,
     "sfomuseum:flight_id": "20181208-A-AAL-9443",
     "sfomuseum:flight_number": [
-      "AA9443", 
+      "AA9443",
       "AAL9443"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      1695943581, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85633793, 
+      102527513,
+      85688637,
+      85922583,
+      102191575,
+      102087579,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695943581,
-    "wof:lastmodified": 1583192021,
+    "wof:lastmodified": 1717024470,
     "wof:name": "AAL9443 (PIT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -80.259551, 
+    -122.370943,
+    37.61799,
+    -80.259551,
     40.492624
   ],
   "geometry": {"coordinates":[[-80.259551,40.492624],[-122.370943,37.61799]],"type":"MultiPoint"}

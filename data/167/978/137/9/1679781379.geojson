@@ -2,6 +2,10 @@
   "id": 1679781379,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-05",
+    "date:cessation_upper": "2018-08-05",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-05T21:14:03",
     "edtf:inception": "2018-08-05~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533657,
     "sfomuseum:flight_id": "20180805-A-ASA-1305",
     "sfomuseum:flight_number": [
-      "AS1305", 
+      "AS1305",
       "ASA1305"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679781379, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      85633793, 
-      102087579, 
-      102527513, 
+      85922583,
+      1159157271,
+      85688637,
+      85633793,
+      102087579,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679781379,
-    "wof:lastmodified": 1583188723,
+    "wof:lastmodified": 1717024516,
     "wof:name": "ASA1305 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662978407,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-02",
+    "date:cessation_upper": "2018-01-02",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-02T07:32:01",
     "edtf:inception": "2018-01-02~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180102-A-VRD-1921",
     "sfomuseum:flight_number": [
-      "VX1921", 
+      "VX1921",
       "VRD1921"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1662978407, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85688637, 
+      102527513,
+      1159157271,
+      85633793,
+      102087579,
+      102191575,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662978407,
-    "wof:lastmodified": 1583182874,
+    "wof:lastmodified": 1717024483,
     "wof:name": "VRD1921 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

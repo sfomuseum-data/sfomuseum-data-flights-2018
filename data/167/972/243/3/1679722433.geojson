@@ -2,6 +2,10 @@
   "id": 1679722433,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-22",
+    "date:inception_upper": "2018-07-22",
     "edtf:cessation": "2018-07-22~",
     "edtf:inception": "2018-07-22T11:29:02",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180722-D-UAL-1689",
     "sfomuseum:flight_number": [
-      "UA1689", 
+      "UA1689",
       "UAL1689"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      102087579, 
-      1679722433, 
-      85922583, 
-      85633793, 
-      102191575, 
+      85688637,
+      102527513,
+      102087579,
+      85922583,
+      85633793,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679722433,
-    "wof:lastmodified": 1583188333,
+    "wof:lastmodified": 1717024513,
     "wof:name": "UAL1689 (SFO-SJD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-109.717461,23.160962]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695835075,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-29",
+    "date:cessation_upper": "2018-10-29",
+    "date:inception_lower": "2018-10-01",
+    "date:inception_upper": "2018-10-31",
     "edtf:cessation": "2018-10-29T14:01:26",
     "edtf:inception": "2018-10-29~",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20181029-A-FFT-1999",
     "sfomuseum:flight_number": [
-      "F91999", 
+      "F91999",
       "FFT1999"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      102087579, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      85688637, 
-      1695835075, 
+      102191575,
+      102087579,
+      85922583,
+      1159157271,
+      102527513,
+      85688637,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695835075,
-    "wof:lastmodified": 1583190981,
+    "wof:lastmodified": 1717024464,
     "wof:name": "FFT1999 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

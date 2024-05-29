@@ -2,6 +2,10 @@
   "id": 1679447075,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-13",
+    "date:inception_upper": "2018-05-13",
     "edtf:cessation": "2018-05-13~",
     "edtf:inception": "2018-05-13T09:47:00",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180513-D-UAL-2320",
     "sfomuseum:flight_number": [
-      "UA2320", 
+      "UA2320",
       "UAL2320"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      85688637, 
-      102191575, 
-      1679447075
+      85633793,
+      85922583,
+      102527513,
+      102087579,
+      1159157271,
+      85688637,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583186501,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679447075,
-    "wof:lastmodified": 1583186501,
+    "wof:lastmodified": 1717024503,
     "wof:name": "UAL2320 (SFO-LAX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.38951,33.942593]],"type":"MultiPoint"}

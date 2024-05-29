@@ -2,6 +2,10 @@
   "id": 1695952733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-13",
+    "date:cessation_upper": "2018-12-13",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-13T18:27:52",
     "edtf:inception": "2018-12-13~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20181213-A-SWA-1852",
     "sfomuseum:flight_number": [
-      "WN1852", 
+      "WN1852",
       "SWA1852"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1695952733, 
-      85688637, 
-      85633793, 
+      1159157271,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695952733,
-    "wof:lastmodified": 1583192165,
+    "wof:lastmodified": 1717024472,
     "wof:name": "SWA1852 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

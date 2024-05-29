@@ -2,6 +2,10 @@
   "id": 1662980869,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-02",
+    "date:cessation_upper": "2018-01-02",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-02T19:03:42",
     "edtf:inception": "2018-01-02~",
     "flysfo:airline": "BR",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102551487,
     "sfomuseum:flight_id": "20180102-A-EVA-028",
     "sfomuseum:flight_number": [
-      "BR028", 
+      "BR028",
       "EVA028"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1662980869
+      102087579,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583182885,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662980869,
-    "wof:lastmodified": 1583182885,
+    "wof:lastmodified": 1717024483,
     "wof:name": "EVA028 (TPE-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.078566, 
-    121.233152, 
+    -122.370943,
+    25.078566,
+    121.233152,
     37.61799
   ],
   "geometry": {"coordinates":[[121.233152,25.078566],[-122.370943,37.61799]],"type":"MultiPoint"}

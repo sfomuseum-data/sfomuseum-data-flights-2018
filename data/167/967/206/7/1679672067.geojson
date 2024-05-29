@@ -2,6 +2,10 @@
   "id": 1679672067,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-10",
+    "date:cessation_upper": "2018-07-10",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-10T11:00:51",
     "edtf:inception": "2018-07-10~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20180710-A-UAL-497",
     "sfomuseum:flight_number": [
-      "UA497", 
+      "UA497",
       "UAL497"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1679672067, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      102191575, 
-      85633793, 
+      102527513,
+      85922583,
+      1159157271,
+      102087579,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679672067,
-    "wof:lastmodified": 1583187976,
+    "wof:lastmodified": 1717024511,
     "wof:name": "UAL497 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

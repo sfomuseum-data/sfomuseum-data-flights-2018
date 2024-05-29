@@ -2,6 +2,10 @@
   "id": 1695716455,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-28",
+    "date:cessation_upper": "2018-09-28",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-28T08:19:05",
     "edtf:inception": "2018-09-28~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102541737,
     "sfomuseum:flight_id": "20180928-A-UAL-862",
     "sfomuseum:flight_number": [
-      "UA862", 
+      "UA862",
       "UAL862"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85688637, 
-      102527513, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      1695716455
+      85633793,
+      85688637,
+      102527513,
+      85922583,
+      1159157271,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583190116,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695716455,
-    "wof:lastmodified": 1583190116,
+    "wof:lastmodified": 1717024459,
     "wof:name": "UAL862 (HKG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    22.307471, 
-    113.927436, 
+    -122.370943,
+    22.307471,
+    113.927436,
     37.61799
   ],
   "geometry": {"coordinates":[[113.927436,22.307471],[-122.370943,37.61799]],"type":"MultiPoint"}

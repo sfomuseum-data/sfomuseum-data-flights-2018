@@ -2,6 +2,10 @@
   "id": 1679494939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-25",
+    "date:inception_upper": "2018-05-25",
     "edtf:cessation": "2018-05-25~",
     "edtf:inception": "2018-05-25T21:06:44",
     "flysfo:airline": "CM",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180525-D-CMP-209",
     "sfomuseum:flight_number": [
-      "CM209", 
+      "CM209",
       "CMP209"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      102527513, 
-      102087579, 
-      85688637, 
-      85633793, 
-      1679494939, 
+      1159157271,
+      102191575,
+      102527513,
+      102087579,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679494939,
-    "wof:lastmodified": 1583186806,
+    "wof:lastmodified": 1717024502,
     "wof:name": "CMP209 (SFO-PTY)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    9.07136, 
-    -79.383499, 
+    -122.370943,
+    9.07136,
+    -79.383499,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-79.383499,9.07136]],"type":"MultiPoint"}

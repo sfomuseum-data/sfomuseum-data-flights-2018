@@ -2,6 +2,10 @@
   "id": 1695980085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-28",
+    "date:inception_upper": "2018-12-28",
     "edtf:cessation": "2018-12-28~",
     "edtf:inception": "2018-12-28T22:18:48",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181228-D-UAL-726",
     "sfomuseum:flight_number": [
-      "UA726", 
+      "UA726",
       "UAL726"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695980085, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
-      102087579, 
-      85922583, 
+      102527513,
+      102191575,
+      85633793,
+      85688637,
+      102087579,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695980085,
-    "wof:lastmodified": 1583192595,
+    "wof:lastmodified": 1717024470,
     "wof:name": "UAL726 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

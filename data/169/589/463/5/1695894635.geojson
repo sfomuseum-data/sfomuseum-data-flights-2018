@@ -2,6 +2,10 @@
   "id": 1695894635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-14",
+    "date:cessation_upper": "2018-11-14",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-14T23:23:11",
     "edtf:inception": "2018-11-14~",
     "flysfo:airline": "F9",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20181114-A-FFT-667",
     "sfomuseum:flight_number": [
-      "F9667", 
+      "F9667",
       "FFT667"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85688637, 
-      85922583, 
-      102527513, 
-      1695894635
+      1159157271,
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583191410,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695894635,
-    "wof:lastmodified": 1583191410,
+    "wof:lastmodified": 1717024468,
     "wof:name": "FFT667 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

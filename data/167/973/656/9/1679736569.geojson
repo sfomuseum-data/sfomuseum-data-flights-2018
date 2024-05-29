@@ -2,6 +2,10 @@
   "id": 1679736569,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-25",
+    "date:cessation_upper": "2018-07-25",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-25T16:30:07",
     "edtf:inception": "2018-07-25~",
     "flysfo:airline": "TK",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102535819,
     "sfomuseum:flight_id": "20180725-A-THY-79K",
     "sfomuseum:flight_number": [
-      "TK79K", 
+      "TK79K",
       "THY79K"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      1679736569
+      85922583,
+      85633793,
+      102087579,
+      85688637,
+      1159157271,
+      102527513,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583188431,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679736569,
-    "wof:lastmodified": 1583188431,
+    "wof:lastmodified": 1717024516,
     "wof:name": "THY79K (IST-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    28.818113, 
+    -122.370943,
+    37.61799,
+    28.818113,
     40.981491
   ],
   "geometry": {"coordinates":[[28.818113,40.981491],[-122.370943,37.61799]],"type":"MultiPoint"}

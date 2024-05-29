@@ -2,6 +2,10 @@
   "id": 1679681063,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-01",
+    "date:cessation_upper": "2018-07-31",
+    "date:inception_lower": "2018-07-12",
+    "date:inception_upper": "2018-07-12",
     "edtf:cessation": "2018-07-12~",
     "edtf:inception": "2018-07-12T11:54:55",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180712-D-UAL-535",
     "sfomuseum:flight_number": [
-      "UA535", 
+      "UA535",
       "UAL535"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102191575, 
-      85688637, 
-      85633793, 
-      102527513, 
-      102087579, 
-      1679681063
+      85922583,
+      1159157271,
+      102191575,
+      85688637,
+      85633793,
+      102527513,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583188039,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679681063,
-    "wof:lastmodified": 1583188039,
+    "wof:lastmodified": 1717024511,
     "wof:name": "UAL535 (SFO-EWR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-74.177526,40.691243]],"type":"MultiPoint"}

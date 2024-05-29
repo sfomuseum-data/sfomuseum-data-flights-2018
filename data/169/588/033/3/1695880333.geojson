@@ -2,6 +2,10 @@
   "id": 1695880333,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-11",
+    "date:cessation_upper": "2018-11-11",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-11T07:48:05",
     "edtf:inception": "2018-11-11~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20181111-A-ASA-324",
     "sfomuseum:flight_number": [
-      "AS324", 
+      "AS324",
       "ASA324"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1695880333, 
-      85688637, 
-      102191575, 
+      1159157271,
+      85633793,
+      85922583,
+      102527513,
+      85688637,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695880333,
-    "wof:lastmodified": 1583191294,
+    "wof:lastmodified": 1717024466,
     "wof:name": "ASA324 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

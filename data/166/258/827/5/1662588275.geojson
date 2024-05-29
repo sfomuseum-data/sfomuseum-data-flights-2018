@@ -2,6 +2,10 @@
   "id": 1662588275,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-26",
+    "date:cessation_upper": "2018-02-26",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-26T10:04:40",
     "edtf:inception": "2018-02-26~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20180226-A-SWA-1468",
     "sfomuseum:flight_number": [
-      "WN1468", 
+      "WN1468",
       "SWA1468"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102191575, 
-      85633793, 
-      1662588275, 
-      102087579, 
-      1159157271, 
-      85922583, 
+      85688637,
+      102191575,
+      85633793,
+      102087579,
+      1159157271,
+      85922583,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662588275,
-    "wof:lastmodified": 1583183890,
+    "wof:lastmodified": 1717024480,
     "wof:name": "SWA1468 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

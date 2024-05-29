@@ -2,6 +2,10 @@
   "id": 1679453785,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-14",
+    "date:cessation_upper": "2018-05-14",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-14T23:38:01",
     "edtf:inception": "2018-05-14~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20180514-A-UAL-423",
     "sfomuseum:flight_number": [
-      "UA423", 
+      "UA423",
       "UAL423"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      1679453785, 
-      85688637, 
-      102087579, 
-      85922583, 
-      1159157271, 
+      85633793,
+      102527513,
+      85688637,
+      102087579,
+      85922583,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679453785,
-    "wof:lastmodified": 1583186541,
+    "wof:lastmodified": 1717024502,
     "wof:name": "UAL423 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

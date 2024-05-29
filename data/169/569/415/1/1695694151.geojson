@@ -2,6 +2,10 @@
   "id": 1695694151,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-22",
+    "date:cessation_upper": "2018-09-22",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-22T12:04:52",
     "edtf:inception": "2018-09-22~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180922-A-SWA-5775",
     "sfomuseum:flight_number": [
-      "WN5775", 
+      "WN5775",
       "SWA5775"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1695694151, 
-      85688637, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      85633793, 
+      102087579,
+      85688637,
+      102527513,
+      102191575,
+      1159157271,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695694151,
-    "wof:lastmodified": 1583189959,
+    "wof:lastmodified": 1717024456,
     "wof:name": "SWA5775 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

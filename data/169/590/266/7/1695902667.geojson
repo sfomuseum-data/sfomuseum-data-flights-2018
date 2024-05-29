@@ -2,6 +2,10 @@
   "id": 1695902667,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-17",
+    "date:cessation_upper": "2018-11-17",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-17T07:37:16",
     "edtf:inception": "2018-11-17~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20181117-A-UAL-2354",
     "sfomuseum:flight_number": [
-      "UA2354", 
+      "UA2354",
       "UAL2354"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      1695902667, 
-      85688637, 
-      102527513, 
-      102191575, 
-      85633793, 
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      102191575,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695902667,
-    "wof:lastmodified": 1583191472,
+    "wof:lastmodified": 1717024467,
     "wof:name": "UAL2354 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

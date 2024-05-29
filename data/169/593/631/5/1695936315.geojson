@@ -2,6 +2,10 @@
   "id": 1695936315,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-04",
+    "date:cessation_upper": "2018-12-04",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-04T09:55:32",
     "edtf:inception": "2018-12-04~",
     "flysfo:airline": "KE",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102556451,
     "sfomuseum:flight_id": "20181204-A-KAL-023",
     "sfomuseum:flight_number": [
-      "KE023", 
+      "KE023",
       "KAL023"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1159157271, 
-      1695936315, 
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695936315,
-    "wof:lastmodified": 1583191910,
+    "wof:lastmodified": 1717024471,
     "wof:name": "KAL023 (ICN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.453966, 
-    126.661632, 
+    -122.370943,
+    37.453966,
+    126.661632,
     37.61799
   ],
   "geometry": {"coordinates":[[126.661632,37.453966],[-122.370943,37.61799]],"type":"MultiPoint"}

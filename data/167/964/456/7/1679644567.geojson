@@ -2,6 +2,10 @@
   "id": 1679644567,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-02",
+    "date:cessation_upper": "2018-07-02",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-02T21:33:17",
     "edtf:inception": "2018-07-02~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531023,
     "sfomuseum:flight_id": "20180702-A-AAL-2688",
     "sfomuseum:flight_number": [
-      "AA2688", 
+      "AA2688",
       "AAL2688"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102087579, 
-      85922583, 
-      102191575, 
-      102527513, 
-      1679644567, 
+      1159157271,
+      85633793,
+      102087579,
+      85922583,
+      102191575,
+      102527513,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679644567,
-    "wof:lastmodified": 1583187797,
+    "wof:lastmodified": 1717024513,
     "wof:name": "AAL2688 (MIA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    25.79047, 
-    -80.296006, 
+    -122.370943,
+    25.79047,
+    -80.296006,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.296006,25.79047],[-122.370943,37.61799]],"type":"MultiPoint"}

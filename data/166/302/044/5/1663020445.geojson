@@ -2,6 +2,10 @@
   "id": 1663020445,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-14",
+    "date:inception_upper": "2018-01-14",
     "edtf:cessation": "2018-01-14~",
     "edtf:inception": "2018-01-14T08:02:59",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180114-D-SWA-1480",
     "sfomuseum:flight_number": [
-      "WN1480", 
+      "WN1480",
       "SWA1480"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1663020445, 
-      85688637, 
-      102087579, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      102527513, 
+      85688637,
+      102087579,
+      85633793,
+      85922583,
+      1159157271,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663020445,
-    "wof:lastmodified": 1583183059,
+    "wof:lastmodified": 1717024487,
     "wof:name": "SWA1480 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

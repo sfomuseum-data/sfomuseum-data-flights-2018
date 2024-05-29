@@ -2,6 +2,10 @@
   "id": 1695865449,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-06",
+    "date:cessation_upper": "2018-11-06",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-06T00:02:34",
     "edtf:inception": "2018-11-06~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533997,
     "sfomuseum:flight_id": "20181106-A-ASA-762",
     "sfomuseum:flight_number": [
-      "AS762", 
+      "AS762",
       "ASA762"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1695865449, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      85922583, 
-      85688637, 
+      85633793,
+      102527513,
+      102087579,
+      1159157271,
+      85922583,
+      85688637,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695865449,
-    "wof:lastmodified": 1583191187,
+    "wof:lastmodified": 1717024465,
     "wof:name": "ASA762 (HNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -157.918416, 
-    21.332508, 
-    -122.370943, 
+    -157.918416,
+    21.332508,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-157.918416,21.332508],[-122.370943,37.61799]],"type":"MultiPoint"}

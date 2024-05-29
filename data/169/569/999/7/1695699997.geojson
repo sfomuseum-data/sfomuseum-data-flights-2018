@@ -2,6 +2,10 @@
   "id": 1695699997,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-23",
+    "date:cessation_upper": "2018-09-23",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-23T23:16:28",
     "edtf:inception": "2018-09-23~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180923-A-UAL-2233",
     "sfomuseum:flight_number": [
-      "UA2233", 
+      "UA2233",
       "UAL2233"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1159157271, 
-      102087579, 
-      1695699997
+      102527513,
+      85688637,
+      102191575,
+      85922583,
+      85633793,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583189999,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695699997,
-    "wof:lastmodified": 1583189999,
+    "wof:lastmodified": 1717024458,
     "wof:name": "UAL2233 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

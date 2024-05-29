@@ -2,6 +2,10 @@
   "id": 1679412197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-04",
+    "date:cessation_upper": "2018-05-04",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-04T06:50:57",
     "edtf:inception": "2018-05-04~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20180504-A-ASA-743",
     "sfomuseum:flight_number": [
-      "AS743", 
+      "AS743",
       "ASA743"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85922583, 
-      85633793, 
-      102087579, 
-      85688637, 
-      1159157271, 
-      1679412197
+      102527513,
+      102191575,
+      85922583,
+      85633793,
+      102087579,
+      85688637,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583185945,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679412197,
-    "wof:lastmodified": 1583185945,
+    "wof:lastmodified": 1717024496,
     "wof:name": "ASA743 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

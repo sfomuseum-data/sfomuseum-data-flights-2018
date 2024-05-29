@@ -2,6 +2,10 @@
   "id": 1679089301,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-15",
+    "date:inception_upper": "2018-03-15",
     "edtf:cessation": "2018-03-15~",
     "edtf:inception": "2018-03-15T15:00:13",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180315-D-DAL-23",
     "sfomuseum:flight_number": [
-      "DL23", 
+      "DL23",
       "DAL23"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102527513, 
-      1679089301, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      102191575, 
+      85688637,
+      102527513,
+      85922583,
+      1159157271,
+      102087579,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679089301,
-    "wof:lastmodified": 1583184365,
+    "wof:lastmodified": 1717024490,
     "wof:name": "DAL23 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

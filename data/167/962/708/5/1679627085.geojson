@@ -2,6 +2,10 @@
   "id": 1679627085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-06-01",
+    "date:cessation_upper": "2018-06-30",
+    "date:inception_lower": "2018-06-28",
+    "date:inception_upper": "2018-06-28",
     "edtf:cessation": "2018-06-28~",
     "edtf:inception": "2018-06-28T14:57:07",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180628-D-SWA-277",
     "sfomuseum:flight_number": [
-      "WN277", 
+      "WN277",
       "SWA277"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102191575, 
-      1679627085, 
+      102087579,
+      85922583,
+      85633793,
+      85688637,
+      1159157271,
+      102191575,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679627085,
-    "wof:lastmodified": 1583187696,
+    "wof:lastmodified": 1717024510,
     "wof:name": "SWA277 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

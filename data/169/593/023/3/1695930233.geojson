@@ -2,6 +2,10 @@
   "id": 1695930233,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-30",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-30~",
     "edtf:inception": "2018-11-30T17:30:44",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181130-D-ASA-1222",
     "sfomuseum:flight_number": [
-      "AS1222", 
+      "AS1222",
       "ASA1222"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1695930233, 
-      85922583, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1159157271, 
+      85688637,
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      1159157271,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695930233,
-    "wof:lastmodified": 1583191820,
+    "wof:lastmodified": 1717024467,
     "wof:name": "ASA1222 (SFO-AUS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.643029,30.206175]],"type":"MultiPoint"}

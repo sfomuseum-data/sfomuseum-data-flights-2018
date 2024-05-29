@@ -2,6 +2,10 @@
   "id": 1695906005,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-18",
+    "date:cessation_upper": "2018-11-18",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-18T08:06:24",
     "edtf:inception": "2018-11-18~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20181118-A-ASA-1897",
     "sfomuseum:flight_number": [
-      "AS1897", 
+      "AS1897",
       "ASA1897"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      1695906005, 
+      102087579,
+      102191575,
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695906005,
-    "wof:lastmodified": 1583191498,
+    "wof:lastmodified": 1717024469,
     "wof:name": "ASA1897 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679153191,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-24",
+    "date:inception_upper": "2018-03-24",
     "edtf:cessation": "2018-03-24~",
     "edtf:inception": "2018-03-24T16:49:56",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180324-D-DAL-1271",
     "sfomuseum:flight_number": [
-      "DL1271", 
+      "DL1271",
       "DAL1271"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1679153191
+      102191575,
+      85922583,
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583184638,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679153191,
-    "wof:lastmodified": 1583184638,
+    "wof:lastmodified": 1717024490,
     "wof:name": "DAL1271 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

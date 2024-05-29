@@ -2,6 +2,10 @@
   "id": 1662577437,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-24",
+    "date:inception_upper": "2018-01-24",
     "edtf:cessation": "2018-01-24~",
     "edtf:inception": "2018-01-24T23:05:47",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180124-D-UAL-2162",
     "sfomuseum:flight_number": [
-      "UA2162", 
+      "UA2162",
       "UAL2162"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662577437, 
-      85688637, 
-      102087579, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
+      85688637,
+      102087579,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662577437,
-    "wof:lastmodified": 1583183218,
+    "wof:lastmodified": 1717024480,
     "wof:name": "UAL2162 (SFO-EUG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.21303, 
-    37.61799, 
-    -122.370943, 
+    -123.21303,
+    37.61799,
+    -122.370943,
     44.119058
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-123.21303,44.119058]],"type":"MultiPoint"}

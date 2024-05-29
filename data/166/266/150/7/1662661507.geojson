@@ -2,6 +2,10 @@
   "id": 1662661507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-04",
+    "date:cessation_upper": "2018-09-04",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-04T15:11:31",
     "edtf:inception": "2018-09-04~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533631,
     "sfomuseum:flight_id": "20180904-A-UAL-1825",
     "sfomuseum:flight_number": [
-      "UA1825", 
+      "UA1825",
       "UAL1825"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1159157271, 
-      85688637, 
-      102087579, 
-      1662661507
+      85633793,
+      85922583,
+      102527513,
+      102191575,
+      1159157271,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583189516,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662661507,
-    "wof:lastmodified": 1583189516,
+    "wof:lastmodified": 1717024471,
     "wof:name": "UAL1825 (ORD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-87.894364,41.983038],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662694359,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-03",
+    "date:cessation_upper": "2018-12-03",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-03T09:27:41",
     "edtf:inception": "2018-12-03~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533269,
     "sfomuseum:flight_id": "20181203-A-DAL-1928",
     "sfomuseum:flight_number": [
-      "DL1928", 
+      "DL1928",
       "DAL1928"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1662694359, 
-      102191575, 
-      1159157271, 
-      102087579, 
-      85922583, 
-      102527513, 
+      85688637,
+      102191575,
+      1159157271,
+      102087579,
+      85922583,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662694359,
-    "wof:lastmodified": 1583191884,
+    "wof:lastmodified": 1717024480,
     "wof:name": "DAL1928 (SEA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.304268,47.441823],[-122.370943,37.61799]],"type":"MultiPoint"}

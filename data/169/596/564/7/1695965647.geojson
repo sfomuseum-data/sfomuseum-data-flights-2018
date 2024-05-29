@@ -2,6 +2,10 @@
   "id": 1695965647,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-20",
+    "date:cessation_upper": "2018-12-20",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-20T23:48:28",
     "edtf:inception": "2018-12-20~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531189,
     "sfomuseum:flight_id": "20181220-A-UAL-2015",
     "sfomuseum:flight_number": [
-      "UA2015", 
+      "UA2015",
       "UAL2015"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      102087579, 
-      102191575, 
-      1695965647, 
-      85688637, 
-      1159157271, 
+      102527513,
+      85633793,
+      102087579,
+      102191575,
+      85688637,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695965647,
-    "wof:lastmodified": 1583192369,
+    "wof:lastmodified": 1717024474,
     "wof:name": "UAL2015 (DEN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-104.672219,39.864939],[-122.370943,37.61799]],"type":"MultiPoint"}

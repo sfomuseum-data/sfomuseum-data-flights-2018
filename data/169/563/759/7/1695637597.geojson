@@ -2,6 +2,10 @@
   "id": 1695637597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-06",
+    "date:inception_upper": "2018-09-06",
     "edtf:cessation": "2018-09-06~",
     "edtf:inception": "2018-09-06T17:51:30",
     "flysfo:airline": "MT",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180906-D-TCX-2625",
     "sfomuseum:flight_number": [
-      "MT2625", 
+      "MT2625",
       "TCX2625"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85922583, 
-      102087579, 
-      1695637597, 
-      1159157271, 
-      85688637, 
-      102191575, 
+      102527513,
+      85922583,
+      102087579,
+      1159157271,
+      85688637,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695637597,
-    "wof:lastmodified": 1583189570,
+    "wof:lastmodified": 1717024456,
     "wof:name": "TCX2625 (SFO-MAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -2.337608, 
+    -122.370943,
+    37.61799,
+    -2.337608,
     53.411253
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-2.337608,53.411253]],"type":"MultiPoint"}

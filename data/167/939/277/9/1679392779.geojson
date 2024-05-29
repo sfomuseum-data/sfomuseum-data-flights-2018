@@ -2,6 +2,10 @@
   "id": 1679392779,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-29",
+    "date:inception_upper": "2018-04-29",
     "edtf:cessation": "2018-04-29~",
     "edtf:inception": "2018-04-29T06:26:12",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180429-D-SWA-2769",
     "sfomuseum:flight_number": [
-      "WN2769", 
+      "WN2769",
       "SWA2769"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1679392779, 
-      1159157271, 
-      102087579, 
-      102527513, 
-      102191575, 
-      85922583, 
+      85633793,
+      1159157271,
+      102087579,
+      102527513,
+      102191575,
+      85922583,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679392779,
-    "wof:lastmodified": 1583185568,
+    "wof:lastmodified": 1717024496,
     "wof:name": "SWA2769 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

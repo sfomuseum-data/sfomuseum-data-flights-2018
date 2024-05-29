@@ -2,6 +2,10 @@
   "id": 1679686401,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-13",
+    "date:cessation_upper": "2018-07-13",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-13T16:07:56",
     "edtf:inception": "2018-07-13~",
     "flysfo:airline": "IB",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102545773,
     "sfomuseum:flight_id": "20180713-A-IBE-6175",
     "sfomuseum:flight_number": [
-      "IB6175", 
+      "IB6175",
       "IBE6175"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1679686401, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      85688637, 
+      1159157271,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679686401,
-    "wof:lastmodified": 1583188076,
+    "wof:lastmodified": 1717024514,
     "wof:name": "IBE6175 (MAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -3.562012, 
+    -122.370943,
+    37.61799,
+    -3.562012,
     40.477078
   ],
   "geometry": {"coordinates":[[-3.562012,40.477078],[-122.370943,37.61799]],"type":"MultiPoint"}

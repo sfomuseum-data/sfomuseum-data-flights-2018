@@ -2,6 +2,10 @@
   "id": 1678999857,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-02",
+    "date:inception_upper": "2018-03-02",
     "edtf:cessation": "2018-03-02~",
     "edtf:inception": "2018-03-02T17:43:31",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180302-D-SWA-5854",
     "sfomuseum:flight_number": [
-      "WN5854", 
+      "WN5854",
       "SWA5854"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      85688637, 
-      102191575, 
-      102087579, 
-      102527513, 
-      85633793, 
-      1678999857
+      85922583,
+      1159157271,
+      85688637,
+      102191575,
+      102087579,
+      102527513,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583184004,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678999857,
-    "wof:lastmodified": 1583184004,
+    "wof:lastmodified": 1717024486,
     "wof:name": "SWA5854 (SFO-PDX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.597389,45.586144]],"type":"MultiPoint"}

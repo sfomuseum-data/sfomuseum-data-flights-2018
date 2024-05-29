@@ -2,6 +2,10 @@
   "id": 1679773627,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-03",
+    "date:cessation_upper": "2018-08-03",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-03T21:48:39",
     "edtf:inception": "2018-08-03~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102526927,
     "sfomuseum:flight_id": "20180803-A-DAL-65",
     "sfomuseum:flight_number": [
-      "DL65", 
+      "DL65",
       "DAL65"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85922583, 
-      85688637, 
-      102191575, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1679773627
+      1159157271,
+      85922583,
+      85688637,
+      102191575,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583188672,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679773627,
-    "wof:lastmodified": 1583188672,
+    "wof:lastmodified": 1717024517,
     "wof:name": "DAL65 (ATL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-84.430686,33.636518],[-122.370943,37.61799]],"type":"MultiPoint"}

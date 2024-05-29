@@ -2,6 +2,10 @@
   "id": 1679797733,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-09",
+    "date:inception_upper": "2018-08-09",
     "edtf:cessation": "2018-08-09~",
     "edtf:inception": "2018-08-09T21:56:05",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180809-D-ASA-1596",
     "sfomuseum:flight_number": [
-      "AS1596", 
+      "AS1596",
       "ASA1596"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1679797733, 
-      102527513, 
-      85633793, 
-      85922583, 
-      102191575, 
-      85688637, 
+      102087579,
+      102527513,
+      85633793,
+      85922583,
+      102191575,
+      85688637,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679797733,
-    "wof:lastmodified": 1583188836,
+    "wof:lastmodified": 1717024520,
     "wof:name": "ASA1596 (SFO-PSP)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-116.506042,33.824619]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695719591,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-28",
+    "date:cessation_upper": "2018-09-28",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-28T22:39:09",
     "edtf:inception": "2018-09-28~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180928-A-DAL-2777",
     "sfomuseum:flight_number": [
-      "DL2777", 
+      "DL2777",
       "DAL2777"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1695719591, 
-      85688637, 
-      102087579, 
-      85922583, 
-      102191575, 
-      102527513, 
-      85633793, 
+      85688637,
+      102087579,
+      85922583,
+      102191575,
+      102527513,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695719591,
-    "wof:lastmodified": 1583190138,
+    "wof:lastmodified": 1717024461,
     "wof:name": "DAL2777 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

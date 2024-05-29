@@ -2,6 +2,10 @@
   "id": 1679500085,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-27",
+    "date:cessation_upper": "2018-05-27",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-27T10:31:39",
     "edtf:inception": "2018-05-27~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534161,
     "sfomuseum:flight_id": "20180527-A-SWA-2452",
     "sfomuseum:flight_number": [
-      "WN2452", 
+      "WN2452",
       "SWA2452"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1679500085, 
-      85922583, 
+      85633793,
+      102527513,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679500085,
-    "wof:lastmodified": 1583186839,
+    "wof:lastmodified": 1717024500,
     "wof:name": "SWA2452 (SNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.677724, 
-    -117.86628, 
+    -122.370943,
+    33.677724,
+    -117.86628,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.86628,33.677724],[-122.370943,37.61799]],"type":"MultiPoint"}

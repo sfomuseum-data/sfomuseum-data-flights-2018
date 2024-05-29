@@ -2,6 +2,10 @@
   "id": 1679420393,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-06",
+    "date:inception_upper": "2018-05-06",
     "edtf:cessation": "2018-05-06~",
     "edtf:inception": "2018-05-06T10:44:14",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180506-D-UAL-2221",
     "sfomuseum:flight_number": [
-      "UA2221", 
+      "UA2221",
       "UAL2221"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      85688637, 
-      1679420393, 
-      85922583, 
-      102527513, 
-      102087579, 
+      1159157271,
+      85633793,
+      85688637,
+      85922583,
+      102527513,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679420393,
-    "wof:lastmodified": 1583186065,
+    "wof:lastmodified": 1717024496,
     "wof:name": "UAL2221 (SFO-DTW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -83.351709, 
+    -122.370943,
+    37.61799,
+    -83.351709,
     42.21886
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-83.351709,42.21886]],"type":"MultiPoint"}

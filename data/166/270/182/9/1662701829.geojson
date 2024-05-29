@@ -2,6 +2,10 @@
   "id": 1662701829,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-24",
+    "date:inception_upper": "2018-12-24",
     "edtf:cessation": "2018-12-24~",
     "edtf:inception": "2018-12-24T10:18:15",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181224-D-ASA-1385",
     "sfomuseum:flight_number": [
-      "AS1385", 
+      "AS1385",
       "ASA1385"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      102527513, 
-      85922583, 
-      85688637, 
-      102191575, 
-      1159157271, 
-      1662701829
+      85633793,
+      102087579,
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583192464,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662701829,
-    "wof:lastmodified": 1583192464,
+    "wof:lastmodified": 1717024482,
     "wof:name": "ASA1385 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

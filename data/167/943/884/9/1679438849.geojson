@@ -2,6 +2,10 @@
   "id": 1679438849,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-11",
+    "date:cessation_upper": "2018-05-11",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-11T04:48:05",
     "edtf:inception": "2018-05-11~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102542687,
     "sfomuseum:flight_id": "20180511-A-UAL-955",
     "sfomuseum:flight_number": [
-      "UA955", 
+      "UA955",
       "UAL955"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85633793, 
-      1679438849, 
-      85688637, 
-      102527513, 
-      102087579, 
-      85922583, 
+      102191575,
+      85633793,
+      85688637,
+      102527513,
+      102087579,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679438849,
-    "wof:lastmodified": 1583186415,
+    "wof:lastmodified": 1717024502,
     "wof:name": "UAL955 (TLV-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.005595, 
-    34.877214, 
+    -122.370943,
+    32.005595,
+    34.877214,
     37.61799
   ],
   "geometry": {"coordinates":[[34.877214,32.005595],[-122.370943,37.61799]],"type":"MultiPoint"}

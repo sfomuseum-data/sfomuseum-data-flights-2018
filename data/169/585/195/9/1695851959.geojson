@@ -2,6 +2,10 @@
   "id": 1695851959,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-03",
+    "date:inception_upper": "2018-11-03",
     "edtf:cessation": "2018-11-03~",
     "edtf:inception": "2018-11-03T09:01:51",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181103-D-UAL-1111",
     "sfomuseum:flight_number": [
-      "UA1111", 
+      "UA1111",
       "UAL1111"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1695851959, 
-      85922583, 
-      85688637, 
-      102191575, 
-      85633793, 
-      1159157271, 
+      102527513,
+      85922583,
+      85688637,
+      102191575,
+      85633793,
+      1159157271,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695851959,
-    "wof:lastmodified": 1583191095,
+    "wof:lastmodified": 1717024463,
     "wof:name": "UAL1111 (SFO-LIH)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -159.347789, 
-    21.981539, 
-    -122.370943, 
+    -159.347789,
+    21.981539,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-159.347789,21.981539]],"type":"MultiPoint"}

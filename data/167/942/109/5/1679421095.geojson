@@ -2,6 +2,10 @@
   "id": 1679421095,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-06",
+    "date:cessation_upper": "2018-05-06",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-06T13:40:39",
     "edtf:inception": "2018-05-06~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180506-A-ASA-1987",
     "sfomuseum:flight_number": [
-      "AS1987", 
+      "AS1987",
       "ASA1987"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85922583, 
-      102191575, 
-      102527513, 
-      85688637, 
-      85633793, 
-      1679421095
+      102087579,
+      1159157271,
+      85922583,
+      102191575,
+      102527513,
+      85688637,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583186077,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679421095,
-    "wof:lastmodified": 1583186077,
+    "wof:lastmodified": 1717024497,
     "wof:name": "ASA1987 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

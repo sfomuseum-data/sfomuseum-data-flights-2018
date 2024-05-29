@@ -2,6 +2,10 @@
   "id": 1663041381,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-20",
+    "date:inception_upper": "2018-01-20",
     "edtf:cessation": "2018-01-20~",
     "edtf:inception": "2018-01-20T11:46:41",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180120-D-ASA-1041",
     "sfomuseum:flight_number": [
-      "AS1041", 
+      "AS1041",
       "ASA1041"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1663041381
+      85688637,
+      1159157271,
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583183153,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663041381,
-    "wof:lastmodified": 1583183153,
+    "wof:lastmodified": 1717024487,
     "wof:name": "ASA1041 (SFO-KOA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.03506, 
-    19.732444, 
-    -122.370943, 
+    -156.03506,
+    19.732444,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.03506,19.732444]],"type":"MultiPoint"}

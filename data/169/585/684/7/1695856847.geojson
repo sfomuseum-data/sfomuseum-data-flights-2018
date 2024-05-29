@@ -2,6 +2,10 @@
   "id": 1695856847,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-04",
+    "date:cessation_upper": "2018-11-04",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-04T17:32:54",
     "edtf:inception": "2018-11-04~",
     "flysfo:airline": "AY",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102553373,
     "sfomuseum:flight_id": "20181104-A-FIN-11",
     "sfomuseum:flight_number": [
-      "AY11", 
+      "AY11",
       "FIN11"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      102087579, 
-      85922583, 
-      85688637, 
-      85633793, 
-      1695856847, 
+      102527513,
+      102191575,
+      102087579,
+      85922583,
+      85688637,
+      85633793,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695856847,
-    "wof:lastmodified": 1583191128,
+    "wof:lastmodified": 1717024465,
     "wof:name": "FIN11 (HEL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    24.967433, 
+    -122.370943,
+    37.61799,
+    24.967433,
     60.309585
   ],
   "geometry": {"coordinates":[[24.967433,60.309585],[-122.370943,37.61799]],"type":"MultiPoint"}

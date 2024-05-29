@@ -2,6 +2,10 @@
   "id": 1679015235,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-05",
+    "date:cessation_upper": "2018-03-05",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-05T06:05:37",
     "edtf:inception": "2018-03-05~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532929,
     "sfomuseum:flight_id": "20180305-A-ASA-1048",
     "sfomuseum:flight_number": [
-      "AS1048", 
+      "AS1048",
       "ASA1048"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85922583, 
-      85633793, 
-      1679015235, 
-      85688637, 
-      102087579, 
+      1159157271,
+      102191575,
+      85922583,
+      85633793,
+      85688637,
+      102087579,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679015235,
-    "wof:lastmodified": 1583184062,
+    "wof:lastmodified": 1717024485,
     "wof:name": "ASA1048 (OGG-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.437877, 
-    20.894952, 
-    -122.370943, 
+    -156.437877,
+    20.894952,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-156.437877,20.894952],[-122.370943,37.61799]],"type":"MultiPoint"}

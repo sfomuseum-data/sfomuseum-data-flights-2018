@@ -2,6 +2,10 @@
   "id": 1679769597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-02",
+    "date:cessation_upper": "2018-08-02",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-02T22:23:23",
     "edtf:inception": "2018-08-02~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180802-A-UAL-1217",
     "sfomuseum:flight_number": [
-      "UA1217", 
+      "UA1217",
       "UAL1217"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
-      102087579, 
-      85922583, 
-      85688637, 
-      1679769597
+      1159157271,
+      102527513,
+      102191575,
+      85633793,
+      102087579,
+      85922583,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583188639,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679769597,
-    "wof:lastmodified": 1583188639,
+    "wof:lastmodified": 1717024520,
     "wof:name": "UAL1217 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

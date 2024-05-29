@@ -2,6 +2,10 @@
   "id": 1695916959,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-22",
+    "date:cessation_upper": "2018-11-22",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-22T15:50:43",
     "edtf:inception": "2018-11-22~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20181122-A-SWA-3141",
     "sfomuseum:flight_number": [
-      "WN3141", 
+      "WN3141",
       "SWA3141"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1695916959, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102527513, 
-      102191575, 
+      85688637,
+      85922583,
+      85633793,
+      102087579,
+      102527513,
+      102191575,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695916959,
-    "wof:lastmodified": 1583191627,
+    "wof:lastmodified": 1717024471,
     "wof:name": "SWA3141 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

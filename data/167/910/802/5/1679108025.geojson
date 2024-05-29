@@ -2,6 +2,10 @@
   "id": 1679108025,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-18",
+    "date:cessation_upper": "2018-03-18",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-18T10:04:30",
     "edtf:inception": "2018-03-18~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527209,
     "sfomuseum:flight_id": "20180318-A-SWA-3940",
     "sfomuseum:flight_number": [
-      "WN3940", 
+      "WN3940",
       "SWA3940"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679108025, 
-      102191575, 
-      85633793, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      102527513, 
+      102191575,
+      85633793,
+      85688637,
+      1159157271,
+      102087579,
+      102527513,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679108025,
-    "wof:lastmodified": 1583184444,
+    "wof:lastmodified": 1717024489,
     "wof:name": "SWA3940 (LAS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-115.15644,36.081003],[-122.370943,37.61799]],"type":"MultiPoint"}

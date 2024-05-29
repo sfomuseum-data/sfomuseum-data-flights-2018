@@ -2,6 +2,10 @@
   "id": 1695918035,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-23",
+    "date:inception_upper": "2018-11-23",
     "edtf:cessation": "2018-11-23~",
     "edtf:inception": "2018-11-23T13:40:22",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181123-D-SWA-1045",
     "sfomuseum:flight_number": [
-      "WN1045", 
+      "WN1045",
       "SWA1045"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1695918035, 
-      85688637, 
-      102527513, 
-      85922583, 
-      102191575, 
-      1159157271, 
+      102087579,
+      85688637,
+      102527513,
+      85922583,
+      102191575,
+      1159157271,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695918035,
-    "wof:lastmodified": 1583191643,
+    "wof:lastmodified": 1717024472,
     "wof:name": "SWA1045 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

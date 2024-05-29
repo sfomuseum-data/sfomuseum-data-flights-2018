@@ -2,6 +2,10 @@
   "id": 1663010009,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-10",
+    "date:cessation_upper": "2018-01-10",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-10T22:35:08",
     "edtf:inception": "2018-01-10~",
     "flysfo:airline": "VX",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530841,
     "sfomuseum:flight_id": "20180110-A-VRD-1349",
     "sfomuseum:flight_number": [
-      "VX1349", 
+      "VX1349",
       "VRD1349"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      1663010009, 
-      102191575, 
-      85688637, 
+      85922583,
+      1159157271,
+      102527513,
+      85633793,
+      102191575,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1663010009,
-    "wof:lastmodified": 1583183013,
+    "wof:lastmodified": 1717024484,
     "wof:name": "VRD1349 (FLL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    26.07486, 
-    -80.138518, 
+    -122.370943,
+    26.07486,
+    -80.138518,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.138518,26.07486],[-122.370943,37.61799]],"type":"MultiPoint"}

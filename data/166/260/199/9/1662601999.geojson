@@ -2,6 +2,10 @@
   "id": 1662601999,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-05",
+    "date:inception_upper": "2018-04-05",
     "edtf:cessation": "2018-04-05~",
     "edtf:inception": "2018-04-05T14:59:34",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180405-D-SWA-1461",
     "sfomuseum:flight_number": [
-      "WN1461", 
+      "WN1461",
       "SWA1461"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1159157271, 
-      85922583, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1662601999
+      102191575,
+      1159157271,
+      85922583,
+      85688637,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583184902,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662601999,
-    "wof:lastmodified": 1583184902,
+    "wof:lastmodified": 1717024479,
     "wof:name": "SWA1461 (SFO-BUR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.353322,34.196704]],"type":"MultiPoint"}

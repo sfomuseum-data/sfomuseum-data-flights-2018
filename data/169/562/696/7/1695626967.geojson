@@ -2,6 +2,10 @@
   "id": 1695626967,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-03",
+    "date:inception_upper": "2018-09-03",
     "edtf:cessation": "2018-09-03~",
     "edtf:inception": "2018-09-03T23:11:21",
     "flysfo:airline": "AM",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180903-D-AMX-665",
     "sfomuseum:flight_number": [
-      "AM665", 
+      "AM665",
       "AMX665"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1695626967, 
+      1159157271,
+      102191575,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695626967,
-    "wof:lastmodified": 1583189500,
+    "wof:lastmodified": 1717024452,
     "wof:name": "AMX665 (SFO-MEX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    19.431302, 
-    -99.080804, 
+    -122.370943,
+    19.431302,
+    -99.080804,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-99.080804,19.431302]],"type":"MultiPoint"}

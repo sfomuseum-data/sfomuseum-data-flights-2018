@@ -2,6 +2,10 @@
   "id": 1695795541,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-19",
+    "date:inception_upper": "2018-10-19",
     "edtf:cessation": "2018-10-19~",
     "edtf:inception": "2018-10-19T05:48:32",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181019-D-UAL-756",
     "sfomuseum:flight_number": [
-      "UA756", 
+      "UA756",
       "UAL756"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      1695795541, 
-      102527513, 
-      85688637, 
-      102191575, 
-      85922583, 
+      85633793,
+      102087579,
+      102527513,
+      85688637,
+      102191575,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695795541,
-    "wof:lastmodified": 1583190689,
+    "wof:lastmodified": 1717024463,
     "wof:name": "UAL756 (SFO-DEN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -104.672219, 
+    -122.370943,
+    37.61799,
+    -104.672219,
     39.864939
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-104.672219,39.864939]],"type":"MultiPoint"}

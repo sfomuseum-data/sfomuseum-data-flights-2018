@@ -2,6 +2,10 @@
   "id": 1679809507,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-12",
+    "date:cessation_upper": "2018-08-12",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-12T20:57:59",
     "edtf:inception": "2018-08-12~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525035,
     "sfomuseum:flight_id": "20180812-A-UAL-1835",
     "sfomuseum:flight_number": [
-      "UA1835", 
+      "UA1835",
       "UAL1835"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      85922583, 
-      102527513, 
-      102191575, 
-      1679809507, 
-      85633793, 
+      1159157271,
+      102087579,
+      85922583,
+      102527513,
+      102191575,
+      85633793,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679809507,
-    "wof:lastmodified": 1583188909,
+    "wof:lastmodified": 1717024521,
     "wof:name": "UAL1835 (BNA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.126387, 
-    -86.676652, 
+    -122.370943,
+    36.126387,
+    -86.676652,
     37.61799
   ],
   "geometry": {"coordinates":[[-86.676652,36.126387],[-122.370943,37.61799]],"type":"MultiPoint"}

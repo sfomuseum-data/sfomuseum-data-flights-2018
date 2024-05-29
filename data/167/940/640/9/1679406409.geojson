@@ -2,6 +2,10 @@
   "id": 1679406409,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-02",
+    "date:cessation_upper": "2018-05-02",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-02T16:15:00",
     "edtf:inception": "2018-05-02~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20180502-A-ASA-1273",
     "sfomuseum:flight_number": [
-      "AS1273", 
+      "AS1273",
       "ASA1273"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1679406409, 
-      1159157271, 
-      102191575, 
-      85922583, 
-      102527513, 
+      85688637,
+      102087579,
+      1159157271,
+      102191575,
+      85922583,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679406409,
-    "wof:lastmodified": 1583185797,
+    "wof:lastmodified": 1717024498,
     "wof:name": "ASA1273 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

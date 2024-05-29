@@ -2,6 +2,10 @@
   "id": 1695667929,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-15",
+    "date:cessation_upper": "2018-09-15",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-30",
     "edtf:cessation": "2018-09-15T08:25:54",
     "edtf:inception": "2018-09-15~",
     "flysfo:airline": "AC",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102555307,
     "sfomuseum:flight_id": "20180915-A-ACA-564",
     "sfomuseum:flight_number": [
-      "AC564", 
+      "AC564",
       "ACA564"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1695667929, 
-      85922583, 
-      85688637, 
-      102087579, 
-      102191575, 
-      1159157271, 
+      85633793,
+      85922583,
+      85688637,
+      102087579,
+      102191575,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695667929,
-    "wof:lastmodified": 1583189772,
+    "wof:lastmodified": 1717024457,
     "wof:name": "ACA564 (YVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -123.1792, 
-    37.61799, 
-    -122.370943, 
+    -123.1792,
+    37.61799,
+    -122.370943,
     49.19333
   ],
   "geometry": {"coordinates":[[-123.1792,49.19333],[-122.370943,37.61799]],"type":"MultiPoint"}

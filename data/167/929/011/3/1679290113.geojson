@@ -2,6 +2,10 @@
   "id": 1679290113,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-09",
+    "date:inception_upper": "2018-04-09",
     "edtf:cessation": "2018-04-09~",
     "edtf:inception": "2018-04-09T01:13:45",
     "flysfo:airline": "AI",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180409-D-AIC-184",
     "sfomuseum:flight_number": [
-      "AI184", 
+      "AI184",
       "AIC184"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85688637, 
-      1159157271, 
-      85633793, 
-      85922583, 
-      102087579, 
-      102191575, 
-      1679290113
+      102527513,
+      85688637,
+      1159157271,
+      85633793,
+      85922583,
+      102087579,
+      102191575
     ],
     "wof:country": "US",
     "wof:created": 1583184965,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679290113,
-    "wof:lastmodified": 1583184965,
+    "wof:lastmodified": 1717024492,
     "wof:name": "AIC184 (SFO-DEL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.561954, 
-    77.098117, 
+    -122.370943,
+    28.561954,
+    77.098117,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[77.098117,28.561954]],"type":"MultiPoint"}

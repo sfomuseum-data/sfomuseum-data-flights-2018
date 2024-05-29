@@ -2,6 +2,10 @@
   "id": 1695691221,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-21",
+    "date:inception_upper": "2018-09-21",
     "edtf:cessation": "2018-09-21~",
     "edtf:inception": "2018-09-21T15:00:44",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180921-D-SWA-5650",
     "sfomuseum:flight_number": [
-      "WN5650", 
+      "WN5650",
       "SWA5650"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      102191575, 
-      85633793, 
-      1695691221
+      102087579,
+      85922583,
+      85688637,
+      1159157271,
+      102527513,
+      102191575,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583189937,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695691221,
-    "wof:lastmodified": 1583189937,
+    "wof:lastmodified": 1717024454,
     "wof:name": "SWA5650 (SFO-MDW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.745903,41.787532]],"type":"MultiPoint"}

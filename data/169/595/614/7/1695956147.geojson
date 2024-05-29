@@ -2,6 +2,10 @@
   "id": 1695956147,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-15",
+    "date:cessation_upper": "2018-12-15",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-15T17:19:07",
     "edtf:inception": "2018-12-15~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20181215-A-ASA-360",
     "sfomuseum:flight_number": [
-      "AS360", 
+      "AS360",
       "ASA360"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      85633793, 
-      102527513, 
-      102191575, 
-      85688637, 
-      102087579, 
-      1695956147, 
+      1159157271,
+      85633793,
+      102527513,
+      102191575,
+      85688637,
+      102087579,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695956147,
-    "wof:lastmodified": 1583192217,
+    "wof:lastmodified": 1717024474,
     "wof:name": "ASA360 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

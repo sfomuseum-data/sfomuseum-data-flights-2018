@@ -2,6 +2,10 @@
   "id": 1695609213,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-30",
+    "date:cessation_upper": "2018-08-30",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-30T09:20:19",
     "edtf:inception": "2018-08-30~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528817,
     "sfomuseum:flight_id": "20180830-A-UAL-1881",
     "sfomuseum:flight_number": [
-      "UA1881", 
+      "UA1881",
       "UAL1881"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102191575, 
-      102527513, 
-      1159157271, 
-      1695609213, 
-      85688637, 
+      85633793,
+      85922583,
+      102191575,
+      102527513,
+      1159157271,
+      85688637,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695609213,
-    "wof:lastmodified": 1583189378,
+    "wof:lastmodified": 1717024454,
     "wof:name": "UAL1881 (IAD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -77.453702, 
+    -122.370943,
+    37.61799,
+    -77.453702,
     38.949246
   ],
   "geometry": {"coordinates":[[-77.453702,38.949246],[-122.370943,37.61799]],"type":"MultiPoint"}

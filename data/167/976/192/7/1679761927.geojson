@@ -2,6 +2,10 @@
   "id": 1679761927,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-01",
     "edtf:cessation": "2018-08-01~",
     "edtf:inception": "2018-08-01T09:23:27",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180801-D-SWA-1697",
     "sfomuseum:flight_number": [
-      "WN1697", 
+      "WN1697",
       "SWA1697"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85688637, 
-      1679761927, 
-      102087579, 
-      102191575, 
-      85633793, 
+      1159157271,
+      102527513,
+      85688637,
+      102087579,
+      102191575,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679761927,
-    "wof:lastmodified": 1583188591,
+    "wof:lastmodified": 1717024516,
     "wof:name": "SWA1697 (SFO-SAN)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-117.185927,32.733534]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679663641,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-08",
+    "date:cessation_upper": "2018-07-08",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-08T11:21:26",
     "edtf:inception": "2018-07-08~",
     "flysfo:airline": "SY",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102531131,
     "sfomuseum:flight_id": "20180708-A-SCX-393",
     "sfomuseum:flight_number": [
-      "SY393", 
+      "SY393",
       "SCX393"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102087579, 
-      85688637, 
-      102191575, 
-      85633793, 
-      85922583, 
-      102527513, 
-      1679663641
+      1159157271,
+      102087579,
+      85688637,
+      102191575,
+      85633793,
+      85922583,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583187917,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679663641,
-    "wof:lastmodified": 1583187917,
+    "wof:lastmodified": 1717024512,
     "wof:name": "SCX393 (MSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -93.200317, 
+    -122.370943,
+    37.61799,
+    -93.200317,
     44.883321
   ],
   "geometry": {"coordinates":[[-93.200317,44.883321],[-122.370943,37.61799]],"type":"MultiPoint"}

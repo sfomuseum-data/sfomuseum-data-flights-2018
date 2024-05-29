@@ -2,6 +2,10 @@
   "id": 1678801891,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-28",
+    "date:cessation_upper": "2018-01-28",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-28T21:02:25",
     "edtf:inception": "2018-01-28~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532939,
     "sfomuseum:flight_id": "20180128-A-UAL-643",
     "sfomuseum:flight_number": [
-      "UA643", 
+      "UA643",
       "UAL643"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      102191575, 
-      1678801891, 
-      102527513, 
-      102087579, 
-      1159157271, 
+      85688637,
+      85633793,
+      102191575,
+      102527513,
+      102087579,
+      1159157271,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678801891,
-    "wof:lastmodified": 1583183278,
+    "wof:lastmodified": 1717024479,
     "wof:name": "UAL643 (KOA-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.03506, 
-    19.732444, 
-    -122.370943, 
+    -156.03506,
+    19.732444,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-156.03506,19.732444],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695558383,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-17",
+    "date:inception_upper": "2018-08-17",
     "edtf:cessation": "2018-08-17~",
     "edtf:inception": "2018-08-17T15:35:17",
     "flysfo:airline": "WN",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180817-D-SWA-2229",
     "sfomuseum:flight_number": [
-      "WN2229", 
+      "WN2229",
       "SWA2229"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      85688637, 
-      1695558383
+      85633793,
+      1159157271,
+      102527513,
+      85922583,
+      102191575,
+      102087579,
+      85688637
     ],
     "wof:country": "US",
     "wof:created": 1583189039,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695558383,
-    "wof:lastmodified": 1583189039,
+    "wof:lastmodified": 1717024453,
     "wof:name": "SWA2229 (SFO-PHX)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-112.017392,33.432684]],"type":"MultiPoint"}

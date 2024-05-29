@@ -2,6 +2,10 @@
   "id": 1679673625,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-10",
+    "date:cessation_upper": "2018-07-10",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-10T17:47:18",
     "edtf:inception": "2018-07-10~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102526751,
     "sfomuseum:flight_id": "20180710-A-UAL-2351",
     "sfomuseum:flight_number": [
-      "UA2351", 
+      "UA2351",
       "UAL2351"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      102527513, 
-      102087579, 
-      85688637, 
-      1679673625, 
-      85633793, 
+      85922583,
+      1159157271,
+      102527513,
+      102087579,
+      85688637,
+      85633793,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679673625,
-    "wof:lastmodified": 1583187987,
+    "wof:lastmodified": 1717024512,
     "wof:name": "UAL2351 (PHX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.432684, 
-    -112.017392, 
+    -122.370943,
+    33.432684,
+    -112.017392,
     37.61799
   ],
   "geometry": {"coordinates":[[-112.017392,33.432684],[-122.370943,37.61799]],"type":"MultiPoint"}

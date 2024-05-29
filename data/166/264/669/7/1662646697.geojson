@@ -2,6 +2,10 @@
   "id": 1662646697,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-29",
+    "date:cessation_upper": "2018-07-29",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-29T19:00:25",
     "edtf:inception": "2018-07-29~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20180729-A-ASA-1967",
     "sfomuseum:flight_number": [
-      "AS1967", 
+      "AS1967",
       "ASA1967"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      1662646697, 
-      85922583, 
-      1159157271, 
-      102191575, 
-      102527513, 
-      102087579, 
+      85633793,
+      85922583,
+      1159157271,
+      102191575,
+      102527513,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662646697,
-    "wof:lastmodified": 1583188535,
+    "wof:lastmodified": 1717024465,
     "wof:name": "ASA1967 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}

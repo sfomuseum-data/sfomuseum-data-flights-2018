@@ -2,6 +2,10 @@
   "id": 1695594245,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-26",
+    "date:cessation_upper": "2018-08-26",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-26T14:38:53",
     "edtf:inception": "2018-08-26~",
     "flysfo:airline": "MT",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102556861,
     "sfomuseum:flight_id": "20180826-A-TCX-2864",
     "sfomuseum:flight_number": [
-      "MT2864", 
+      "MT2864",
       "TCX2864"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      1695594245
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583189274,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695594245,
-    "wof:lastmodified": 1583189274,
+    "wof:lastmodified": 1717024452,
     "wof:name": "TCX2864 (MAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -2.337608, 
+    -122.370943,
+    37.61799,
+    -2.337608,
     53.411253
   ],
   "geometry": {"coordinates":[[-2.337608,53.411253],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679382781,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-26",
+    "date:cessation_upper": "2018-04-26",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-26T12:26:18",
     "edtf:inception": "2018-04-26~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102531205,
     "sfomuseum:flight_id": "20180426-A-SWA-252",
     "sfomuseum:flight_number": [
-      "WN252", 
+      "WN252",
       "SWA252"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1679382781, 
-      1159157271, 
+      102087579,
+      102191575,
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679382781,
-    "wof:lastmodified": 1583185465,
+    "wof:lastmodified": 1717024496,
     "wof:name": "SWA252 (MDW-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.745903, 
+    -122.370943,
+    37.61799,
+    -87.745903,
     41.787532
   ],
   "geometry": {"coordinates":[[-87.745903,41.787532],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695869303,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-01",
+    "date:cessation_upper": "2018-11-30",
+    "date:inception_lower": "2018-11-08",
+    "date:inception_upper": "2018-11-08",
     "edtf:cessation": "2018-11-08~",
     "edtf:inception": "2018-11-08T06:25:17",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181108-D-UAL-2396",
     "sfomuseum:flight_number": [
-      "UA2396", 
+      "UA2396",
       "UAL2396"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      85922583, 
-      102191575, 
-      102527513, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      1695869303
+      85633793,
+      85922583,
+      102191575,
+      102527513,
+      85688637,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583191215,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695869303,
-    "wof:lastmodified": 1583191215,
+    "wof:lastmodified": 1717024467,
     "wof:name": "UAL2396 (SFO-BOS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -71.01475, 
+    -122.370943,
+    37.61799,
+    -71.01475,
     42.362322
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-71.01475,42.362322]],"type":"MultiPoint"}

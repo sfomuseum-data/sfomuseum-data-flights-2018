@@ -2,6 +2,10 @@
   "id": 1679015713,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-05",
+    "date:cessation_upper": "2018-03-05",
+    "date:inception_lower": "2018-03-01",
+    "date:inception_upper": "2018-03-31",
     "edtf:cessation": "2018-03-05T08:12:55",
     "edtf:inception": "2018-03-05~",
     "flysfo:airline": "AS",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102521851,
     "sfomuseum:flight_id": "20180305-A-ASA-1219",
     "sfomuseum:flight_number": [
-      "AS1219", 
+      "AS1219",
       "ASA1219"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102191575, 
-      85688637, 
-      1159157271, 
-      102527513, 
-      85633793, 
-      102087579, 
-      1679015713
+      85922583,
+      102191575,
+      85688637,
+      1159157271,
+      102527513,
+      85633793,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583184065,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679015713,
-    "wof:lastmodified": 1583184065,
+    "wof:lastmodified": 1717024486,
     "wof:name": "ASA1219 (AUS-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    30.206175, 
-    -97.643029, 
+    -122.370943,
+    30.206175,
+    -97.643029,
     37.61799
   ],
   "geometry": {"coordinates":[[-97.643029,30.206175],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1678920259,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-18",
+    "date:inception_upper": "2018-02-18",
     "edtf:cessation": "2018-02-18~",
     "edtf:inception": "2018-02-18T08:29:43",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180218-D-AAL-1281",
     "sfomuseum:flight_number": [
-      "AA1281", 
+      "AA1281",
       "AAL1281"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      85688637, 
-      102191575, 
-      102087579, 
-      1678920259, 
-      1159157271, 
-      85633793, 
+      85922583,
+      85688637,
+      102191575,
+      102087579,
+      1159157271,
+      85633793,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678920259,
-    "wof:lastmodified": 1583183699,
+    "wof:lastmodified": 1717024480,
     "wof:name": "AAL1281 (SFO-ORD)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -87.894364, 
+    -122.370943,
+    37.61799,
+    -87.894364,
     41.983038
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-87.894364,41.983038]],"type":"MultiPoint"}

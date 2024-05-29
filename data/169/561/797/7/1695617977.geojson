@@ -2,6 +2,10 @@
   "id": 1695617977,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-01",
+    "date:inception_upper": "2018-09-01",
     "edtf:cessation": "2018-09-01~",
     "edtf:inception": "2018-09-01T11:53:17",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180901-D-AAL-16",
     "sfomuseum:flight_number": [
-      "AA16", 
+      "AA16",
       "AAL16"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      1695617977, 
-      85688637, 
+      102527513,
+      102191575,
+      1159157271,
+      85633793,
+      102087579,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695617977,
-    "wof:lastmodified": 1583189436,
+    "wof:lastmodified": 1717024452,
     "wof:name": "AAL16 (SFO-JFK)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-73.787845,40.643286]],"type":"MultiPoint"}

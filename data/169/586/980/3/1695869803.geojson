@@ -2,6 +2,10 @@
   "id": 1695869803,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-08",
+    "date:cessation_upper": "2018-11-08",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-08T09:18:09",
     "edtf:inception": "2018-11-08~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102533657,
     "sfomuseum:flight_id": "20181108-A-UAL-759",
     "sfomuseum:flight_number": [
-      "UA759", 
+      "UA759",
       "UAL759"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      1159157271, 
-      102087579, 
-      85922583, 
-      85633793, 
-      102191575, 
-      102527513, 
-      1695869803
+      85688637,
+      1159157271,
+      102087579,
+      85922583,
+      85633793,
+      102191575,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583191219,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695869803,
-    "wof:lastmodified": 1583191219,
+    "wof:lastmodified": 1717024467,
     "wof:name": "UAL759 (MCO-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    28.431495, 
-    -81.307537, 
+    -122.370943,
+    28.431495,
+    -81.307537,
     37.61799
   ],
   "geometry": {"coordinates":[[-81.307537,28.431495],[-122.370943,37.61799]],"type":"MultiPoint"}

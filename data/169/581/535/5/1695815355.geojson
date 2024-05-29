@@ -2,6 +2,10 @@
   "id": 1695815355,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-10-01",
+    "date:cessation_upper": "2018-10-31",
+    "date:inception_lower": "2018-10-24",
+    "date:inception_upper": "2018-10-24",
     "edtf:cessation": "2018-10-24~",
     "edtf:inception": "2018-10-24T10:54:09",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181024-D-UAL-501",
     "sfomuseum:flight_number": [
-      "UA501", 
+      "UA501",
       "UAL501"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1695815355, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      85688637, 
-      85633793, 
+      102191575,
+      1159157271,
+      102527513,
+      85922583,
+      85688637,
+      85633793,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695815355,
-    "wof:lastmodified": 1583190844,
+    "wof:lastmodified": 1717024464,
     "wof:name": "UAL501 (SFO-CVG)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -84.657144, 
+    -122.370943,
+    37.61799,
+    -84.657144,
     39.054422
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.657144,39.054422]],"type":"MultiPoint"}

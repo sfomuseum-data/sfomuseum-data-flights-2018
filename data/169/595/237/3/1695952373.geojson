@@ -2,6 +2,10 @@
   "id": 1695952373,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-13",
+    "date:cessation_upper": "2018-12-13",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-13T14:30:56",
     "edtf:inception": "2018-12-13~",
     "flysfo:airline": "B6",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102534365,
     "sfomuseum:flight_id": "20181213-A-JBU-615",
     "sfomuseum:flight_number": [
-      "B6615", 
+      "B6615",
       "JBU615"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      102087579, 
-      1695952373, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      102191575, 
+      85688637,
+      102087579,
+      1159157271,
+      102527513,
+      85922583,
+      102191575,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695952373,
-    "wof:lastmodified": 1583192158,
+    "wof:lastmodified": 1717024471,
     "wof:name": "JBU615 (JFK-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -73.787845, 
+    -122.370943,
+    37.61799,
+    -73.787845,
     40.643286
   ],
   "geometry": {"coordinates":[[-73.787845,40.643286],[-122.370943,37.61799]],"type":"MultiPoint"}

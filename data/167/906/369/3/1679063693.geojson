@@ -2,6 +2,10 @@
   "id": 1679063693,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-03-01",
+    "date:cessation_upper": "2018-03-31",
+    "date:inception_lower": "2018-03-11",
+    "date:inception_upper": "2018-03-11",
     "edtf:cessation": "2018-03-11~",
     "edtf:inception": "2018-03-11T23:33:28",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180311-D-ASA-1759",
     "sfomuseum:flight_number": [
-      "AS1759", 
+      "AS1759",
       "ASA1759"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      85633793, 
-      1679063693, 
-      102087579, 
-      1159157271, 
-      102191575, 
+      85922583,
+      102527513,
+      85633793,
+      102087579,
+      1159157271,
+      102191575,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679063693,
-    "wof:lastmodified": 1583184260,
+    "wof:lastmodified": 1717024488,
     "wof:name": "ASA1759 (SFO-SEA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -122.304268, 
+    -122.370943,
+    37.61799,
+    -122.304268,
     47.441823
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-122.304268,47.441823]],"type":"MultiPoint"}

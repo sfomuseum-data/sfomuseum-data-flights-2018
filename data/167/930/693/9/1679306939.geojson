@@ -2,6 +2,10 @@
   "id": 1679306939,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-01",
+    "date:cessation_upper": "2018-04-30",
+    "date:inception_lower": "2018-04-10",
+    "date:inception_upper": "2018-04-10",
     "edtf:cessation": "2018-04-10~",
     "edtf:inception": "2018-04-10T23:08:00",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180410-D-UAL-1152",
     "sfomuseum:flight_number": [
-      "UA1152", 
+      "UA1152",
       "UAL1152"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1679306939, 
-      85922583, 
-      85633793, 
-      102087579, 
-      102191575, 
-      85688637, 
-      1159157271, 
+      85922583,
+      85633793,
+      102087579,
+      102191575,
+      85688637,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679306939,
-    "wof:lastmodified": 1583185002,
+    "wof:lastmodified": 1717024494,
     "wof:name": "UAL1152 (SFO-ATL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.636518, 
-    -84.430686, 
+    -122.370943,
+    33.636518,
+    -84.430686,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-84.430686,33.636518]],"type":"MultiPoint"}

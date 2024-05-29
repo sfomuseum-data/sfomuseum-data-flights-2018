@@ -2,6 +2,10 @@
   "id": 1678818129,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-31",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-31T13:31:30",
     "edtf:inception": "2018-01-31~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20180131-A-SWA-690",
     "sfomuseum:flight_number": [
-      "WN690", 
+      "WN690",
       "SWA690"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      1678818129, 
-      85688637, 
-      102527513, 
-      85633793, 
-      102087579, 
-      85922583, 
+      1159157271,
+      85688637,
+      102527513,
+      85633793,
+      102087579,
+      85922583,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678818129,
-    "wof:lastmodified": 1583183326,
+    "wof:lastmodified": 1717024452,
     "wof:name": "SWA690 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

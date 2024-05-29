@@ -2,6 +2,10 @@
   "id": 1695983595,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-30",
+    "date:cessation_upper": "2018-12-30",
+    "date:inception_lower": "2018-12-01",
+    "date:inception_upper": "2018-12-31",
     "edtf:cessation": "2018-12-30T21:02:25",
     "edtf:inception": "2018-12-30~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102536481,
     "sfomuseum:flight_id": "20181230-A-UAL-1568",
     "sfomuseum:flight_number": [
-      "UA1568", 
+      "UA1568",
       "UAL1568"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      102191575, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      85688637, 
-      102527513, 
-      1695983595
+      102087579,
+      102191575,
+      85922583,
+      1159157271,
+      85633793,
+      85688637,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583192648,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695983595,
-    "wof:lastmodified": 1583192648,
+    "wof:lastmodified": 1717024473,
     "wof:name": "UAL1568 (PVR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    20.660734, 
-    -105.250456, 
+    -122.370943,
+    20.660734,
+    -105.250456,
     37.61799
   ],
   "geometry": {"coordinates":[[-105.250456,20.660734],[-122.370943,37.61799]],"type":"MultiPoint"}

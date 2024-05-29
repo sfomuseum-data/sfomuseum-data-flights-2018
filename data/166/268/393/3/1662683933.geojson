@@ -2,6 +2,10 @@
   "id": 1662683933,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-03",
+    "date:cessation_upper": "2018-11-03",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-03T14:21:58",
     "edtf:inception": "2018-11-03~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102525799,
     "sfomuseum:flight_id": "20181103-A-SWA-3183",
     "sfomuseum:flight_number": [
-      "WN3183", 
+      "WN3183",
       "SWA3183"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662683933, 
-      102191575, 
-      85922583, 
-      85688637, 
-      85633793, 
-      102087579, 
-      1159157271, 
+      102191575,
+      85922583,
+      85688637,
+      85633793,
+      102087579,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662683933,
-    "wof:lastmodified": 1583191101,
+    "wof:lastmodified": 1717024476,
     "wof:name": "SWA3183 (DAL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.845849, 
-    -96.850523, 
+    -122.370943,
+    32.845849,
+    -96.850523,
     37.61799
   ],
   "geometry": {"coordinates":[[-96.850523,32.845849],[-122.370943,37.61799]],"type":"MultiPoint"}

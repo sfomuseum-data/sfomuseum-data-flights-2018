@@ -2,6 +2,10 @@
   "id": 1679795889,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-09",
+    "date:cessation_upper": "2018-08-09",
+    "date:inception_lower": "2018-08-01",
+    "date:inception_upper": "2018-08-31",
     "edtf:cessation": "2018-08-09T13:48:16",
     "edtf:inception": "2018-08-09~",
     "flysfo:airline": "WS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102554947,
     "sfomuseum:flight_id": "20180809-A-WJA-1508",
     "sfomuseum:flight_number": [
-      "WS1508", 
+      "WS1508",
       "WJA1508"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      1159157271, 
-      102191575, 
-      102087579, 
-      1679795889, 
-      85633793, 
-      85688637, 
+      102527513,
+      1159157271,
+      102191575,
+      102087579,
+      85633793,
+      85688637,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679795889,
-    "wof:lastmodified": 1583188824,
+    "wof:lastmodified": 1717024518,
     "wof:name": "WJA1508 (YYC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -114.02092, 
+    -122.370943,
+    37.61799,
+    -114.02092,
     51.119526
   ],
   "geometry": {"coordinates":[[-114.02092,51.119526],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662572147,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-01",
+    "date:cessation_upper": "2018-01-31",
+    "date:inception_lower": "2018-01-08",
+    "date:inception_upper": "2018-01-08",
     "edtf:cessation": "2018-01-08~",
     "edtf:inception": "2018-01-08T21:10:34",
     "flysfo:airline": "F9",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180108-D-FFT-1124",
     "sfomuseum:flight_number": [
-      "F91124", 
+      "F91124",
       "FFT1124"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102191575, 
-      85688637, 
-      85922583, 
-      102087579, 
-      1662572147, 
-      102527513, 
+      1159157271,
+      102191575,
+      85688637,
+      85922583,
+      102087579,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662572147,
-    "wof:lastmodified": 1583182982,
+    "wof:lastmodified": 1717024476,
     "wof:name": "FFT1124 (SFO-LAS)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    36.081003, 
-    -115.15644, 
+    -122.370943,
+    36.081003,
+    -115.15644,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-115.15644,36.081003]],"type":"MultiPoint"}

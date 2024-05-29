@@ -2,6 +2,10 @@
   "id": 1679248519,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-04",
+    "date:cessation_upper": "2018-04-04",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-04T12:04:12",
     "edtf:inception": "2018-04-04~",
     "flysfo:airline": "DL",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527363,
     "sfomuseum:flight_id": "20180404-A-DAL-522",
     "sfomuseum:flight_number": [
-      "DL522", 
+      "DL522",
       "DAL522"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      102191575, 
-      85633793, 
-      85922583, 
-      1159157271, 
-      85688637, 
-      102087579, 
-      1679248519
+      102527513,
+      102191575,
+      85633793,
+      85922583,
+      1159157271,
+      85688637,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583184880,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679248519,
-    "wof:lastmodified": 1583184880,
+    "wof:lastmodified": 1717024494,
     "wof:name": "DAL522 (SLC-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -111.980566, 
+    -122.370943,
+    37.61799,
+    -111.980566,
     40.78217
   ],
   "geometry": {"coordinates":[[-111.980566,40.78217],[-122.370943,37.61799]],"type":"MultiPoint"}

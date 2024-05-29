@@ -2,6 +2,10 @@
   "id": 1679712375,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-19",
+    "date:cessation_upper": "2018-07-19",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-19T21:23:47",
     "edtf:inception": "2018-07-19~",
     "flysfo:airline": "UA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102530049,
     "sfomuseum:flight_id": "20180719-A-UAL-1885",
     "sfomuseum:flight_number": [
-      "UA1885", 
+      "UA1885",
       "UAL1885"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      1679712375, 
-      85688637, 
-      102191575, 
-      102087579, 
-      85922583, 
+      85633793,
+      102527513,
+      85688637,
+      102191575,
+      102087579,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679712375,
-    "wof:lastmodified": 1583188262,
+    "wof:lastmodified": 1717024512,
     "wof:name": "UAL1885 (EWR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -74.177526, 
+    -122.370943,
+    37.61799,
+    -74.177526,
     40.691243
   ],
   "geometry": {"coordinates":[[-74.177526,40.691243],[-122.370943,37.61799]],"type":"MultiPoint"}

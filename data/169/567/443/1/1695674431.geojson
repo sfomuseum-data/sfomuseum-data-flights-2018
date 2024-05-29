@@ -2,6 +2,10 @@
   "id": 1695674431,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-17",
+    "date:inception_upper": "2018-09-17",
     "edtf:cessation": "2018-09-17~",
     "edtf:inception": "2018-09-17T06:24:29",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180917-D-AAL-1198",
     "sfomuseum:flight_number": [
-      "AA1198", 
+      "AA1198",
       "AAL1198"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      1159157271, 
-      102527513, 
-      85922583, 
-      102191575, 
-      102087579, 
-      1695674431
+      85688637,
+      85633793,
+      1159157271,
+      102527513,
+      85922583,
+      102191575,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583189817,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695674431,
-    "wof:lastmodified": 1583189817,
+    "wof:lastmodified": 1717024455,
     "wof:name": "AAL1198 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

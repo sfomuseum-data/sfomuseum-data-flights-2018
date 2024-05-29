@@ -2,6 +2,10 @@
   "id": 1679471635,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-19",
+    "date:cessation_upper": "2018-05-19",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-19T18:51:11",
     "edtf:inception": "2018-05-19~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102536441,
     "sfomuseum:flight_id": "20180519-A-ASA-1279",
     "sfomuseum:flight_number": [
-      "AS1279", 
+      "AS1279",
       "ASA1279"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102527513, 
-      85633793, 
-      85922583, 
-      85688637, 
-      1159157271, 
-      102087579, 
-      1679471635, 
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      1159157271,
+      102087579,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679471635,
-    "wof:lastmodified": 1583186650,
+    "wof:lastmodified": 1717024501,
     "wof:name": "ASA1279 (SJD-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    23.160962, 
-    -109.717461, 
+    -122.370943,
+    23.160962,
+    -109.717461,
     37.61799
   ],
   "geometry": {"coordinates":[[-109.717461,23.160962],[-122.370943,37.61799]],"type":"MultiPoint"}

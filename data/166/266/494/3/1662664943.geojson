@@ -2,6 +2,10 @@
   "id": 1662664943,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-09-01",
+    "date:cessation_upper": "2018-09-30",
+    "date:inception_lower": "2018-09-14",
+    "date:inception_upper": "2018-09-14",
     "edtf:cessation": "2018-09-14~",
     "edtf:inception": "2018-09-14T01:51:54",
     "flysfo:airline": "TA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180914-D-TAI-561",
     "sfomuseum:flight_number": [
-      "TA561", 
+      "TA561",
       "TAI561"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1662664943, 
-      85922583, 
-      1159157271, 
-      85633793, 
-      102087579, 
-      85688637, 
-      102527513, 
+      85922583,
+      1159157271,
+      85633793,
+      102087579,
+      85688637,
+      102527513,
       102191575
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662664943,
-    "wof:lastmodified": 1583189744,
+    "wof:lastmodified": 1717024473,
     "wof:name": "TAI561 (SFO-SAL)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    13.444749, 
-    -89.058566, 
+    -122.370943,
+    13.444749,
+    -89.058566,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-89.058566,13.444749]],"type":"MultiPoint"}

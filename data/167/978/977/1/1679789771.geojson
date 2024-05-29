@@ -2,6 +2,10 @@
   "id": 1679789771,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-08-01",
+    "date:cessation_upper": "2018-08-31",
+    "date:inception_lower": "2018-08-08",
+    "date:inception_upper": "2018-08-08",
     "edtf:cessation": "2018-08-08~",
     "edtf:inception": "2018-08-08T01:28:36",
     "flysfo:airline": "AA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180808-D-AAL-1004",
     "sfomuseum:flight_number": [
-      "AA1004", 
+      "AA1004",
       "AAL1004"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      102527513, 
-      102191575, 
-      102087579, 
-      85688637, 
-      85633793, 
-      1159157271, 
-      1679789771
+      85922583,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
+      1159157271
     ],
     "wof:country": "US",
     "wof:created": 1583188786,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679789771,
-    "wof:lastmodified": 1583188786,
+    "wof:lastmodified": 1717024520,
     "wof:name": "AAL1004 (SFO-DFW)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.90366, 
-    -97.050966, 
+    -122.370943,
+    32.90366,
+    -97.050966,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-97.050966,32.90366]],"type":"MultiPoint"}

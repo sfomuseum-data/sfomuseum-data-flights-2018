@@ -2,6 +2,10 @@
   "id": 1679256543,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-05",
+    "date:cessation_upper": "2018-04-05",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-05T09:52:59",
     "edtf:inception": "2018-04-05~",
     "flysfo:airline": "DL",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180405-A-DAL-2993",
     "sfomuseum:flight_number": [
-      "DL2993", 
+      "DL2993",
       "DAL2993"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1679256543, 
-      85633793, 
-      102087579, 
-      85688637, 
-      85922583, 
-      1159157271, 
+      102191575,
+      85633793,
+      102087579,
+      85688637,
+      85922583,
+      1159157271,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679256543,
-    "wof:lastmodified": 1583184896,
+    "wof:lastmodified": 1717024494,
     "wof:name": "DAL2993 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1662579197,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-30",
+    "date:cessation_upper": "2018-01-30",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-30T07:28:38",
     "edtf:inception": "2018-01-30~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102532251,
     "sfomuseum:flight_id": "20180130-A-UAL-1038",
     "sfomuseum:flight_number": [
-      "UA1038", 
+      "UA1038",
       "UAL1038"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85922583, 
-      85688637, 
-      102527513, 
-      102087579, 
-      1159157271, 
-      85633793, 
-      1662579197
+      102191575,
+      85922583,
+      85688637,
+      102527513,
+      102087579,
+      1159157271,
+      85633793
     ],
     "wof:country": "US",
     "wof:created": 1583183301,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1662579197,
-    "wof:lastmodified": 1583183301,
+    "wof:lastmodified": 1717024479,
     "wof:name": "UAL1038 (PDX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.597389, 
-    37.61799, 
-    -122.370943, 
+    -122.597389,
+    37.61799,
+    -122.370943,
     45.586144
   ],
   "geometry": {"coordinates":[[-122.597389,45.586144],[-122.370943,37.61799]],"type":"MultiPoint"}

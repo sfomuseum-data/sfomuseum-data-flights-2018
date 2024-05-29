@@ -2,6 +2,10 @@
   "id": 1678901753,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-01",
+    "date:cessation_upper": "2018-02-28",
+    "date:inception_lower": "2018-02-14",
+    "date:inception_upper": "2018-02-14",
     "edtf:cessation": "2018-02-14~",
     "edtf:inception": "2018-02-14T18:26:37",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180214-D-SWA-6073",
     "sfomuseum:flight_number": [
-      "WN6073", 
+      "WN6073",
       "SWA6073"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85688637, 
-      85633793, 
-      1678901753, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      102191575, 
+      85688637,
+      85633793,
+      85922583,
+      1159157271,
+      102527513,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678901753,
-    "wof:lastmodified": 1583183615,
+    "wof:lastmodified": 1717024471,
     "wof:name": "SWA6073 (SFO-BUR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-118.353322,34.196704]],"type":"MultiPoint"}

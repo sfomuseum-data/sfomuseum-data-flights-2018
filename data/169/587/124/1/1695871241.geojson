@@ -61,10 +61,13 @@
       }
     ],
     "wof:id": 1695871241,
-    "wof:lastmodified": 1658880157,
+    "wof:lastmodified": 1717024466,
     "wof:name": "THY79K (IST-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []

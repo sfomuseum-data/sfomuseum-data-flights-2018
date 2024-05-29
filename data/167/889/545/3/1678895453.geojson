@@ -2,6 +2,10 @@
   "id": 1678895453,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-02-13",
+    "date:cessation_upper": "2018-02-13",
+    "date:inception_lower": "2018-02-01",
+    "date:inception_upper": "2018-02-28",
     "edtf:cessation": "2018-02-13T17:43:56",
     "edtf:inception": "2018-02-13~",
     "flysfo:airline": "PR",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102553219,
     "sfomuseum:flight_id": "20180213-A-PAL-104",
     "sfomuseum:flight_number": [
-      "PR104", 
+      "PR104",
       "PAL104"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      85688637, 
-      85633793, 
-      1678895453, 
-      102527513, 
-      102087579, 
-      85922583, 
+      102191575,
+      85688637,
+      85633793,
+      102527513,
+      102087579,
+      85922583,
       1159157271
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678895453,
-    "wof:lastmodified": 1583183592,
+    "wof:lastmodified": 1717024470,
     "wof:name": "PAL104 (MNL-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    14.517768, 
-    121.015152, 
+    -122.370943,
+    14.517768,
+    121.015152,
     37.61799
   ],
   "geometry": {"coordinates":[[121.015152,14.517768],[-122.370943,37.61799]],"type":"MultiPoint"}

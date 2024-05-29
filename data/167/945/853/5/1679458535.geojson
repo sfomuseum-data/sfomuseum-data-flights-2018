@@ -2,6 +2,10 @@
   "id": 1679458535,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-16",
+    "date:cessation_upper": "2018-05-16",
+    "date:inception_lower": "2018-05-01",
+    "date:inception_upper": "2018-05-31",
     "edtf:cessation": "2018-05-16T09:30:48",
     "edtf:inception": "2018-05-16~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102532771,
     "sfomuseum:flight_id": "20180516-A-SWA-1587",
     "sfomuseum:flight_number": [
-      "WN1587", 
+      "WN1587",
       "SWA1587"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102087579, 
-      1159157271, 
-      85633793, 
-      102191575, 
-      1679458535, 
-      85922583, 
-      85688637, 
+      102087579,
+      1159157271,
+      85633793,
+      102191575,
+      85922583,
+      85688637,
       102527513
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679458535,
-    "wof:lastmodified": 1583186570,
+    "wof:lastmodified": 1717024504,
     "wof:name": "SWA1587 (BUR-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    34.196704, 
-    -118.353322, 
+    -122.370943,
+    34.196704,
+    -118.353322,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.353322,34.196704],[-122.370943,37.61799]],"type":"MultiPoint"}

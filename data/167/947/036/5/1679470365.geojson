@@ -2,6 +2,10 @@
   "id": 1679470365,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-05-01",
+    "date:cessation_upper": "2018-05-31",
+    "date:inception_lower": "2018-05-19",
+    "date:inception_upper": "2018-05-19",
     "edtf:cessation": "2018-05-19~",
     "edtf:inception": "2018-05-19T11:26:19",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20180519-D-UAL-694",
     "sfomuseum:flight_number": [
-      "UA694", 
+      "UA694",
       "UAL694"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102087579, 
-      85688637, 
-      102191575, 
-      85922583, 
-      1159157271, 
-      102527513, 
-      1679470365
+      85633793,
+      102087579,
+      85688637,
+      102191575,
+      85922583,
+      1159157271,
+      102527513
     ],
     "wof:country": "US",
     "wof:created": 1583186642,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679470365,
-    "wof:lastmodified": 1583186642,
+    "wof:lastmodified": 1717024500,
     "wof:name": "UAL694 (SFO-KOA)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -156.03506, 
-    19.732444, 
-    -122.370943, 
+    -156.03506,
+    19.732444,
+    -122.370943,
     37.61799
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-156.03506,19.732444]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1679642597,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-07-02",
+    "date:cessation_upper": "2018-07-02",
+    "date:inception_lower": "2018-07-01",
+    "date:inception_upper": "2018-07-31",
     "edtf:cessation": "2018-07-02T11:39:46",
     "edtf:inception": "2018-07-02~",
     "flysfo:airline": "WN",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533795,
     "sfomuseum:flight_id": "20180702-A-SWA-1063",
     "sfomuseum:flight_number": [
-      "WN1063", 
+      "WN1063",
       "SWA1063"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      85633793, 
-      1679642597, 
-      85922583, 
-      85688637, 
-      102191575, 
+      1159157271,
+      102527513,
+      85633793,
+      85922583,
+      85688637,
+      102191575,
       102087579
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679642597,
-    "wof:lastmodified": 1583187785,
+    "wof:lastmodified": 1717024511,
     "wof:name": "SWA1063 (LAX-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.942593, 
-    -118.38951, 
+    -122.370943,
+    33.942593,
+    -118.38951,
     37.61799
   ],
   "geometry": {"coordinates":[[-118.38951,33.942593],[-122.370943,37.61799]],"type":"MultiPoint"}

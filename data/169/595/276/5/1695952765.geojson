@@ -2,6 +2,10 @@
   "id": 1695952765,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-12-01",
+    "date:cessation_upper": "2018-12-31",
+    "date:inception_lower": "2018-12-13",
+    "date:inception_upper": "2018-12-13",
     "edtf:cessation": "2018-12-13~",
     "edtf:inception": "2018-12-13T18:52:32",
     "flysfo:airline": "VS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102527513,
     "sfomuseum:flight_id": "20181213-D-VIR-20V",
     "sfomuseum:flight_number": [
-      "VS20V", 
+      "VS20V",
       "VIR20V"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85922583, 
-      1159157271, 
-      1695952765, 
-      102191575, 
-      102527513, 
-      85633793, 
-      102087579, 
+      85922583,
+      1159157271,
+      102191575,
+      102527513,
+      85633793,
+      102087579,
       85688637
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695952765,
-    "wof:lastmodified": 1583192165,
+    "wof:lastmodified": 1717024472,
     "wof:name": "VIR20V (SFO-LHR)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    37.61799, 
-    -0.450443, 
+    -122.370943,
+    37.61799,
+    -0.450443,
     51.470087
   ],
   "geometry": {"coordinates":[[-122.370943,37.61799],[-0.450443,51.470087]],"type":"MultiPoint"}

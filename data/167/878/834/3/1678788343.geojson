@@ -2,6 +2,10 @@
   "id": 1678788343,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-01-25",
+    "date:cessation_upper": "2018-01-25",
+    "date:inception_lower": "2018-01-01",
+    "date:inception_upper": "2018-01-31",
     "edtf:cessation": "2018-01-25T23:18:01",
     "edtf:inception": "2018-01-25~",
     "flysfo:airline": "AA",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102528659,
     "sfomuseum:flight_id": "20180125-A-AAL-661",
     "sfomuseum:flight_number": [
-      "AA661", 
+      "AA661",
       "AAL661"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      1159157271, 
-      102527513, 
-      102191575, 
-      102087579, 
-      1678788343, 
-      85688637, 
-      85633793, 
+      1159157271,
+      102527513,
+      102191575,
+      102087579,
+      85688637,
+      85633793,
       85922583
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1678788343,
-    "wof:lastmodified": 1583183235,
+    "wof:lastmodified": 1717024479,
     "wof:name": "AAL661 (CLT-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    35.220744, 
-    -80.942777, 
+    -122.370943,
+    35.220744,
+    -80.942777,
     37.61799
   ],
   "geometry": {"coordinates":[[-80.942777,35.220744],[-122.370943,37.61799]],"type":"MultiPoint"}

@@ -2,6 +2,10 @@
   "id": 1695913679,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-11-20",
+    "date:cessation_upper": "2018-11-20",
+    "date:inception_lower": "2018-11-01",
+    "date:inception_upper": "2018-11-30",
     "edtf:cessation": "2018-11-20T19:58:33",
     "edtf:inception": "2018-11-20~",
     "flysfo:airline": "AS",
@@ -23,19 +27,18 @@
     "sfomuseum:departure_id": 102533591,
     "sfomuseum:flight_id": "20181120-A-ASA-1595",
     "sfomuseum:flight_number": [
-      "AS1595", 
+      "AS1595",
       "ASA1595"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      102191575, 
-      1695913679, 
-      85922583, 
-      85688637, 
-      102087579, 
-      1159157271, 
-      102527513, 
+      102191575,
+      85922583,
+      85688637,
+      102087579,
+      1159157271,
+      102527513,
       85633793
     ],
     "wof:country": "US",
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1695913679,
-    "wof:lastmodified": 1583191576,
+    "wof:lastmodified": 1717024469,
     "wof:name": "ASA1595 (PSP-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    33.824619, 
-    -116.506042, 
+    -122.370943,
+    33.824619,
+    -116.506042,
     37.61799
   ],
   "geometry": {"coordinates":[[-116.506042,33.824619],[-122.370943,37.61799]],"type":"MultiPoint"}

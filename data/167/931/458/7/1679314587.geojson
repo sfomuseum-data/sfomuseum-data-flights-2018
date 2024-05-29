@@ -2,6 +2,10 @@
   "id": 1679314587,
   "type": "Feature",
   "properties": {
+    "date:cessation_lower": "2018-04-11",
+    "date:cessation_upper": "2018-04-11",
+    "date:inception_lower": "2018-04-01",
+    "date:inception_upper": "2018-04-30",
     "edtf:cessation": "2018-04-11T17:59:41",
     "edtf:inception": "2018-04-11~",
     "flysfo:airline": "UA",
@@ -23,20 +27,19 @@
     "sfomuseum:departure_id": 102528997,
     "sfomuseum:flight_id": "20180411-A-UAL-2016",
     "sfomuseum:flight_number": [
-      "UA2016", 
+      "UA2016",
       "UAL2016"
     ],
     "sfomuseum:placetype": "flight",
     "src:geom": "sfonoise",
     "wof:belongsto": [
-      85633793, 
-      102527513, 
-      102191575, 
-      85688637, 
-      85922583, 
-      1159157271, 
-      102087579, 
-      1679314587
+      85633793,
+      102527513,
+      102191575,
+      85688637,
+      85922583,
+      1159157271,
+      102087579
     ],
     "wof:country": "US",
     "wof:created": 1583185017,
@@ -58,18 +61,21 @@
       }
     ],
     "wof:id": 1679314587,
-    "wof:lastmodified": 1583185017,
+    "wof:lastmodified": 1717024494,
     "wof:name": "UAL2016 (SAN-SFO)",
     "wof:parent_id": -1,
     "wof:placetype": "event",
+    "wof:placetype_alt": [
+      "flight"
+    ],
     "wof:repo": "sfomuseum-data-flights-2018",
     "wof:superseded_by": [],
     "wof:supersedes": []
   },
   "bbox": [
-    -122.370943, 
-    32.733534, 
-    -117.185927, 
+    -122.370943,
+    32.733534,
+    -117.185927,
     37.61799
   ],
   "geometry": {"coordinates":[[-117.185927,32.733534],[-122.370943,37.61799]],"type":"MultiPoint"}
